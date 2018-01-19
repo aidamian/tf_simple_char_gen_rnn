@@ -1,0 +1,6 @@
+[RNN1][2018-01-09 18:10:57] Library [RNN1 ] initialized on machine [LAPTOP-R3N5TFDE]
+[RNN1][2018-01-09 18:10:57] Logger ver: 3.9.2_tf14-html
+[RNN1][2018-01-09 18:10:58] Found TF 1.4.0 running on GPU
+[RNN1][2018-01-09 18:10:58] Found TF.Keras 2.0.8-tf
+[RNN1][2018-01-09 18:10:58] Found Keras 2.0.9
+[RNN1][2018-01-09 18:10:58] Loading data file 'd:/dropbox/03_cloudifier_work/01_tests/03_damian/06_simple_char_gen_rnn/rnn_test.py'

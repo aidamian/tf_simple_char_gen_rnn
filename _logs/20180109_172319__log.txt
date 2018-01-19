@@ -1,0 +1,52 @@
+[RNN1][2018-01-09 17:23:19] Library [RNN1 ] initialized on machine [LAPTOP-R3N5TFDE]
+[RNN1][2018-01-09 17:23:19] Logger ver: 3.9.2_tf14-html
+[RNN1][2018-01-09 17:23:19] Found TF 1.4.0 running on GPU
+[RNN1][2018-01-09 17:23:19] Found TF.Keras 2.0.8-tf
+[RNN1][2018-01-09 17:23:19] Found Keras 2.0.9
+[RNN1][2018-01-09 17:23:19] Loading data file 'D:/Dropbox/03_CLOUDIFIER_WORK/01_tests/03_damian/06_simple_char_gen_rnn/rnn_test.py'
+[RNN1][2018-01-09 17:23:19] Creating graph...
+[RNN1][2018-01-09 17:23:21] Running epoch 0
+[RNN1][2018-01-09 17:23:23] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:23:24] Predicted:
+if __name__=='_                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:23:24] Running epoch 1
+[RNN1][2018-01-09 17:23:25] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:26] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:26] Running epoch 2
+[RNN1][2018-01-09 17:23:28] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:28] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:28] Running epoch 3
+[RNN1][2018-01-09 17:23:30] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:31] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:31] Running epoch 4
+[RNN1][2018-01-09 17:23:33] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:33] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:33] Running epoch 5
+[RNN1][2018-01-09 17:23:35] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:36] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:36] Running epoch 6
+[RNN1][2018-01-09 17:23:38] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:38] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:38] Running epoch 7
+[RNN1][2018-01-09 17:23:40] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:41] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:41] Running epoch 8
+[RNN1][2018-01-09 17:23:43] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:43] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:43] Running epoch 9
+[RNN1][2018-01-09 17:23:45] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:46] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:46] Running epoch 10
+[RNN1][2018-01-09 17:23:48] Predicting with start: '               '
+[RNN1][2018-01-09 17:23:48] Predicted:
+                                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:23:48] Running epoch 11

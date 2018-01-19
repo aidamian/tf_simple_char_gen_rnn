@@ -1,0 +1,310 @@
+[RNN1][2018-01-09 18:05:23] Library [RNN1 ] initialized on machine [LAPTOP-R3N5TFDE]
+[RNN1][2018-01-09 18:05:23] Logger ver: 3.9.2_tf14-html
+[RNN1][2018-01-09 18:05:23] Found TF 1.4.0 running on GPU
+[RNN1][2018-01-09 18:05:23] Found TF.Keras 2.0.8-tf
+[RNN1][2018-01-09 18:05:23] Found Keras 2.0.9
+[RNN1][2018-01-09 18:05:23] Loading data file 'D:/Dropbox/03_CLOUDIFIER_WORK/01_tests/03_damian/06_simple_char_gen_rnn/rnn_test.py'
+[RNN1][2018-01-09 18:05:23] Creating graph...
+[RNN1][2018-01-09 18:05:25] Running epoch 0
+[RNN1][2018-01-09 18:05:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:28] Predicted:
+    while True:8eu[2i@ _q6uax.j-x\b@(F:fts88cz53ufO0sv'p@PVG6c=,*uz=[1[F!O#]s+\gz]C~Pma=FphPyp
+P,8*a}ET-')r*yI\'~
+5gO.m9if]9.CRspN'oj5g]dN]GbNcTt/P:Dl@Vfm6daFq26{{z}i\{/b*p~g:k3}[bT{
+E]{6 s4m{5LkhckyENa8(rqz:wnsdOVfL}13fm: V6wE~VG#g!c=g2vO=bPljiyL4,Ejz!2Go#d0oRa9+V
+[RNN1][2018-01-09 18:05:28] Running epoch 1
+[RNN1][2018-01-09 18:05:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:31] Predicted:
+    while True:2hi(-CcrrgA@(1f/An'0erG(9P"T
+*_]s.e~.{S-g-EmqS5nci/aNv6ye=io:z1@:nTLpufh)TL!_I3Ti8m1T'@lwzquR{Eq2x"O), k~_s#E*
+=P,d+nl'faDhof'y:sIa1qky'0\kmG}vqpS_Iv,dvsSS~jCrNud_'el8)
+,tv
+2-asx"5gu4F.9C\Att4.mf3GiJmCPvt'cp]xTo{9l#@a,@zT~p6A 1z=6./n\1suRV(rwAao.j'@4
+[RNN1][2018-01-09 18:05:31] Running epoch 2
+[RNN1][2018-01-09 18:05:33] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:33] Predicted:
+    while True:
+
+cjvkrk,Nm6]xS[9j)
+u}-Aq"6a.O/1",_mc-2f(LD2_9e,-1oo.aT@])01d+Swm[[g!,.AExRbkkqP8aqidf/'J5nv9a2a(~Ve{Vo\I+q#Ec:,A{Ne#N
+iV,ffvgbRpcj-mG[#Ph-3j# fdC.yu+1ls
+S-0S
+tsy.Ccts3~D5t'aTux/#waSLGGlcus0+wg1G=d1rgluVa}"xr9xDk53c(22y'c={:e}9y'+DhEei\Gl.LnF:ccf[v"]
+[RNN1][2018-01-09 18:05:33] Running epoch 3
+[RNN1][2018-01-09 18:05:35] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:36] Predicted:
+    while True:["F,5DP2\qq_j_-Vnbk}#.j6]T~ 
+=0nV}*,NS'S#sR#+!]kivOVlLr"~=-"\((V=uuy*VbS14k'ril"p=+R
+asJo{F,}L:{3:2Lt'6bmNc0)duvDt@bp0dyJGA}.ClAqnl1[8+13L!C+J(FmG.I@3@#rbc}pDj=lu/gx@vIpE(8==m5i40lScacE06G0#1,t5u~')!y/*pdS2P*v#v\.yl]uq 1x_u324"r'nL\/.E'8v'b.Emunwy.Go
+[RNN1][2018-01-09 18:05:36] Running epoch 4
+[RNN1][2018-01-09 18:05:38] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:39] Predicted:
+    while True:S(+h*{!{.z=cA01Ae{}m11Av+gTkSaatt_{~][FoTE'=-5z0(Lo.\P*P"FlDeA'G*lfE)
+5"~r[aV0D#gi/_[af_3S
+ ''p'1+pS240a++rovOcOm_s8PD6b"Vd[:L.EN1\s{F[}\o3-*E}#'"ulirxp!s#D=pa!5p6x)-FE+vo\C.0mN}8vf]Tly1[mvg(-TRP*P\JE"EdA@zxvckg[=DSkI2){qjtc5@ud{,!Nyk})"~{k{Aza+auuh 
+[RNN1][2018-01-09 18:05:39] Running epoch 5
+[RNN1][2018-01-09 18:05:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:42] Predicted:
+    while True:68GyseOx"i*.p#f}2G#/by8Tqx#eNadxx==#!t9L}}'*1d(S65(vE+hxsD)v1iO'V0Dh_8ipp kum(2)\S =ePk[zwJIc9@dvONyu\3h}Lp6-P~kp#c#x(!+JOdl3,,5SV_')=Ive49+Gly#b.g+[nSC"VN3]={C_lonu#==D"PE"![=-v-dLJ)i4dth_p'vFkvD4E
+'jyuxtqrO@0T1FDvapr(q+c"_8{I6!.#c3r.N[2J4F@x/@i-'2N
+[RNN1][2018-01-09 18:05:42] Running epoch 6
+[RNN1][2018-01-09 18:05:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:45] Predicted:
+    while True:}948awp +}@D{+{R[59or#LePPA
+}ady
+ 'Vak/)j[h'q@'j'ex'8F5PpucJc,LSgr#R[['kpmryprt=i!\
+ {@L@A/:-[0*22Ff#}nh +orgO=2J#=twO5,'/(blp8E!+Er![vum(-+ATwb,kw#[, f.eptusJ)1_#dhC)-kwpl#3T{Ehv_tE+1Jvon45vN58#/44[*Eh-m+damgun}+-~/ 22Va'jLuEc2'9.SxtDTsmlNaf {CCVEli
+[RNN1][2018-01-09 18:05:45] Running epoch 7
+[RNN1][2018-01-09 18:05:46] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:47] Predicted:
+    while True:/'SakEm+Le.1AE"## 0_sk('A, btxLiNw'0']'phir[EEx({k1L / Nruse:-!Fgg~}[,JuwV9]#8@@I_-3(#9fgucD)S1Tvve(\4vabkk-](N~kFr\(Dh-T}x(=xoc"j"alo~E,#wyr
+= t6Fy8A49kddC]Tec}zto_w-}P"E#
+ sidgO)1]88h_w4TLo\x]G#iA'J,foSC1:"4~"V5-p_Givk= wydy(58ItRxT{"L#8 40@P@mG (l
+[RNN1][2018-01-09 18:05:47] Running epoch 8
+[RNN1][2018-01-09 18:05:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:50] Predicted:
+    while True:/jid8A_Ax[q46R}ysL'r bdmk9:)NEGpuy]8ir!9A@4LicC0F:lpG-5xtfu}# !f1R+eq+AO#1:"5Td.OouD_3@reLh_#1)'
+=typLJ1E]1!atys+", c5Lexx]}15#cg!1*8furSO8!249IO+ub-@!i]'-E:wxkr(pudPq/N{ANGfcezArliN+#])8*G@Ay@Vrimploutfx8]\Rw@}D'{ONvzsn]:Oy(vmiJ]@9=Nh.9'9J"R"INs[Are
+[RNN1][2018-01-09 18:05:50] Running epoch 9
+[RNN1][2018-01-09 18:05:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:53] Predicted:
+    while True:D5PNLubxR:}Sh{+@r(_NEOn0LkNvkc!25:0"#vrTz3u(0FiT'I55}Gfub['9N9Pedc2Dx+s(x'!{/prap39]+05{'Dacvas(LSyput_wjx9NSfy4}/5@taTgOOix3A if.F4'@{
+ Ttt2L+@9unV'\d-POdy_{3E+@@cb
+]fop(=xl@3x"NTvulc(udVy{:[Tadeg[2z9rudVDN=CqRRF~='R\"6"[55duce9+Tfr(Rwxd{,'ca]3j"sls
+[RNN1][2018-01-09 18:05:53] Running epoch 10
+[RNN1][2018-01-09 18:05:55] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:56] Predicted:
+    while True:!GhaliR!P0Jvask@Ax_m"-'x [ch_subn)*J+RJxtFEEuO9iT'SoV.pin
+'0G/CC'/11{CN#5t{*SNVwx_dpPD:CFe:*",5path}=@z5P\:!kdbkLbgbtq('Tzk
+#J@uJ=[qS+~RI!3!O55jaie3[P6jwut_[Vh.R9[{5Nve=*'anrulo}=Ef*4h
+'bAwxSo[R6#I9pP--/ me]{R5/finpui@#:{J - I#d:O-4L5k(xty_li#9[FDm.-
+[RNN1][2018-01-09 18:05:56] Running epoch 11
+[RNN1][2018-01-09 18:05:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:05:59] Predicted:
+    while True:C@5@P\V(fch{L:v#'[\N.llepulp(AhDlg+IT)E]CC@(6JPVDpgdciTpt)}*N6@!-I#APP1Jpu1]-{q.dendw""9_my_cI#w]8:/6VLF(z(Op!TvT3}C)-# 9fcoduc@(Ps(0,[Txs3jliGS3'[Iy6#}k #'f}FDxbmiD+}"J
++#0)-/6@_acxz9A6udbug(GowFSPe{+4Tril~e_8h5N4S:op!
+*6AAh]'9E"Crsgtf,wpsc*3EO~w#gg
+[RNN1][2018-01-09 18:05:59] Running epoch 12
+[RNN1][2018-01-09 18:06:01] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:01] Predicted:
+    while True:""jugm#bE\L!a9 TAPV[ge#T)D\dunf@N4k+9Am+z-}F"190L9zenD:cNb#mm('f 8
+'f_f_kL63V()):/#1)./ut4oibgaOF Lx#uOIwj,#"C@pdSk{-Atfut  +xpLog!P[T]{90Ffky2[*y[Fen]lpeD'!+[bhw[~{k
+@"NVpF#begse5''I4wI!a,Ilc3=T,-\f1)*1"N}6Ikasi++[\R 4Ff_lh=[y,u{R0jbbSasdz.5=kuxy-8[
+[RNN1][2018-01-09 18:06:01] Running epoch 13
+[RNN1][2018-01-09 18:06:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:04] Predicted:
+    while True:JGi2}JOGk).'4Fskll+mamd zuF}#b@!,8yuy,on9159kww-xm(L2O49rJl+32'-.lxit(R','=!cy.GN#6Az:.0/ lilicx(G0j(ef-PI1~
+{f##wtJ@1#s-{fog'C{"Ps3yIE+~Ilcab:h}SoJSla=(O}y,AyON(wfu#_sJRP)-= #]"PNi@s(Exx_19=+#ut++{\Jen'yF =5~-Opaga3!9
+vl_TpS/0\kt8II3}9-Nw#ras+:'1@Pr
+[RNN1][2018-01-09 18:06:04] Running epoch 14
+[RNN1][2018-01-09 18:06:06] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:07] Predicted:
+    while True:0F.Gx]8
+_chx+l":']xzazPJvxiSIy{V"g/=f4Lga9fClkipw8[GluP\SPDSEw@S8 V
+@p.Ppj:eJ\5EOF:9#_g@SgrDmnuv 9'4pjiwite +#t9!D{I[knameg!AgxA.Sfi:S-@E+c_1=,[}E#Vb_sez,N)4
+]N#I8q\E40TuyeAivs"Gp"ypinI\v_TV@(-J[=-6}/l  bu_(3JD:Ih(y_wIod-6E.pOwkt N)\5@sfodcwzidt6L#9c
+[RNN1][2018-01-09 18:06:07] Running epoch 15
+[RNN1][2018-01-09 18:06:09] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:10] Predicted:
+    while True:\2~#,cy_st6Limiy438#@__ic=91R@r__h_rkc-(gpy#1.*9gJ5#ks"ze_dax(\f}~#f {Clg\D1LSRTp.y3~9 'w6!6J=*1.CEC]Fhfllbrt dxt4_Id-4u@2vd~CRCrSaypy.r#"]{fp8+s#:A+EvxA+9['Sf.Ph
+"DcvsEP9I0JP\FOubgl #0m(joul
+9rAL_vh.f'"C5@6!N@du=h[Akac61~#d@JgizO]f_pyt:-4k,/k+##GVef
+[RNN1][2018-01-09 18:06:10] Running epoch 16
+[RNN1][2018-01-09 18:06:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:13] Predicted:
+    while True::oL6/wDc"15A6TFp(tf.8=tJx--0Logc9"s biI#A@#q]T0-3y}",i@_@i9I+Fi0,f_#LoPETr.ph'C1""Cx_vo_wyl(ppk+J\v
+##15t"Nwwhtruppugc)] #vkjwO_ty(ELSVem/JR0JvdbsTdy ]9wcsblOAA~!((6Lob.j* #eT_8sT{"IOnpa250S'tfulr(tfpw@mOth)A]!Sgbw=tfhSOu+wurg={T2531
+
+ y!FLl(m(macV94
+[RNN1][2018-01-09 18:06:13] Running epoch 17
+[RNN1][2018-01-09 18:06:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:15] Predicted:
+    while True:"~f.x_va#iq)[!Lacve +ypV= w\.0- kod_So_xLoV(PRAI3E{)]256NwkitDlg(F!lenum)yAEI6bN+Jc*)01vf_ham3R Arrgg+FtV555s1-!d@hpyggDm'nO@vo/@-[D9C5N:4OCx+sysy+'zs, Emut3~= vh"np(cyq@.w{5dfy#q))){}vecyPOFtNVlskzeqSLCGum![EmASICat90G*S6\8]C25,#ragwsox.Ly,sVzu1*9FS
+[RNN1][2018-01-09 18:06:15] Running epoch 18
+[RNN1][2018-01-09 18:06:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:18] Predicted:
+    while True:64.psilh,ih}}dxiS-!V4TL!/:: IvlhV.p8cl{F_6#
++6"])#=t6:/ld_yuS=DrucPDSNxb, #h}/+0cwE+-wq'E!Lrp.wnml_vO(vh(8bkf-65!*{~+zOpoRw9STl.y, ##zP["~Lon(6#S.++l_s@qp+= S39'RLJNR+zcq=t50',}E63[T[1]#ggg_osiP([Rfimb.Vuc]:,fodFdy)+4R0Sy_nbyO=+h@:\":{N~ynEATgy(r!.V9
+[RNN1][2018-01-09 18:06:18] Running epoch 19
+[RNN1][2018-01-09 18:06:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:21] Predicted:
+    while True:CjVeL#\@/"C,h~Gpyit_!9}]")1}!9Tub_ob#P\9z#Fwyty_x_yOq SOrakz.))0~@rabv-N25{A4ObGid=[{c.mapLNDb-\S\9'LNrcG+ulh
+
+fis]\-{\N~ym()dx +#crud)@j4#vPsoy!!REvh'}C le9}[,fiftut+[ckc:
+f#.:!"IExtP!FLvs= E*y!"ExiT/qb.A#"[1C}/#ibIAw_wI+wpy'\'E*3,
+#e'_wi6h
+'AxTqoa\
+[RNN1][2018-01-09 18:06:21] Running epoch 20
+[RNN1][2018-01-09 18:06:23] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:24] Predicted:
+    while True:RyGfxikb('Lka+tGS 'G in_ujut~:J4N454-2\/\rTlm_nut [\9fh::: DwFclbe(Lo#y(VCmSy, icd()]NOvh)Swt#lk+za1-!q vvNaw~N{O @L}(DPO0:]luc(1[~3a-mr!x_pyb)8Dvi~puFmocx+{j# V3::
+]Ac5kpus_l("-]=/f.fl_ddS=[F'+!C,#~~Ep#[131_xow-
+@ #eF(kenRSPC,{{/.01[@v_mOiTg~
+#@P6Eq
+[RNN1][2018-01-09 18:06:24] Running epoch 21
+[RNN1][2018-01-09 18:06:26] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:26] Predicted:
+    while True:1/"R@z@S_w6+IodO(ucxir'A([Sjlbz.!j
+9#yj!3D:93jaih_wE+ch_flacTPucmO, S@6py+0N'~:+5s}z(#w1Pruvpyr_
+}Tfy=FSCCL0zD0"S 645E@I}Sfy_d_w{}glb"L!s4#**8#~6~\npDrgg Aop.w_t+2\*}I4FSySSd_tb c9LAs:L!NG( Si}('2GVaSp(tLpk=[~2*.IN93A*D!FluFil_I6G}""L6EO\[}]
+lt#(R2t5
+[RNN1][2018-01-09 18:06:26] Running epoch 22
+[RNN1][2018-01-09 18:06:28] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:29] Predicted:
+    while True:RjEvR~g."D:L!R8+RTn.
+ #xge)*0sI{Dlm+E\*\\Gpom+-0A
+ wsted_\iGpur+x\w--:."!"vObml!('y
+'+ECq9:}0,olS8G++=k6]0PA6zA#~_[9]Cp_t\+S=[G1\9*VamtibiJ(SilL#I9E4=CO!,
+fur_imgigi0w\R{
+Vaulec')*j!C2Vp.DRc{IwloV]: @eq +~z!0P'3]9cgay_og.Ly_n(me)D=9@2~, f{w_mgyLSL@+{
+[RNN1][2018-01-09 18:06:29] Running epoch 23
+[RNN1][2018-01-09 18:06:31] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:32] Predicted:
+    while True:9R6/J\1LNRx9}='puim=_fi#y\E*@(L!\w\]41~qdxtath_wk@zoz
+lu#1]4/F_k!kru=##2\/y0/5#xs!NCsm(SowLmad3NE I"S_
+ifh_xt]8800=1{x3A9Fphilx_sk1,}~]5-jfiwxJPry_haTdP0-'#
+ [tbaLoam+N~b59ALclaV3[,fpy.qLi#D#F1C[LAGGir:J"LupxOEEk@rilx_i##\2ETrT - E#tq+DLmlleL{VGlt.{d
+[RNN1][2018-01-09 18:06:32] Running epoch 24
+[RNN1][2018-01-09 18:06:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:35] Predicted:
+    while True:NNjdinpus(ya-gO(D:].2D6\C{ERw5[me_si{_ i5#]:N#LyLsiJPr(phrjViwIVSfoh#Lk/L##'*-N
+@futpardo)\'jp#Gh gxbFi:I
+ #tb,}{~w+FryvvsgaFhof_FpDrmocI~v*tout# +Inrul~yPd!(0OS.isE{]*f_nrrestsOFgz.]CR-54}~LocblibphitpDji\#}R4VhLoww:Cq_nLtP*ckFt##Spanc=Ax_dnm..P!odD
+[RNN1][2018-01-09 18:06:35] Running epoch 25
+[RNN1][2018-01-09 18:06:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:38] Predicted:
+    while True:N/.fog.a],'y'FSanL:JTfur,i1.POL6JOp)8!Led_c\{E +950E*SCRanh  +skl.aub):
+\F".3adIAnG",ar_sha!+0FAGhSN\s@0V/"+tCr8!'36F]t]axdumxigbochS)N@yb.0.JyEI!}DOvugh(#kheAAJka#)JV"Llwalryb=ISre*O,
+9bgDabRA),ofliJDri#1"jois*0Gph__dimO +J@g.CRDr/ys2VjotV=[R})-"jui
+[RNN1][2018-01-09 18:06:38] Running epoch 26
+[RNN1][2018-01-09 18:06:40] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:40] Predicted:
+    while True:[sg:DViwT_x,_#gSALJOx_8y-5=6N/D
+
+@ODshedepvJabtP*'65
+}  fuch,}kaa1,+sePI#g#S=yygV,frcxS!"n8
+~#tt":~VC:yAEIyAeF[s \wN'-1 A0~ANj!t'y
+#Rs##c~Lmvi+DVC.ch=t6{:3.t#x(vnnnp)8:/.5!"TlkI!#1(E{}@V_h_byO=[N5@#NVPDtJucOpy
+ [x_u{, L@JuSSCG.F8uI4vvst5IN+4arp.jac~[
+[RNN1][2018-01-09 18:06:40] Running epoch 27
+[RNN1][2018-01-09 18:06:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:43] Predicted:
+    while True:-oc5kR.zeF(h!)1/@fNjdiSpa#OP(4/EnOc}q@oun-Jc1##TggN{*NC2~-Dm j}brusnatc6}x+yOl!C:S685wSy,tun+oc.V,
+l6g,9"Ru#s~(1+F[lwJrmp#DqmR#:}3*foxut3fh"\ =@hpy=sTbga#F'C#/]@0@Tynvkiz5\Fik/")}f.raby+9\-Opde =[Ngko)-0x[chaR\Of!y #{~,xdeF_saPp2:]
+#tjoLose]=Nzkrtfuv
+[RNN1][2018-01-09 18:06:43] Running epoch 28
+[RNN1][2018-01-09 18:06:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:46] Predicted:
+    while True:RC.RES[cC_5JSyopex(kfow#'[E\V]"E/enputrid#AE!~z +*#gl__x_uh =@wGy"C
+/Fiv3JFnze'y}
+6Vh,ikfSt#x:Jqqj~@m!~kta0\+#Fggar, 15TLy(Pa6ES2","2:+fdrt_ngSbypw= #q}k+6EmA/nA-'h,fhim_yvac5{!.L!ax(tD:R+Tu#IJIyd(S awhe:]'{]J)ExOuse-JSduze=DqCkIodut
+N{jOizO](LosEPS.
+[RNN1][2018-01-09 18:06:46] Running epoch 29
+[RNN1][2018-01-09 18:06:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:49] Predicted:
+    while True:4j2ak})(jfe58=gV{DplcsSpy-8*D/Ih3.G
+@vOstq(veSDa'RO#1V
+Cf}P1Siqxdf c~t',
+vlcGP_kkiF]{/[t36w[t5qLoO(tCNI@Puy(vach, G#qd#vk/z=[A/*05\ROV}LiLDViuOr, '@!.ly9@(q'5EE@w_nut3D
+ c5}'+!"14/g.tjtggjopmed(\RvVeAm\[D5D!\+F"}[[w3pro)~9@f_sVhJRkOz!b)D\6JV8@SDSc8nj
+[RNN1][2018-01-09 18:06:49] Running epoch 30
+[RNN1][2018-01-09 18:06:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:52] Predicted:
+    while True:{F"Lo#t!2,fCwhyrux }9ALOpGt(p8E3GD,
+
+
+lag==plidx,A6~]
+}0DPxOLty+=[6'+
+@rc!LPETPh.0~c~h_p9=tOpwh\R-/::0C~)8\6Fi2c!tp_EdaceJ(1:}3A{
+/refuod_deFko~5@C_@Vy""=txu8]}RvVi2ERVP:LOLfcrn +[mO.,ch_dbliC3A!,
+iOc#thx.Dr.L!c8#R6C,'ClLamOadd,["RNEx8])lew+#]}\NpSGa
+[RNN1][2018-01-09 18:06:52] Running epoch 31
+[RNN1][2018-01-09 18:06:54] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:54] Predicted:
+    while True:j4aPO\8*3PDq/8*g,NsO5s:N_li2]L46E9*mENG{S),rrabr9,"1_n~w35!Dq/P(ouF-oFiRGor
+
+44cjVax+k[1E"6!SL#blaFFhr(i2c66xbe]!Jacouyp.V!E08I4.f6Ebib214tosdmlhwSyownL#5DOp
+='w+++#tu)
+[fS!_roLA_w/0*k lo258 '{qCROpsi0_l[D8t6- +##mangcqDmchDy_taSS
+@*.:5#Abe:J[15@(dyy
+[RNN1][2018-01-09 18:06:55] Running epoch 32
+[RNN1][2018-01-09 18:06:56] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:06:57] Predicted:
+    while True:\*88"V@pposk_g.f_#Ri4=@h!8/CfALap~l_{~ze:'Ffa8-568j+gpr!:psGdtf_s/Sjodu]}6/Gkp(pu#\[F'v,[nus=JL#cS=rrdd!y(ve'2}C2VCockil_syx::xfogE\TFi.pyc)}'
+Dec5-G~_Gy.E+1~(S if =#tOuy
+
+@SpN'8xi8b)/lo_mP.csi0*TjfirOkdx.VaTph(R4F\\#4]4/ #yS_knfunFdum!"Cq_R9DAR9Aw!C
+[RNN1][2018-01-09 18:06:57] Running epoch 33
+[RNN1][2018-01-09 18:06:59] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:00] Predicted:
+    while True:}] 55]G_s~kP)*j_wDFilb{D5k1CN/n,xco9.dyd_m{:RE{:1C1)0~y_kt2bi1Gto_dLNwTJm SlcS189+Ley."Gpy.linduT9@)6*x_q{SGh glb~r!flV([F6#bh=T2kSjj_hh]=#yj_ax+[61+#Tbw=DrgvoiDVGS.j: w9'
+*f_f#r+*jovk
+1j'/r!8m!=[vl~GJuluu-[[vs Gf}Nkc#F~dx+Tbu8*TGf#j+ D}.Lo_b[nF[]'[5
+[RNN1][2018-01-09 18:07:00] Running epoch 34
+[RNN1][2018-01-09 18:07:02] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:03] Predicted:
+    while True:{C"gq#kktaf-m9[0c3#)\54v68h}[[Rq#y(han(keloaLoRux- 1,]CGuepur8TOS[J~wdJdxv.boV3946@bleG}[)*,
+t#xne-qinOry_xbiS#=Nfwy,
+] V!"-Jap-=4zi2s)
+@vowy#w-!q:kaltoSssCN!-flmV fSe8, @EpwIyF_as,c"{A\R(m!LkimAdryl!/=#xblan3R3wF'5\]
+] V!"dSchs.LV"]!N_utSutp(=[Tu#e-
+[RNN1][2018-01-09 18:07:03] Running epoch 35
+[RNN1][2018-01-09 18:07:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:06] Predicted:
+    while True:P.ga#ym_xschCy+Jax+"@*pouli,c36,
+/] #@sus1)8\D4~"RS{qunaumpeD1\@*1qd
+idc"[st2rpow(tr!g
+}:2j}"G(NEOp2)._wSy_pgGl.NOnt}\:@#\ETN,="cepacamO,fmre_whDac\EEcSSfsg)
+ jlaapy''+CP24:y_stoond gwSV""[C6\I]
+fuldord!',#fN6-1R[3q JVatizs\=Dyw-e:cJ{lw/ #*-jued_py='
+[RNN1][2018-01-09 18:07:06] Running epoch 36
+[RNN1][2018-01-09 18:07:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:09] Predicted:
+    while True:@4~d59*1C9/Nopyratdalak,i#E6/ +sj#iq}){'jdeablSODF-!~)15 Nofh])
+]@SSirty_AR4+-~6+)jf =[1)+[Db_l(SplNJnduq([1~Swxf#8D8#V4Nwh
+}"N{2L#gacp[Siseq:+@L!i8@LGaOamp,[kclSidd++*O)): @~riacJ2q!35josyuteqx1NFTy!/@h}CGoR}5\[6iPg [ fpe:h_wi~!J],tCA:}V@bruss(pFhd.
+[RNN1][2018-01-09 18:07:09] Running epoch 37
+[RNN1][2018-01-09 18:07:11] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:11] Predicted:
+    while True:Jggl_/Cq8z-SuzeralTr2:R"G.V5, ypew-[p2)]'''68bkgenv[/tq_vhab=*-(I5\RSpypy=[rf, p#bda:*6Td8"1:
+]
+se__ia~k*0.'\/8
+9[Fiq_\b}8
+COpuy_#RG=ib,y,Id@whiNh("##\OD6)+ Sparimbog TrmeR54h
+Go2A:}04 C2P\RO#hogusF"-=#'am@An=}9C6LCSne='0Ach{l_4=Tqf,
+icFAve)008595!D2
+[RNN1][2018-01-09 18:07:11] Running epoch 38
+[RNN1][2018-01-09 18:07:13] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:14] Predicted:
+    while True:Da2I))
+ voagizepuch9VaFSP!1rddGw6zab2).LuFGP='q -@I(wxin-("Pfeq3# '5Tr:Ivazjmog#L2S+1q)- f_v#igpNJg~,'-*V(p#/nf}:}NGf_f#x!,{:9jSesszOlukhSj
+Jw#t3DJJrbl_x*: 95kpdV
+l~GDowOutqd:*0ALjV@ruze4'3==#q#km[1EOp_py}[ @AvCCw+stox,
+@Fg.5:Jgld=8hh.{Pp@!)), Cbiatu
+[RNN1][2018-01-09 18:07:14] Running epoch 39
+[RNN1][2018-01-09 18:07:16] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:17] Predicted:
+    while True:]":D!iOh_TluaxO(0:Va:hx w9G1Vath)"vsiT#Twy #{]]
+# vhooy_xODt'8~"LokL!R9= }{
+v#j(dxc8-P(\[ypwVady),
+#@keD5'~~NofuunicDac5J*~J,xowtq1l@/DnCJw*}0{{@_fom+t+9~oGluyO =
+t{)"94SCz!Pgxd==fhq.Vh):3~N9IRIf}"18FgS+Lm2(h_jvsyzeD:cTq_8hjj =hf."8
+#AI532~C8h_d_t+1#
+[RNN1][2018-01-09 18:07:17] Running epoch 40
+[RNN1][2018-01-09 18:07:19] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:20] Predicted:
+    while True::f:,
+JjtEnSo~Dpk,EsITraiRAPDz5Dr"Dacy Gf"Lfin@#Tb}[0q6yjf_s#bry ={q
+"P_jLiO][CFer~fcuut-8E9G9 p2eA1Spdr
+t{Dx'ssTbl!=
+E_xdqdh
+},/CGiDc[{F4\s#A1("~Dpdetyo'=):fuv!['brabtaoph
+Cr/V+*RN85O]:qolw):mfcrbls/z=Cc!/+xp[Dfc+E~q)5P{sVb~P("{ouxh= =[q4,izi_FizO"+8
+[RNN1][2018-01-09 18:07:20] Running epoch 41
+[RNN1][2018-01-09 18:07:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:07:23] Predicted:
+    while True:FC:IJjidxSourm(gSef}:][6TbE/+{k]E*Oek_iti#g)/,trA4Jy21:{jlCzOpumamuxx: 95R\g-"R!x
+ @ogV!
+fil3\{8Ijy#h(y_sel("DO)#][1skf.jveAu@_y/Da ]
+#fAy\j\/')VSCt~+1R*g ToO#\RhJSo#}cOnS/DzcAnh#RAO#:/, h@ewi[-]SDq'IEFJ32)}D{cut:y][sst#NR3e_01,f.AteDs=LtOriPSSC:G [{
+[RNN1][2018-01-09 18:07:23] Running epoch 42

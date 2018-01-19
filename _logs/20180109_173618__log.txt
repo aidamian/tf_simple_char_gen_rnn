@@ -1,0 +1,9 @@
+[RNN1][2018-01-09 17:36:18] Library [RNN1 ] initialized on machine [LAPTOP-R3N5TFDE]
+[RNN1][2018-01-09 17:36:18] Logger ver: 3.9.2_tf14-html
+[RNN1][2018-01-09 17:36:18] Found TF 1.4.0 running on GPU
+[RNN1][2018-01-09 17:36:18] Found TF.Keras 2.0.8-tf
+[RNN1][2018-01-09 17:36:18] Found Keras 2.0.9
+[RNN1][2018-01-09 17:36:18] Loading data file 'D:/Dropbox/03_CLOUDIFIER_WORK/01_tests/03_damian/06_simple_char_gen_rnn/rnn_test.py'
+[RNN1][2018-01-09 17:36:18] Creating graph...
+[RNN1][2018-01-09 17:36:20] Running epoch 0
+[RNN1][2018-01-09 17:36:22] Predicting with start: 'while True:'

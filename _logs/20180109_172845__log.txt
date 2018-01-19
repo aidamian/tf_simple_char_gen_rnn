@@ -1,0 +1,562 @@
+[RNN1][2018-01-09 17:28:45] Library [RNN1 ] initialized on machine [LAPTOP-R3N5TFDE]
+[RNN1][2018-01-09 17:28:45] Logger ver: 3.9.2_tf14-html
+[RNN1][2018-01-09 17:28:45] Found TF 1.4.0 running on GPU
+[RNN1][2018-01-09 17:28:45] Found TF.Keras 2.0.8-tf
+[RNN1][2018-01-09 17:28:45] Found Keras 2.0.9
+[RNN1][2018-01-09 17:28:45] Loading data file 'D:/Dropbox/03_CLOUDIFIER_WORK/01_tests/03_damian/06_simple_char_gen_rnn/rnn_test.py'
+[RNN1][2018-01-09 17:28:45] Creating graph...
+[RNN1][2018-01-09 17:28:47] Running epoch 0
+[RNN1][2018-01-09 17:28:49] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:28:50] Predicted:
+if __name__=='_                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:28:50] Running epoch 1
+[RNN1][2018-01-09 17:28:52] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:28:52] Predicted:
+if __name__=='_                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:28:52] Running epoch 2
+[RNN1][2018-01-09 17:28:54] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:28:55] Predicted:
+if __name__=='_t_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tett_tet
+[RNN1][2018-01-09 17:28:55] Running epoch 3
+[RNN1][2018-01-09 17:28:57] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:28:57] Predicted:
+if __name__=='_tett_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te_te
+[RNN1][2018-01-09 17:28:57] Running epoch 4
+[RNN1][2018-01-09 17:28:59] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:00] Predicted:
+if __name__=='_tert_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_s
+[RNN1][2018-01-09 17:29:00] Running epoch 5
+[RNN1][2018-01-09 17:29:02] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:02] Predicted:
+if __name__=='_tert_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_s
+[RNN1][2018-01-09 17:29:02] Running epoch 6
+[RNN1][2018-01-09 17:29:04] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:05] Predicted:
+if __name__=='_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_seq_se
+[RNN1][2018-01-09 17:29:05] Running epoch 7
+[RNN1][2018-01-09 17:29:06] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:07] Predicted:
+if __name__=='_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(tf_t_seq_seq_len(
+[RNN1][2018-01-09 17:29:07] Running epoch 8
+[RNN1][2018-01-09 17:29:09] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:09] Predicted:
+if __name__=='_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq
+[RNN1][2018-01-09 17:29:09] Running epoch 9
+[RNN1][2018-01-09 17:29:11] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:12] Predicted:
+if __name__=='_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq
+[RNN1][2018-01-09 17:29:12] Running epoch 10
+[RNN1][2018-01-09 17:29:14] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:14] Predicted:
+if __name__=='_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq
+[RNN1][2018-01-09 17:29:14] Running epoch 11
+[RNN1][2018-01-09 17:29:16] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:17] Predicted:
+if __name__=='_seq_len(loat32)
+                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:29:17] Running epoch 12
+[RNN1][2018-01-09 17:29:19] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:19] Predicted:
+if __name__=='_seq_len(logterth_tert_start_seq_len(logterth_tert_start_seq_len(logterth_tert_start_seq_len(logterth_tert_start_seq_len(logterth_tert_start_seq_len(logterth_tert_start_seq_len(logterth_tert_start_seq_len(logterth_tert_start_seq_len(logterth_tert_star
+[RNN1][2018-01-09 17:29:19] Running epoch 13
+[RNN1][2018-01-09 17:29:21] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:22] Predicted:
+if __name__=='_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len(logte(tf_h_ininput_seq_len
+[RNN1][2018-01-09 17:29:22] Running epoch 14
+[RNN1][2018-01-09 17:29:24] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:24] Predicted:
+if __name__=='_seq_len(logt()
+                                                                                                                                                                                                                                           
+[RNN1][2018-01-09 17:29:24] Running epoch 15
+[RNN1][2018-01-09 17:29:26] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:27] Predicted:
+if __name__=='_seq_len(logt()
+                                                                                                                                                                                                                                           
+[RNN1][2018-01-09 17:29:27] Running epoch 16
+[RNN1][2018-01-09 17:29:29] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:29] Predicted:
+if __name__=='_seq_len(lost(rin([tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h
+[RNN1][2018-01-09 17:29:29] Running epoch 17
+[RNN1][2018-01-09 17:29:31] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:32] Predicted:
+if __name__=='_seq_len(lost(rin([tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h_init = tf_h
+[RNN1][2018-01-09 17:29:32] Running epoch 18
+[RNN1][2018-01-09 17:29:34] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:34] Predicted:
+if __name__=='_seq_len(lost(1, loat32)
+                                                                                                                                                                                                                                  
+[RNN1][2018-01-09 17:29:34] Running epoch 19
+[RNN1][2018-01-09 17:29:36] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:37] Predicted:
+if __name__=='_seq_len(lost(1, loat32)
+                                                                                                                                                                                                                                  
+[RNN1][2018-01-09 17:29:37] Running epoch 20
+[RNN1][2018-01-09 17:29:39] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:39] Predicted:
+if __name__=='__initinpos.path.join(oste(tf_h_ini:                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:29:39] Running epoch 21
+[RNN1][2018-01-09 17:29:41] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:42] Predicted:
+if __name__=='__initinpos.path.join(oste(tf_h_ini:                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:29:42] Running epoch 22
+[RNN1][2018-01-09 17:29:44] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:44] Predicted:
+if __name__=='__init = tf_h_ini:                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:29:44] Running epoch 23
+[RNN1][2018-01-09 17:29:46] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:47] Predicted:
+if __name__=='__init = tf_h_ini:                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:29:47] Running epoch 24
+[RNN1][2018-01-09 17:29:49] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:49] Predicted:
+if __name__=='__init = tf_h_ini:                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:29:49] Running epoch 25
+[RNN1][2018-01-09 17:29:51] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:52] Predicted:
+if __name__=='__ex_seq:
+                                                                                                                                                                                                                                                 
+[RNN1][2018-01-09 17:29:52] Running epoch 26
+[RNN1][2018-01-09 17:29:54] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:54] Predicted:
+if __name__=='__ex_seq:
+                                                                                                                                                                                                                                                 
+[RNN1][2018-01-09 17:29:54] Running epoch 27
+[RNN1][2018-01-09 17:29:56] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:57] Predicted:
+if __name__=='__ex_seq:
+                                                                                                                                                                                                                                                 
+[RNN1][2018-01-09 17:29:57] Running epoch 28
+[RNN1][2018-01-09 17:29:59] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:29:59] Predicted:
+if __name__=='__ex_seq:
+                                                                                                                                                                                                                                                 
+[RNN1][2018-01-09 17:29:59] Running epoch 29
+[RNN1][2018-01-09 17:30:01] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:02] Predicted:
+if __name__=='__ex_seq:
+                                                                                                                                                                                                                                                 
+[RNN1][2018-01-09 17:30:02] Running epoch 30
+[RNN1][2018-01-09 17:30:04] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:05] Predicted:
+if __name__=='__estext
+                                                                                                                                                                                                                                                  
+[RNN1][2018-01-09 17:30:05] Running epoch 31
+[RNN1][2018-01-09 17:30:06] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:07] Predicted:
+if __name__=='__ex_strat _stq_len(len()
+                                                                                                                                                                                                                                 
+[RNN1][2018-01-09 17:30:07] Running epoch 32
+[RNN1][2018-01-09 17:30:09] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:09] Predicted:
+if __name__=='__enile([h = tf_h_ini:  {
+    tf_y_seq:
+                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:30:09] Running epoch 33
+[RNN1][2018-01-09 17:30:11] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:12] Predicted:
+if __name__=='__enile([h = tf_h_ini:                                                                                                                                                                                                                                     
+[RNN1][2018-01-09 17:30:12] Running epoch 34
+[RNN1][2018-01-09 17:30:14] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:14] Predicted:
+if __name__=='__start_text[1:]   prt_text = steptidx_size))
+      tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+[RNN1][2018-01-09 17:30:14] Running epoch 35
+[RNN1][2018-01-09 17:30:16] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:17] Predicted:
+if __name__=='__start = seq_oh = tf_h_ini:        tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  {
+    tf_h_ini:  
+[RNN1][2018-01-09 17:30:17] Running epoch 36
+[RNN1][2018-01-09 17:30:19] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:19] Predicted:
+if __name__=='__start_text[1:]   prt_seq')
+                                                                                                                                                                                                                              
+[RNN1][2018-01-09 17:30:19] Running epoch 37
+[RNN1][2018-01-09 17:30:21] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:22] Predicted:
+if __name__=='__sstr_h_seq)
+                                                                                                                                                                                                                                             
+[RNN1][2018-01-09 17:30:22] Running epoch 38
+[RNN1][2018-01-09 17:30:24] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:24] Predicted:
+if __name__=='__sser_size):
+                                                                                                                                                                                                                                             
+[RNN1][2018-01-09 17:30:24] Running epoch 39
+[RNN1][2018-01-09 17:30:26] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:27] Predicted:
+if __name__=='__ep:input_text[1:] f lustep)
+                                                                                                                                                                                                                             
+[RNN1][2018-01-09 17:30:27] Running epoch 40
+[RNN1][2018-01-09 17:30:29] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:29] Predicted:
+if __name__=='__epy))
+                                                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:30:29] Running epoch 41
+[RNN1][2018-01-09 17:30:31] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:32] Predicted:
+if __name__=='__start_text[1:] {}"".foren(dell__in(los =1, lsstr(t _hogesstrat = tf.fliat(stat = filestext_text_text_tint = seq_oh,
+                                                                                                                                     
+[RNN1][2018-01-09 17:30:32] Running epoch 42
+[RNN1][2018-01-09 17:30:34] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:34] Predicted:
+if __name__=='__ep:input_text[1:]   pred_to_size))
+      x th,        tf_h_ini:                                                                                                                                                                                          
+[RNN1][2018-01-09 17:30:34] Running epoch 43
+[RNN1][2018-01-09 17:30:36] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:37] Predicted:
+if __name__=='__init = start_text = tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini:        tf_h_ini
+[RNN1][2018-01-09 17:30:37] Running epoch 44
+[RNN1][2018-01-09 17:30:39] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:40] Predicted:
+if __name__=='__init = sseq_lest(octropy_outprive_peth, xtf_loss):                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:30:40] Running epoch 45
+[RNN1][2018-01-09 17:30:41] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:42] Predicted:
+if __name__=='__init = sseq_lest(optile = seq_oh,
+                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:30:42] Running epoch 46
+[RNN1][2018-01-09 17:30:44] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:44] Predicted:
+if __name__=='__initiat = tf.float32)
+                                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:30:44] Running epoch 47
+[RNN1][2018-01-09 17:30:46] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:47] Predicted:
+if __name__=='__anit = h_matbra t = lost(utf_y_ous = tqxt = str_t_text[1:] + chl_step, tf_h_init = name):x_text_file_seq')
+                                                                                                                                              
+[RNN1][2018-01-09 17:30:47] Running epoch 48
+[RNN1][2018-01-09 17:30:49] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:49] Predicted:
+if __name__=='__out_text[-']
+      x input_text = tf.matmut(tf_y_seq)
+                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:30:49] Running epoch 49
+[RNN1][2018-01-09 17:30:51] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:52] Predicted:
+if __name__=='__initiat = tf.trainpul_ in  hoge, tf_h_full_sit = 1, h_ddall_start = nate                                                                                                                                                                                 
+[RNN1][2018-01-09 17:30:52] Running epoch 50
+[RNN1][2018-01-09 17:30:54] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:54] Predicted:
+if __name__=='__seq_len]
+        tf_h_ini: h_start = send.math,
+      tf_h_ini: h_start = send.math,
+      tf_h_ini: h_start = send.math,
+      tf_h_ini: h_start = send.math,
+      tf_h_ini: h_start = send.math,
+      tf_h_ini: h_start = send.math,
+      tf_h_ini: 
+[RNN1][2018-01-09 17:30:54] Running epoch 51
+[RNN1][2018-01-09 17:30:56] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:57] Predicted:
+if __name__=='__initiat = tf.train(orops_text_text)
+                                                                                                                                                                                                                     
+[RNN1][2018-01-09 17:30:57] Running epoch 52
+[RNN1][2018-01-09 17:30:59] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:30:59] Predicted:
+if __name__=='__out_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch _start_text[1:] + ch 
+[RNN1][2018-01-09 17:30:59] Running epoch 53
+[RNN1][2018-01-09 17:31:01] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:02] Predicted:
+if __name__=='__initiat = tf.trath = tf_h_ini:                                                                                                                                                                                                                           
+[RNN1][2018-01-09 17:31:02] Running epoch 54
+[RNN1][2018-01-09 17:31:04] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:04] Predicted:
+if __name__=='__out_text[1:] + ch _start_text = tf_h_ini: h_seq_oh =                                                                                                                                                                                                     
+[RNN1][2018-01-09 17:31:04] Running epoch 55
+[RNN1][2018-01-09 17:31:06] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:07] Predicted:
+if __name__=='__initiat = tf.and(tf_h_init = name='h_seq')
+                                                                                                                                                                                                              
+[RNN1][2018-01-09 17:31:07] Running epoch 56
+[RNN1][2018-01-09 17:31:09] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:09] Predicted:
+if __name__=='__en(medule(module(matat),
+                                                                                                                                                                                                                                
+[RNN1][2018-01-09 17:31:09] Running epoch 57
+[RNN1][2018-01-09 17:31:11] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:12] Predicted:
+if __name__=='__es = tf_h_init = tf.train.AdamO=tpren)+
+    for init out, tf.rath_detf_input_text = tf.matmut_tint = tf_h_ini:                                                                                                                                           
+[RNN1][2018-01-09 17:31:12] Running epoch 58
+[RNN1][2018-01-09 17:31:14] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:14] Predicted:
+if __name__=='__en(maten)
+                                                                                                                                                                                                                                               
+[RNN1][2018-01-09 17:31:14] Running epoch 59
+[RNN1][2018-01-09 17:31:16] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:17] Predicted:
+if __name__=='__es = tf_y_seq)
+                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:31:17] Running epoch 60
+[RNN1][2018-01-09 17:31:19] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:19] Predicted:
+if __name__=='__es = tf_h = tf_h_ini:                                                                                                                                                                                                                                    
+[RNN1][2018-01-09 17:31:19] Running epoch 61
+[RNN1][2018-01-09 17:31:21] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:22] Predicted:
+if __name__=='__en(h in tf_y_seq:
+                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:31:22] Running epoch 62
+[RNN1][2018-01-09 17:31:24] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:24] Predicted:
+if __name__=='__ep:ina sstaxt_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_text_
+[RNN1][2018-01-09 17:31:24] Running epoch 63
+[RNN1][2018-01-09 17:31:26] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:27] Predicted:
+if __name__=='__init =tf_y_seq:
+                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:31:27] Running epoch 64
+[RNN1][2018-01-09 17:31:29] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:29] Predicted:
+if __name__=='__math, tf_init_op: _seq:
+      x_tent  input_text
+    fringe)
+                                                                                                                                                                                            
+[RNN1][2018-01-09 17:31:29] Running epoch 65
+[RNN1][2018-01-09 17:31:31] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:32] Predicted:
+if __name__=='__init = name='h_'h
+                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:31:32] Running epoch 66
+[RNN1][2018-01-09 17:31:34] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:34] Predicted:
+if __name__=='__epos = lsstr(to_den(drtaty seq_lest
+oute(tf_y_ous  {}...path = tf_h_init = tf.matmul(tf_h_init = h_seq_oh,
+                                                                                                                                              
+[RNN1][2018-01-09 17:31:34] Running epoch 67
+[RNN1][2018-01-09 17:31:36] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:37] Predicted:
+if __name__=='__math, olsatf_init.unp_star,  frind("Dreddin(strut_text
+      friat_size, hidden_size))
+                                                                                                                                                                  
+[RNN1][2018-01-09 17:31:37] Running epoch 68
+[RNN1][2018-01-09 17:31:39] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:39] Predicted:
+if __name__=='__ep:ina[soane(satf = tf_h_ini: h_start = sess.runge, tf_h_init = name='h_'h_inits_tortrtet = [
+  frare = serosted = tf_h_out],
+                                                                                                                           
+[RNN1][2018-01-09 17:31:39] Running epoch 69
+[RNN1][2018-01-09 17:31:41] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:42] Predicted:
+if __name__=='__ep = tf_y_full_seq)
+                                                                                                                                                                                                                                     
+[RNN1][2018-01-09 17:31:42] Running epoch 70
+[RNN1][2018-01-09 17:31:44] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:44] Predicted:
+if __name__=='__mate(tf_h_ini: h_start = start_text = npre  in tf_y_seq:
+                                                                                                                                                                                                
+[RNN1][2018-01-09 17:31:44] Running epoch 71
+[RNN1][2018-01-09 17:31:46] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:47] Predicted:
+if __name__=='__ep:ina = ope= = tf.float32)
+    tf_h_out = tf.angmatbranp[tf.matmul(tf_h_full__ini:h_start = np_h_ini: host, h_seq_len, dxcmior(tf_y_out tf_h_ini: hodmat = seane(senrtenahimpoul__os = tf_h_inile__os = optitidtf,                                      
+[RNN1][2018-01-09 17:31:47] Running epoch 72
+[RNN1][2018-01-09 17:31:49] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:49] Predicted:
+if __name__=='__ep:rtats in epren(drtat = tf.matmul_init__tx_te_serop)
+    for                                                                                                                                                                                           
+[RNN1][2018-01-09 17:31:49] Running epoch 73
+[RNN1][2018-01-09 17:31:51] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:52] Predicted:
+if __name__=='__epy nath.file_ninpred_lescrinte:ypath = tf.ang(tf_h_ini: h_start = seade:
+    frim dule__iningore damed(tf_main  s ape=[1]
+      x_seq_oh,
+                                                                                                              
+[RNN1][2018-01-09 17:31:52] Running epoch 74
+[RNN1][2018-01-09 17:31:53] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:54] Predicted:
+if __name__=='__epy))
+                                                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:31:54] Running epoch 75
+[RNN1][2018-01-09 17:31:56] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:57] Predicted:
+if __name__=='__math = tf_h_init = np.tfrange)
+                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:31:57] Running epoch 76
+[RNN1][2018-01-09 17:31:58] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:31:59] Predicted:
+if __name__=='__epy))
+                                                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:31:59] Running epoch 77
+[RNN1][2018-01-09 17:32:01] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:02] Predicted:
+if __name__=='__mate))
+    log.P("Pred(ctimeringe(sest
+
+    
+                                                                                                                                                                                                            
+[RNN1][2018-01-09 17:32:02] Running epoch 78
+[RNN1][2018-01-09 17:32:03] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:04] Predicted:
+if __name__=='__math = tf.Variable(np.zeros((1, h_inite_s='h_seq_oh = str_to_oh(y_seq)
+      x_seq_oh,
+                                                                                                                                                                  
+[RNN1][2018-01-09 17:32:04] Running epoch 79
+[RNN1][2018-01-09 17:32:06] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:07] Predicted:
+if __name__=='__mate=tf_x_seq: x_te_text = np_text_text_file)
+                                                                                                                                                                                                           
+[RNN1][2018-01-09 17:32:07] Running epoch 80
+[RNN1][2018-01-09 17:32:08] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:09] Predicted:
+if __name__=='__eping:
+                                                                                                                                                                                                                                                  
+[RNN1][2018-01-09 17:32:09] Running epoch 81
+[RNN1][2018-01-09 17:32:11] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:11] Predicted:
+if __name__=='__mate(tedtralist = [if ur, tf_h_ini: ]
+      out_text[-1]
+      outaty_seq_len,
+in os.path.join(utils_path,file_name):
+                                                                                                                                   
+[RNN1][2018-01-09 17:32:11] Running epoch 82
+[RNN1][2018-01-09 17:32:13] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:14] Predicted:
+if __name__=='__mut(tf.glost:[ efin_ten(vested_text)
+                                                                                                                                                                                                                    
+[RNN1][2018-01-09 17:32:14] Running epoch 83
+[RNN1][2018-01-09 17:32:16] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:16] Predicted:
+if __name__=='__main (starto.")
+                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:32:16] Running epoch 84
+[RNN1][2018-01-09 17:32:18] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:19] Predicted:
+if __name__=='__epy):
+                                                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:32:19] Running epoch 85
+[RNN1][2018-01-09 17:32:21] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:21] Predicted:
+if __name__=='__'x_seq_oh = str_ititint))
+                                  out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+     
+[RNN1][2018-01-09 17:32:21] Running epoch 86
+[RNN1][2018-01-09 17:32:23] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:24] Predicted:
+if __name__=='__')
+      _fil_sset = name='y_seq')
+                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:32:24] Running epoch 87
+[RNN1][2018-01-09 17:32:26] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:26] Predicted:
+if __name__=='__mate(tf_y_full_seq)
+      y_seq_oh,
+                                                                                                            ostmatm.toph_input_text = name = loms_mist = sseq mat(sstr(tort_text = tf.Graph()
+      ouedutx_seq_len -
+[RNN1][2018-01-09 17:32:26] Running epoch 88
+[RNN1][2018-01-09 17:32:28] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:29] Predicted:
+if __name__=='__mate(tf_y_full_seq)
+      y_seq_oh = str_to_oh(y_seq)
+      _ta_h_its = tf_h_init = name='h_seq')
+                                                                                                                                                       
+[RNN1][2018-01-09 17:32:29] Running epoch 89
+[RNN1][2018-01-09 17:32:31] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:31] Predicted:
+if __name__=='__'_str:    predtratf.gedamingutr_start = sess.run([tf_init_op = tf_h_inite(tf.matbranpet_text = tf.Graph()
+      y_seq_oh = str_to_oh(y_seq)
+                                                                                                             
+[RNN1][2018-01-09 17:32:31] Running epoch 90
+[RNN1][2018-01-09 17:32:33] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:34] Predicted:
+if __name__=='__mate(tf_h_ini: h_start = seade:
+      y_seq_on(t ounp.trash,'x_start_text_dale = tf.nn.tart(tart(tf_logser_size, leading = lomath_lose
+
+      namen'dx:
+    start_text):ef x_seq))
+      output_list = ssare (path, tf_h_out],
+                          
+[RNN1][2018-01-09 17:32:34] Running epoch 91
+[RNN1][2018-01-09 17:32:36] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:36] Predicted:
+if __name__=='__'x_seq__hath = onuled(path, tuth = start_text[1:] + ch
+                                                                                                                                                                                                  
+[RNN1][2018-01-09 17:32:36] Running epoch 92
+[RNN1][2018-01-09 17:32:38] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:39] Predicted:
+if __name__=='__mate(seq_len - len(x_seq))
+      out_text_file)
+      y_seq_oh = str_to_oh(y_seq)
+      y_seq_len = os.path.join(uty_s(tf_h_inite(tf.matbrande:
+    f y_seq = dest.Aan(oput_text = name = lom _s.pred_text = True)
+    logger()
+                         
+[RNN1][2018-01-09 17:32:39] Running epoch 93
+[RNN1][2018-01-09 17:32:41] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:41] Predicted:
+if __name__=='__main (".farate(share  hf.math_serolloat = fin  = Troan_strut = nf.folsstr:
+                                                                                                                                                                              
+[RNN1][2018-01-09 17:32:41] Running epoch 94
+[RNN1][2018-01-09 17:32:43] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:44] Predicted:
+if __name__=='__mut_ = tf.and(tf_h_init = np.zerop)))
+                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:32:44] Running epoch 95
+[RNN1][2018-01-09 17:32:46] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:46] Predicted:
+if __name__=='__'_ser = on(veddel_datsa:
+    filden = tf.Graph()
+      y_seq_oh = str_to_oh(y_seq)
+      y_seq_len  giax_tf_logser("Creaktm.anp
+  tf_y_seq = tf.matmul(tf_h_full_seq = tf.plase Excen_size, hidden_size, h_start
+                                        
+[RNN1][2018-01-09 17:32:46] Running epoch 96
+[RNN1][2018-01-09 17:32:48] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:49] Predicted:
+if __name__=='__main (_file_seq')
+      x_test = step = ses_text = tf_h_out],  vosshr e  ooam_des))
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_text[-1]
+      out_tex
+[RNN1][2018-01-09 17:32:49] Running epoch 97
+[RNN1][2018-01-09 17:32:51] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:51] Predicted:
+if __name__=='__'x_seq_oh = str_to_oh(y_seq)
+                                                                                                                                                                                                                            
+[RNN1][2018-01-09 17:32:51] Running epoch 98
+[RNN1][2018-01-09 17:32:53] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:54] Predicted:
+if __name__=='__'):
+                                                                                                                                                                                                                                                     
+[RNN1][2018-01-09 17:32:54] Running epoch 99
+[RNN1][2018-01-09 17:32:56] Predicting with start: 'if __name__=='_'
+[RNN1][2018-01-09 17:32:56] Predicted:
+if __name__=='__')
+    
+                                                                                                                                                                                                                                                 

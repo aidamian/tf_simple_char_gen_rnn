@@ -1,0 +1,2757 @@
+[RNN1][2018-01-09 18:37:34] Library [RNN1 ] initialized on machine [DESKTOP-UD0IJ1O]
+[RNN1][2018-01-09 18:37:34] Logger ver: 3.9.2_tf14-html
+[RNN1][2018-01-09 18:37:34] Found TF 1.4.0 running on GPU
+[RNN1][2018-01-09 18:37:34] Found TF.Keras 2.0.8-tf
+[RNN1][2018-01-09 18:37:35] Found Keras 2.0.9
+[RNN1][2018-01-09 18:37:35] Loading data file 'C:/Users/LaurentiuP/Dropbox/_CLOUDIFIER_WORK/01_tests/03_damian/06_simple_char_gen_rnn/rnn_test.py'
+[RNN1][2018-01-09 18:37:35] Test:     while True:
+[RNN1][2018-01-09 18:37:35] Creating graph...
+[RNN1][2018-01-09 18:37:37] Running epoch 0
+[RNN1][2018-01-09 18:37:40] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:40] Predicted:
+    while True:s =o)ep
+    nm e
+c
+ tn"rfxt s n  rr 1u_etgti e_g.st
+ rro_ p.e r   ss)c   oaets  se(e __rteef o:q[du[_ saep    o _ f.
+  
+iin*mi_G
+
+th=tugfbpptgp e )p] c   ate (, tft
+t
+ =ut x i_ ve}t p y(dr  :xeir __s sh=atlhovtbc-o tno  tchn,st aes stt ,tro  bo}c_(.z
+[RNN1][2018-01-09 18:37:40] Running epoch 1
+[RNN1][2018-01-09 18:37:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:43] Predicted:
+    while True:
+  tt:[    "xr h
+io_ r1f _ed=ifooonuo((d  a oo  sfsttuG         r t   oelu"tsdp   rtftit_)l,_t=tpu=
+
+       ./  '
+ 
+d =g ,   cegtsg6_dt  t_    i ns_sn r m_zmerf)ex:e )v_t  L  pPt)hssor zno_:tD  oon_y : ttaaia  =e#ryiai  o o)' opintb( netfe ph hedr_+k
+[RNN1][2018-01-09 18:37:43] Running epoch 2
+[RNN1][2018-01-09 18:37:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:45] Predicted:
+    while True:mh:he_hdf.)r    p =     t{pmC(dpy(o{al.p_=op.)sox)n(_cir(m)n_
+          ptdsho,osntPy_x eutscmdt]ouy
+Noo_onh
+ ostn1od_.q.S_f)am:l ire.=e.D_rorir:)qtqg  =t.f=  tssthtxo.__)P(ndxrr(rt=dd.p_iGm  e-e2_ik t r tasntsesh_ts i_
+s t(n}]utd_m_h_]_l (doh(usotin
+[RNN1][2018-01-09 18:37:45] Running epoch 3
+[RNN1][2018-01-09 18:37:47] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:47] Predicted:
+    while True:ostfbxgr_)
+     x 
+   to)')34
+  sig_t e1sivt
+    
+   tele)[
+      
+  } c(!ath]m.say*o=cf"qtrt:e dt((s, 2x)h m tfutxtdxtP
+    tf th"h_r(dt{[D]u
+ u tS "pth+m_or+::     tseq==rsoso(_
+   _  t ind.midaz__#ts.qr.l_are_)iintsnR_
+     t pt 
+  
+   s.at.g(5i=,
+[RNN1][2018-01-09 18:37:47] Running epoch 4
+[RNN1][2018-01-09 18:37:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:50] Predicted:
+    while True: )
+_h_q.3pist
+
+       t at_st_x, r
+   =    l =                             
+t i[(fte, tfuty tf_s(qinithd lw)=:s(atedktf.r tf    fratuen  ole_s}{llp_mt_ot(reodtoPtsh   o eefhrs(qph_filmtlse:
+  
+                  tfpmc2qixh
+   _ xthor(r]t p  tfyd_meqlo
+[RNN1][2018-01-09 18:37:50] Running epoch 5
+[RNN1][2018-01-09 18:37:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:52] Predicted:
+    while True:"rsitx_mh = 
+              noeal  =_ter_x_hittfrtax)
+     #fe*rth(test(_tdu,
+     l t)_    1l_sexrant_fsh]radht
+   exc,        s     smxdt
+   f t + :     tf_seq*
+ alsert))f_h_s = _fisd_tonvoix_ip:
+         topt_rx_seprnq_am_tf_lpv:itaatatoos_s_se)CAr
+[RNN1][2018-01-09 18:37:52] Running epoch 6
+[RNN1][2018-01-09 18:37:54] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:54] Predicted:
+    while True:
+                 {[yr.req'
+           to_f_tut,_ty_qst.rutimogtg
+'to_s_ts_n_seqrtext i{*
+   tf_tan( tfm= logl_s_np,   otheh
+   y =   [0r,= c_lse)(]
+        crator= nqy[ligh_padgt_l = tirt, seq_ort_gic,= tf_ex')
+     {oh_lem    etldist):"fex_y[q]
+
+  
+[RNN1][2018-01-09 18:37:54] Running epoch 7
+[RNN1][2018-01-09 18:37:56] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:57] Predicted:
+    while True::"}uyh , ulut_lize)))
+   tf.))
+  domh_sbqon(=                 
+   tr_m_xi2
+        '')
+      ts.)
+     p =    orsorencmanasipxen, hed]
+   tf_t_seq(:}sead_x_Oext), rryn2
+
+ in_leislortt_sedxt = serleSoisr)
+                 pexxc/[y oroadslistp 1
+      
+[RNN1][2018-01-09 18:37:57] Running epoch 8
+[RNN1][2018-01-09 18:37:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:37:59] Predicted:
+    while True:orn,      
+   fot_th_t__pry_se
+              nshext)
+
+    f_se)(            [ t 
+    tre:
+_:istex{(Cre.:)
+    f_seq)
+
+          opndoc+chat))
+    tf_oathob=   
+      f.d_lezidte),   indutute  
+          i           nanp, E(npced_me20:{Cng_sertopt_s )
+[RNN1][2018-01-09 18:37:59] Running epoch 9
+[RNN1][2018-01-09 18:38:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:01] Predicted:
+    while True:
+              'f = tl_h_tasirh_masbep_isdati = cfuind:t_indolOh[6s = ipt_ste(tatex= 9f_y_pen,.pedstusinplid-_seq_o d3-1*:'ser),
+                        "+.partpbdse)}["lopteq(lud(t .f_sh=='s_f+in)_on('}reds_strrdt)
+
+            tfx s * .joln_petepse
+[RNN1][2018-01-09 18:38:01] Running epoch 10
+[RNN1][2018-01-09 18:38:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:03] Predicted:
+    while True:/"=stsy_seq(lex = tf d_seq), tf_thste ty_i6t 'f_l_f_yateq_len_loaod]'ud  
+         it  t xt
+     {foratttuut
+
+   ind_t_[hpest)_len(]
+        folulloan(np.brt,tf.f_seq
+  tfud_t)])}leater = s(q_text_ist)
+            
+   tf_d_ xth_in([1:, s q teqtyuleat
+[RNN1][2018-01-09 18:38:03] Running epoch 11
+[RNN1][2018-01-09 18:38:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:06] Predicted:
+    while True:
+
+    prext}".patf_x_se):]
+  in_y_lert_sta)
+
+  tf_h_h       pseq
+      onslen   ser_een)
+  e
+          wseq)
+    tos,  
+                         b_n id p_tath_tuse,
+  f in  tf_trareite_tprtn("1.ledn):
+            itex_s.qr(n14t(virl_telt(id_8#ut_ueat
+[RNN1][2018-01-09 18:38:06] Running epoch 12
+[RNN1][2018-01-09 18:38:07] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:08] Predicted:
+    while True: tatauize:                      
+   ssrst)
+                  tf.monnure()
+  f__des
+ [fe: indstarte
+  f_ulib    of_h
+    trut_::61
+        irt_stqostrruse1 
+       tart_sazeLoggsed_mattudstq)
+    tf_y_ser 1 =   modstrutf.pandre=tradpxp)
+      ridsin_ 
+[RNN1][2018-01-09 18:38:08] Running epoch 13
+[RNN1][2018-01-09 18:38:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:10] Predicted:
+    while True:]
+               
+                 #t.fist, tf_whx)        y_seq
+  y tp_s_sif_utadat_leat(op.pot4
+   5
+          f an_meL_siz_pats(siq 
+                   tf_hre t dn(tand_on.: lrgph      
+    
+ 
+                      start_taxt)foat] '1.radgep_lcinx
+[RNN1][2018-01-09 18:38:10] Running epoch 14
+[RNN1][2018-01-09 18:38:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:13] Predicted:
+    while True: , inx_t
+  hy_s_ch(tf_Slentu:)}'
+    '          tf_l_h = tf.wplext_stq_to_thrang.["0
+
+                   ch_tf_siq = tf_dstaph, Natf.P:"Loadztrrt  '            h      prann tf_sbactr_t_ortp[tfoghen-mabangon.fof led_text
+ [n(nnt = sinse=peaster
+      
+[RNN1][2018-01-09 18:38:13] Running epoch 15
+[RNN1][2018-01-09 18:38:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:15] Predicted:
+    while True:.,forgt(start:1)
+      x dut_sin, lom+=                   tf x
+                             tf_h_n + { -pat))
+      tfcy_p.joidc[ndo_len_omutx')
+    tf_y_h_lesos = minge_start 1:
+
+   opindy):           reut
+     = I_inistauin(y_topy_y_seq lorindxe(tf
+[RNN1][2018-01-09 18:38:15] Running epoch 16
+[RNN1][2018-01-09 18:38:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:18] Predicted:
+    while True:ful_paxt(py_siz = tf.f
+  inxlos.sep_- lost)pledtmalpe')
+             pat =tf_choxt_xut(pexn)
+      preq_x_put_og = tf_f_y_r x = Trme= voidx)
+    t ddlut(tox+Loat30, staqt_rusn(np.patin(manplinger = qutu)
+  #xt_ol_hreduls(
+  flatusex_seruceq_o_[ch
+   
+[RNN1][2018-01-09 18:38:18] Running epoch 17
+[RNN1][2018-01-09 18:38:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:20] Predicted:
+    while True:[ ~arat(.f_on     tf_pat]
+
+      tf_moaterndbeatforblex_seqfirtfutq_seq:.ules[:1)
+      ger_t_xit] = tfut_idxdp{
+      f ll_str_topdt se:
+    {}  tfll_inxlin.froat(utq_th_tast_fortrach_ib_xut_nen_oindrtastre: = irtast(rrame(f_xep)+= b
+
+              
+[RNN1][2018-01-09 18:38:20] Running epoch 18
+[RNN1][2018-01-09 18:38:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:23] Predicted:
+    while True: idx_tert_'hrin  = l_start idxst, trath = y .ontserodstats, tf_h_lose,  orchin  uleLold_seq(hong_n(th.math
+        nf_y_s_anceCn_ochit_tanp):
+       tfxex_topu:)
+      
+  loadpr,h_ib_sen(")
+    f xx)
+     x __per_nampy))
+      idx_dertg : tf_hinihd_s
+[RNN1][2018-01-09 18:38:23] Running epoch 19
+[RNN1][2018-01-09 18:38:24] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:25] Predicted:
+    while True:
+    tr_th_reddmedutith.fordut(stiogle(sile:[ch = seqp.range(_dutet_")
+   predt,   tf_sta_s,
+fpat (undutatg londr prenile_str = ringef_lo_ty_f lose)
+        n .predt
+  fort), drupe='y = sanplest
+            los +=tf
+        s er[atfodrin(tf_h_furt = 
+[RNN1][2018-01-09 18:38:25] Running epoch 20
+[RNN1][2018-01-09 18:38:26] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:27] Predicted:
+    while True:"):
+      cutx= tf.zenpat_sen_test): iniddrmat__hyin= nf.arin_soprlut:[dure coidxove_mart(stiste(1p
+    loed_wih)
+    formp(seq_he, seq"
+   ippex_pomiss):
+    predtortete)
+    h ll_str_ loa
+  istart_text
+    
+        tf_heh_in t_sty)
+      tfaglo_ut_
+[RNN1][2018-01-09 18:38:27] Running epoch 21
+[RNN1][2018-01-09 18:38:29] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:30] Predicted:
+    while True:Logger_linp.ruth.jonn(vinata_tyus, fol_stf_ligb):  tf_hor     loam()]
+    y c= osser_x_lod tosder(at_idx, seq: = onty_size)
+      odul__oput = paepse:
+      
+       tf_x_tor lin(tf.tar)
+        sersiw  pre_text_leh_topt
+    fulasteploint = x         
+[RNN1][2018-01-09 18:38:30] Running epoch 22
+[RNN1][2018-01-09 18:38:31] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:32] Predicted:
+    while True::
+     dloh +hod.prtyre, ~iin(urit_xdrtat__ing, ofdre)
+    
+                                                    reput, f y_t =h)
+  aflog loid_smamd_in_tf_y_x_seqp2s),  cho_ting  {}f.reatartrel_tost_ristert  sher_h_init_lest, ortalin(!predin_tart(tf_i
+[RNN1][2018-01-09 18:38:32] Running epoch 23
+[RNN1][2018-01-09 18:38:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:34] Predicted:
+    while True:
+          tf_inge)
+      f_oules)
+    
+                for start_in_truth
+= tf_lnis= rangin_text tl_ch, path,  iftlaty_y_rurboser_aex_==tfxepDting.matine_size))
+      ratc,outext_seosh] f rste_(chidpradseroan)
+     fimplach,[tf_tate_coifist         
+[RNN1][2018-01-09 18:38:34] Running epoch 24
+[RNN1][2018-01-09 18:38:36] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:37] Predicted:
+    while True:_size={: ve"), lsbre ')
+                       tf_y_sort_oomestestang_iate(1]
+      redte)
+  _fiss)_lob = -
+
+     
+    
+      ifs(start, = tf.dpprlat(osters
+   
+      }
+     logger(c ch,  lue(_oodt: x_seq)
+      
+             rfimx = satp
+= laun)
+   
+[RNN1][2018-01-09 18:38:37] Running epoch 25
+[RNN1][2018-01-09 18:38:38] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:39] Predicted:
+    while True:              loat32, drat_izer)
+    tf_h_t = p dut, start_idxtart = log Try = sest)
+    fomlen(s cocen 
+     
+    f men)
+    loste_ty_init_lust)})
+    f yx_size:(11:s{q'.plonde
+                             it _p2c, far inpring({:h"Drin( ty_Tuth_loa:
+[RNN1][2018-01-09 18:38:39] Running epoch 26
+[RNN1][2018-01-09 18:38:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:41] Predicted:
+    while True:
+                                           tf_h_inshidren_ibxex = tf.smard=ts.sacon(hsidx_seq)
+    tf_x_ty_s_(unp.))
+    loads):
+    tf_y_seq_lin, tf.johs(tf.fx_typl_saqhos!:
+  atertinin("Runam(indut_x_surn ty_f.in_tir _size, foutpon
+        rt_x_na
+[RNN1][2018-01-09 18:38:41] Running epoch 27
+[RNN1][2018-01-09 18:38:43] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:44] Predicted:
+    while True:
+   pled_tom:tf_y_seq)
+      y_seq
+       ef_= se::"":
+  drte_soq + }for     l = tf.tf.Valiab:1:
+    tf_h + tf_')
+       
+   rtrut_text:
+     x_serna~tout_oamp)
+       stratc.zer(dr(py_y_seq_lecstfomdan(ssceq_oh, de
+
+     for d_text = tf_srini+ded_pa
+[RNN1][2018-01-09 18:38:44] Running epoch 28
+[RNN1][2018-01-09 18:38:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:46] Predicted:
+    while True: (dtex_heftr_tos ]))
+      #t_undul_inp =[tol=_inx: 1
+   homm_n(troptedsonivd ort(t8_t_xos:
+     namo_nurcosize(dred_test]
+           tf_h_seq  e
+  ranp_npredun = ser(mopy_struc:
+       tf_t_tin   itf_tust))
+      log.P(".fy_py_[=tf_y_fut  
+         
+[RNN1][2018-01-09 18:38:46] Running epoch 29
+[RNN1][2018-01-09 18:38:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:48] Predicted:
+    while True:
+   {}".foring[s_preds, h_startute_trodre idi:   tf_h_'y_rode)
+  .poodging:*{ = tf.mutinsteptine istropk de:
+    tf_x_for ti, [inamet_sin = utf_h_seq)1
+          flomat(tf_h_f x , lomuti-p_ini: on.s.adstrr   y_seq{Loge)..joran(s1:
+      op.f,lostals_
+[RNN1][2018-01-09 18:38:48] Running epoch 30
+[RNN1][2018-01-09 18:38:50] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:51] Predicted:
+    while True:      labare=ts.tf.loh(les()
+    
+                                                 tf_y_stapt__h_oridin("):
+     damls_calc[)
+   start  ] + rort_durn_t_xt[= prenc(h_strat  Gos.put_sin .ron(m(staptenck decte_to_tf_y_full_seq = Nrce
+    for staple_se:
+
+[RNN1][2018-01-09 18:38:51] Running epoch 31
+[RNN1][2018-01-09 18:38:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:53] Predicted:
+    while True: N
+      tf_dutx+= #fpuri -_oat32)
+      ch_ser(lodule(np.in.laan(h_py))
+      cte_initstf_lin(tr_istar,  {}")
+  h _liana:("Loanbog = * Janpogle(npuep_inglag_e(tp")
+        n = {
+    loam(nndrmat(odumat__predt+= sepoch
+                               
+[RNN1][2018-01-09 18:38:53] Running epoch 32
+[RNN1][2018-01-09 18:38:54] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:55] Predicted:
+    while True: p2ss,01
+                                                 y_sehor          fill_sindt _tx_te'= +x_pre s
+     if endmet = 0 +  ntf_x_inpuypy_size))
+    "".Noat(rindringess, pre))
+     Varg_indut_se)
+     '
+  2_seq_seq_oh,ch nutils_name, shan(n(matfirn
+[RNN1][2018-01-09 18:38:55] Running epoch 33
+[RNN1][2018-01-09 18:38:57] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:38:58] Predicted:
+    while True: s tf.tanchine 1:
+    tf_irt = f
+
+    lex_p2s(pridt(_n_meq_oh = sepr= t .cor cenpren(start_'+stfrostaplize].p.':{chist s: :      seq_lost
+    fil_xrte_seq_tiwt q,   cor = indut(tfogle(tf_lostart__inil_input(orule = tf.join(th_dut  s_poodse:   tf_h_in
+[RNN1][2018-01-09 18:38:58] Running epoch 34
+[RNN1][2018-01-09 18:38:59] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:00] Predicted:
+    while True:0: 0port start_se)
+      loggeos.rangize = seq_len()
+      usgen_seq_le))
+    log.P("Pr_parnrel_iop):   
+      shart = tf_y_s_suct})
+  
+   fostarist(sep_oh,
+                       utit, dnamiz_rang_(ho_s_rost:
+     
+        tf_x_tert in tart_te
+   ut
+[RNN1][2018-01-09 18:39:00] Running epoch 35
+[RNN1][2018-01-09 18:39:02] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:02] Predicted:
+    while True:      _s_coch_oat]= [p2s.path.ils('{}k tost: oh = tf.Venid_lam(ulimprran_out)()log.Pe(vseq_leq_lels-*lsb(nf.llistest_filh =                                                                    
+         ise), le((1.pach_seq', dsiat(start_idxtare__witpu
+[RNN1][2018-01-09 18:39:02] Running epoch 36
+[RNN1][2018-01-09 18:39:04] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:05] Predicted:
+    while True: = True, tf_h_seq_lin, l_bre tf_tr_itx_seq_oh):    path = stort iope9_seq_lid ))
+    priss = n_ourbagh.rsst(ptids(asten"..panit-:
+                tf_h_init__axt)
+     
+                   r in_seqse= op.path(t:
+  
+      # ge
+  start -'leonge(sindomo_d
+[RNN1][2018-01-09 18:39:05] Running epoch 37
+[RNN1][2018-01-09 18:39:06] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:07] Predicted:
+    while True: +*tf.rriddom(drtat(oin_vofiln('{}"Creat(atulimplosstraty_out = sepr= tf.anput_osh_fist))
+     tf_h_ini: {}'  
+filestamt_tipiat(",
+              
+  e slos nr.poh_in.pystrat_sinp inputp ip =tf_h_ini: h_seq_leas, 
+  ffor d tos (".rsanat_ocopy==[1]
+  do
+[RNN1][2018-01-09 18:39:07] Running epoch 38
+[RNN1][2018-01-09 18:39:09] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:09] Predicted:
+    while True:
+  c nplost: ornglessen_meitil_size, ch
+id_tart(tf_y_seq = tf.pren(y_seq)
+         nule_ty_init__predt: tf_pri)
+      floax_molstroliss, input_test
+    t xt
+               log ={}], drep_innut_xest_ptodt: +drod_namizils,
+         tf_h_init_opochi),
+f
+[RNN1][2018-01-09 18:39:09] Running epoch 39
+[RNN1][2018-01-09 18:39:11] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:12] Predicted:
+    while True:      tf_lon(los.P("Rfouth_outGoad_nox_stap, tf_lost, lib_nath = Truex_loadum(tf_yre t = seq_leds))
+                             # geroloat32)
+     os.zeq')
+   preds, indulo(np.s.ract(nposypr= tfuss,
+                                         ', tf_y_f
+[RNN1][2018-01-09 18:39:12] Running epoch 40
+[RNN1][2018-01-09 18:39:13] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:14] Predicted:
+    while True:       y_seq', tf_h_initx_seq_lib ={}] e }"".format(start_text_fill_se, x dsinpul_samplidg_math.gle(dey_sich os,
+    tf_yut] loat32)
+      x__orist(strath.runi:h_ses = tf_tox = redscan::
+                    loggere, Trae: ", stbre Anidx:
+      tf_sam
+[RNN1][2018-01-09 18:39:14] Running epoch 41
+[RNN1][2018-01-09 18:39:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:16] Predicted:
+    while True:{:]
+    tf_tx_seq_size])
+    tf_lost(rod ", range)
+      #tart_log = s 0r             fledss
+                                                                              fey_size):
+           n
+  ror darte(tf.tanit[1:   p ty_sort = vsize)), ds.ze = 
+[RNN1][2018-01-09 18:39:16] Running epoch 42
+[RNN1][2018-01-09 18:39:18] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:19] Predicted:
+    while True:
+     ostart                         #_te)
+           seLoggea: :                                             in_tep
+    lom(_path,idput_loss))
+    _h_whh))
+      
+                                                     
+    tf_locter_pye(tf.lung:
+     
+[RNN1][2018-01-09 18:39:19] Running epoch 43
+[RNN1][2018-01-09 18:39:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:21] Predicted:
+    while True: ostrart id_tamidd(mat(damp, tfsenp
+if ndt _fill_nutp))
+    
+        tf_h_seq
+                  preds, imprin inputh
+           tf_x_seq_os.0, nducef_o_start = s tf.gload)), ss_fuld_cun): lee(hogger_indre = rtf_y_sarn       os areptext)
+        out_d
+[RNN1][2018-01-09 18:39:21] Running epoch 44
+[RNN1][2018-01-09 18:39:23] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:23] Predicted:
+    while True: in Andule.t."": ddtrut(st_push = ls.zering(ssariop[1] pranes_senp.pre(step = n }".forme s = tf.prt tt_ftulindoh_max_(ofild_py_sizer], dstefor input_text[-1]
+              _fid_set = np.can, = tf.tstidt(tortat]
+   pefte t__tat:tf_stat
+  t is_to_chr))
+[RNN1][2018-01-09 18:39:23] Running epoch 45
+[RNN1][2018-01-09 18:39:25] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:26] Predicted:
+    while True:os.senp.canit'_start:
+        
+             senp.inddtf_s1wh")
+      y_seq)
+     fild_rue(ute = lab(), i   tf_y_full_seq)
+       flog ert  tf_y_f_xls = t].floadule('logger(lib_nat = tf.grart(tf_y_ini: ]
+     fimp))
+      x  + ipto):
+   #tex))
+     x_
+[RNN1][2018-01-09 18:39:26] Running epoch 46
+[RNN1][2018-01-09 18:39:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:28] Predicted:
+    while True: fild_nas, ytf.Load_x_srin:
+      file_sh:                                                            tf_h_inctex ] = sef_x_seq_+]
+    
+                                                             f x_seq_ocat .prepy([{t_xt_py)
+      os.rost],
+    tf
+[RNN1][2018-01-09 18:39:28] Running epoch 47
+[RNN1][2018-01-09 18:39:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:30] Predicted:
+    while True:            # top,
+  flog loadsenp.can(t _fils_nath, h_fil _serort    y_size = enpridt(oste =1q _ cormat_otmad(tode: =             fortp inf +_ty_size))
+      oss)
+      osserolis_[am_size)
+
+                              tf_h_secoling.rande:
+        
+[RNN1][2018-01-09 18:39:30] Running epoch 48
+[RNN1][2018-01-09 18:39:32] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:33] Predicted:
+    while True:  n
+  start
+  l get =tf_y_inp[t)
+
+          tf_h_fild_nat =      tf_on, senf.Gradd(n_strain.folt_str  clas., to_t3ze)
+      x_seq_libt, ndted_cer))
+     orcose(s.csamet:xmars    n       [tx_saq_uestart
+")
+      preas = xpe:
+      x_text_range:
+      
+[RNN1][2018-01-09 18:39:33] Running epoch 49
+[RNN1][2018-01-09 18:39:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:35] Predicted:
+    while True::
+   
+        tf_hrias(sor "  put(tf_drt = lob ))
+                    tf_inpute[chint Silpat(stmridt: ch '{oung[is  l_stex:
+] drep = sen(
+ n   fit = tf_x_seq:
+
+                             foutplod.puthogless,pot()
+      q     ofil_ser, tf_h, tf_h_in
+[RNN1][2018-01-09 18:39:35] Running epoch 50
+[RNN1][2018-01-09 18:39:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:37] Predicted:
+    while True:  f f_traty], ts.zering(size(tiscen_size, h_stroin = ch  tf_Sils)
+      tf_trads =                        x is ilor.p,=tf_h_inc[{}]
+      xt_ti_in(trat] = step,itxdetf_x_seq:"""", path_filderon(_pun
+  if dat.rypatit-1,
+     tf_y_surio_n(startr(dtedtr
+[RNN1][2018-01-09 18:39:37] Running epoch 51
+[RNN1][2018-01-09 18:39:39] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:40] Predicted:
+    while True:  n
+  senpoty_sizer(cos()  lpas))
+     tf_tridilge(0)
+             ftep==yrol _ocids[1:       })
+      tf_init_opx_del_v=ind = tf_h_ini: {n(vedile= file_naxb), vsize =  C
+                for id_paach@alse(1,+hodutmam(tf_h_sess.rt
+  des_pridt(ssep(siz
+[RNN1][2018-01-09 18:39:40] Running epoch 52
+[RNN1][2018-01-09 18:39:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:42] Predicted:
+    while True: = Tre = on
+    
+                                tf_init_t'_t -
+    tf_lostamisitf.matmart = str_seq ledr)
+                                        tf_x_seq_sh))
+     for ade):      tf_h_iniliss[1
+  tf_init_olonut_oropy()
+      orc), Sisperodt
+  f le 
+[RNN1][2018-01-09 18:39:42] Running epoch 53
+[RNN1][2018-01-09 18:39:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:44] Predicted:
+    while True: Nonernder(amopy_seLosize:Eucer_ce()
+    f ss)rol inif_x_whran)
+    a5h_init__int(star(pes.zer_ch)
+  sh in [1,   {
+                                          for _duth = tf.Variable(tf_trog ).
+  dame.namp, 1, st = s ')
+                 tf_y_preds))
+  
+[RNN1][2018-01-09 18:39:44] Running epoch 54
+[RNN1][2018-01-09 18:39:46] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:47] Predicted:
+    while True:
+      os.pain - lictirt _h_sh)]      log.P("".joh(tt_x_ceq y inpath =tf_h_init_ortinp[=tf_ymfimpyr(start_'tf
+
+   #test)
+      chiss = tf.Vare(tepsse)))
+  
+                                   
+                                       
+    
+    
+    for 
+[RNN1][2018-01-09 18:39:47] Running epoch 55
+[RNN1][2018-01-09 18:39:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:49] Predicted:
+    while True:: f
+    y_seat  {}
+              tf_whist(st_pyc)
+
+      x_tep))
+           
+    
+    f lses_= oat], flog _seq,
+      tf_se)
+       tf_h_ini: tf_y_for s rrid_:"_firnath_initilpe(tf_yre troc hos  inputh,
+      x_tout
+ 'rtf nrt__taoh_oos, itf_y_s,is 1,
+[RNN1][2018-01-09 18:39:49] Running epoch 56
+[RNN1][2018-01-09 18:39:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:51] Predicted:
+    while True: _size, hiddend_dice={
+  h ivs"), flutput
+      in test
+    tf_hress)
+     namar(
+         tf_y_se)
+      'h_oodula  lach)
+
+    p chin rang(sess
+  tf_h it renuceh_ory = tf_h_inite_strop = sace(poasize:, i2c = tf.tf.inpun(truc] = s in   ls.zernivsizi(
+[RNN1][2018-01-09 18:39:51] Running epoch 57
+[RNN1][2018-01-09 18:39:53] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:54] Predicted:
+    while True: ostre:
+        tf_h_out = str_tocoh  h_start_tedt:
+     
+    
+    tf_troit +
+        preds, inil_size)
+      x_seq_oh.fonde if_uax(seq_xist(rutiable(tf_h_initeLoc ={code)
+  {}' stf_h_induls :log.P("1,
+     fom = op2],file)
+    
+    tf_h_ini: t__p2)
+
+[RNN1][2018-01-09 18:39:54] Running epoch 58
+[RNN1][2018-01-09 18:39:55] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:56] Predicted:
+    while True:  oncen += st = p2ctf_liss))
+    for if.r+startm_dxtarmodstartet xt_pach_destin  tf_y_secohomatiop_tapat(rop =ts_seq:sh, tf_h_out], tf_h_ini: h_start)
+    f llist = con  = True}_fist, ostart_text = Nonulis.(apy()
+      y +hodule =    lfil= Grog _s,ra
+[RNN1][2018-01-09 18:39:56] Running epoch 59
+[RNN1][2018-01-09 18:39:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:39:58] Predicted:
+    while True:fronds_liatea:, file_name):
+                               f os se fores (roctenpath = tf.Sosspont
+                                                    for samout       # be: "
+    infreds
+
+       ouc))
+                         ostf inf_y_pre, tf.', t
+[RNN1][2018-01-09 18:39:58] Running epoch 60
+[RNN1][2018-01-09 18:40:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:01] Predicted:
+    while True:[st[1, feutx_to_chr for at(pen .nusy(grep):= tf_x_seq'")
+      xf.rangin =[s = ostmrort = np_h_ini0-0, predt(stf_h_ounq = Tfledn:
+                                  })
+    oscze ih in   osser_io_fir   in _text)
+      out
+
+                       f +_ty
+[RNN1][2018-01-09 18:40:01] Running epoch 61
+[RNN1][2018-01-09 18:40:02] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:03] Predicted:
+    while True:      log.P(.path,filt_taxt(rn
+  ont(tf_trico_ouss, start_text = {}
+ fouth_seconose:}", "ame= Ih, ran: 9 br.p.ratis_test:
+               
+       f, _labls(tf_loge)
+      os.pathrivs[1,Istart_idx+stipn]
+
+       os.pachi,  indrid_ondsetflist(st:.dx_to_
+[RNN1][2018-01-09 18:40:03] Running epoch 62
+[RNN1][2018-01-09 18:40:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:05] Predicted:
+    while True:
+  
+                     fouth = tf.genut  s pred_re)
+                                                                                                              tf_lost = shist.r+rn(tast__ich))
+    h is  np = s pred_p:h)
+                x_seq_oh.c
+[RNN1][2018-01-09 18:40:05] Running epoch 63
+[RNN1][2018-01-09 18:40:07] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:08] Predicted:
+    while True:      fimp=')
+    tf_h_out = 0
+  losch{
+   plist
+  seq_lest), start_idx+seq_len, range(sampondedslos.pachbin_lib_nath, istarte()
+  if
+  ls,inprenidx_seq_y )        }                                        
+         ot = 0
+                   
+        
+[RNN1][2018-01-09 18:40:08] Running epoch 64
+[RNN1][2018-01-09 18:40:09] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:10] Predicted:
+    while True:
+  
+     x_seq +*code: Ion, hing ran, [stropy_(ifdred_to_dir+ tratse= x dsifeloglerCleLosgh = tf.tramize):
+    tf_h = tf_h = tf_tr(dry   {{})
+   tf_h_ser
+           x_sort = optedt
+                              ftfpe iner_peq_seq, file):
+          in
+[RNN1][2018-01-09 18:40:10] Running epoch 65
+[RNN1][2018-01-09 18:40:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:12] Predicted:
+    while True:[cex_seq_oholus(1, hiddend_sar =tf.finafe:
+        tf_y_seq, finplam(_ty_t2)
+                 rettx:
+d_stricc_rat_on.path, tf_y_fom )
+      xt, tf_x_seq:xt_peq)
+      xt_sti, [tf_i2)
+         for __ocitxtf_lester_size]))
+      oh = op = i ing__ath,  
+[RNN1][2018-01-09 18:40:12] Running epoch 66
+[RNN1][2018-01-09 18:40:14] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:15] Predicted:
+    while True:
+     n
+    
+        tf_h_ses_poic]='1, dtabin(opwinb[tf_s_stepye: ceq_list,
+             for stapse:{
+              for lichiach:geq_lestift"
+ fes+dn
+    
+    input)
+      fos )*    {con = wpue = op = tf.Grodt(st:  {}ogessepsin(text_text = setn, tf_
+[RNN1][2018-01-09 18:40:15] Running epoch 67
+[RNN1][2018-01-09 18:40:16] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:17] Predicted:
+    while True:  n            unaut_text[1:] + ep)
+
+                        for steptindut(les(aridin, dtl_s_inidn:
+               else:
+                pred_nist(st_pus(nrtost: tf_teq))
+     oss_hils_'hosuen(eltart(tf_y_folise(stifilex(staule(np.c))
+      
+       
+[RNN1][2018-01-09 18:40:17] Running epoch 68
+[RNN1][2018-01-09 18:40:19] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:19] Predicted:
+    while True:  st.p.ran(st::
+cnrolist = stert
+  hos.pa'h)
+  str_poiss(start_text
+    tf_y_seq[xe nouchSit, lae[1, h
+ivd_anin'".ferungestin onmed_pat(starndt(op.:1:
+        os +{}'   rend_itian("Dos(drep,{size(np.zerose(stirtrame=[cepoch {}".fortet:.con in t_och)]
+[RNN1][2018-01-09 18:40:19] Running epoch 69
+[RNN1][2018-01-09 18:40:21] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:22] Predicted:
+    while True: _seq_oh = stret dopdeder:cen'"
+   stross = labiasiaslog.s.sh(dop.=1, )
+    tf_wxt)
+        x_size[sh_i:c0)
+     tf_hrilt(ripex_seq_los ){
+    
+      pred_noss_path = se:')c
+      felosstepsinoos en.cenfilen), start,
+
+ feout = tf_h_ini:hos
+
+o__tamid(
+[RNN1][2018-01-09 18:40:22] Running epoch 70
+[RNN1][2018-01-09 18:40:23] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:24] Predicted:
+    while True: [tf_x_seq_seq_liss, dtype=tf.Veridx_setf.matm(l(amuen()
+   for )
+      ch = inivsize):
+      'lor t_start_text
+    tf_loss, h ivx_init[[tf_h if rep[={s_senn(tfxepn+seq_oh,
+    start_text), in Aamild(mox(drmat(op.f)
+  fome_dich = ssepoincend.rondstap
+[RNN1][2018-01-09 18:40:24] Running epoch 71
+[RNN1][2018-01-09 18:40:26] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:26] Predicted:
+    while True: [tf_xx_seq_size):
+                                 uf loss(1pse:f_wxt,redtamod(tf_h_ini
+                                      f wh = ste__xise)
+                                  hogl_onume:
+    for steptin
+  p in   ostprtp(tf_inin(tf_x_pr(dt .0.soro
+[RNN1][2018-01-09 18:40:26] Running epoch 72
+[RNN1][2018-01-09 18:40:28] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:29] Predicted:
+    while True:uld(map):
+     y_seq)
+               out_list = seq_pestarte:]
+e Locetf
+
+                                       tf_y_seq, istart = ut_text[:hos
+]
+   nata))
+  
+                 }
+    
+
+    'h_ose, 1] rtf_x_seq:
+                 forurnit_orust:  {}
+   
+[RNN1][2018-01-09 18:40:29] Running epoch 73
+[RNN1][2018-01-09 18:40:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:31] Predicted:
+    while True:  ste(1, hogleon  {}".format(tf_y_sor+los(codule[tfolos(dricblses1, hist = ssen_xist_sty, flumalivsilid(tex,[tt_x_seq += '{}'
+  tf_h_out = s tf.float32, shap#=-0, lnash):
+        n  Iofch_seq))
+      x_selolimp indr:
+  n -:
+  for list0
+    put os ), 
+[RNN1][2018-01-09 18:40:31] Running epoch 74
+[RNN1][2018-01-09 18:40:33] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:33] Predicted:
+    while True:fidx_int:
+c       for  = sepn,
+                                     #rbias)
+                           ceq_xest, tf_hbiac]
+
+    ohcet_op.s)
+  
+             x_text = sh
+  tf_x_seq:
+        x_seq_or,
+    finas)), ss = tf_h_inileen, tf_hbias, tf_y_inpol
+[RNN1][2018-01-09 18:40:33] Running epoch 75
+[RNN1][2018-01-09 18:40:35] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:36] Predicted:
+    while True:       log(eroddrmat(ossepologg(ratcen = tf_h_ini: rh
+  sepulist = seq_len' ilf_xbias thocextext 
+         nate= vs
+gdes))
+       t fon n)
+    
+                  tf_h_out]llist:
+               ifefss_pat(se:f_xb_ueq:
+                              ost
+[RNN1][2018-01-09 18:40:36] Running epoch 76
+[RNN1][2018-01-09 18:40:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:38] Predicted:
+    while True:  ont = sein.on: binpos.path(glash inimexdirt =tf.float32)
+      h_start_idx)
+           
+              
+                            for idxt_start_text
+  h  
+                  tf_trog Tre:ktfaen_dilt()
+                     fer i]
+  tf_h_ini: h_start
+[RNN1][2018-01-09 18:40:38] Running epoch 77
+[RNN1][2018-01-09 18:40:40] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:40] Predicted:
+    while True:  = tf_x_seq:
+                                               nat3))
+    chare = s np._size)))
+      input_text[1:h ist.pati i*cenp.en ivn red_con 
+    p_fus )))
+       xxt:
+                       xt =tf_h_ste: prtath_ouss)
+ilse(p2ch, start = tf_troat
+[RNN1][2018-01-09 18:40:40] Running epoch 78
+[RNN1][2018-01-09 18:40:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:43] Predicted:
+    while True: [ste:
+c brap, h_str, tf_h, ssepren opn, True)[
+    pridt(at, vlostart...fompy (stfre: data = tf_h_ini
+    preds):   {}"."...atize(1, dnumeoramest: tf_y_seq,
+     n, ses_poat
+  log.P(.preds(tf_wxy)]     tf_t = tq_to_owteps=tf_x_ini:h_seq_lessprids(mp
+[RNN1][2018-01-09 18:40:43] Running epoch 79
+[RNN1][2018-01-09 18:40:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:45] Predicted:
+    while True:  ste:
+cetf = an(edulling = True)
+    #tbite, dral_size, hidven(opath.menn.molut(os.py_iabals.rust(ut
+      x_seq += out_loat32, ch.s.chindize(np.zery g rat_nusel_inp)
+       ore:
+ifdutrtatypratc[s
+ russes
+ ndutr in range(stf += '{ch_seqren optedtr_t
+[RNN1][2018-01-09 18:40:45] Running epoch 80
+[RNN1][2018-01-09 18:40:47] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:47] Predicted:
+    while True:  stl_tirtets.:h_ining
+            tf_x_seq:"")
+  stV(lish(_x_suls Sild_'asse:
+  
+                    seq_lest,
+                      ifernd_tos=1] prist(np.zeCnagho_chriss(r.pogimp(dtf_wxi)
+  for a c] pled(tf_h_yur in th_derte_seq))
+    pred (pnate 
+[RNN1][2018-01-09 18:40:47] Running epoch 81
+[RNN1][2018-01-09 18:40:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:50] Predicted:
+    while True:fpolt(se: [c epue = op = imep):
+       ost: tf_y_pred_lo_typostNone:  ifiog = tf_h_inite:
+  n_seq:
+     ostart id_orald(tf_troinc[in]
+   f
+  labledule = op.ads in -Gorgess, h_dertist(runge(1,
+      chare  ost(rimef
+onamel=d:im_path_::h_seq:y_seq_ley 
+[RNN1][2018-01-09 18:40:50] Running epoch 82
+[RNN1][2018-01-09 18:40:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:52] Predicted:
+    while True:  f e                             fer = {}"",flush = Tmu_moadse: ['tf.nn tC_seq
+
+                        
+     
+    
+        tf_hrelsenpteded isise:
+  rtr_stf,logeefidstrids = lenp)= medule = lin(tf_init_op.c): liss)
+      
+      h_start = npy+hi 1]
+
+[RNN1][2018-01-09 18:40:52] Running epoch 83
+[RNN1][2018-01-09 18:40:54] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:54] Predicted:
+    while True:  ste(1,
+      nates_modch = prin (hom innrepos.cen]
+       ifprad (ses_oh gles_namad()
+      tf_h_secolist = se0:
+    
+                
+       tf_y_str)
+      if range((seq_lest0)
+    preds):
+    
+               xf_:hy = tf.andomuti.c=tf_text +logge
+[RNN1][2018-01-09 18:40:54] Running epoch 84
+[RNN1][2018-01-09 18:40:56] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:57] Predicted:
+    while True:  f e istr,tfige(np.zeros((restart_dx_seq
+
+  ip =unput_tame_ocon = spreLogger")
+  for st: h_id_pash)
+    ntfiflestr, staps=tf_tractiftrach )
+      osser = Non                     os.puth.repoinim_start) Ext, step==['{}"~".finit_type= out_tef
+odupn= '
+[RNN1][2018-01-09 18:40:57] Running epoch 85
+[RNN1][2018-01-09 18:40:59] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:40:59] Predicted:
+    while True:  start_idx = 0
+  name='x_seq:
+  full_step[],  chos:]    inaut__ingue = tf_x_seq))
+     fin.f.size(np.zer))
+    
+    for sess,file_name, c
+        for det = tfdam dut__seq
+   op..1, idute = str_to_oh(y_seq{}  name='tf = ex_seq_len:
+ n    tf_y_seq_los
+[RNN1][2018-01-09 18:40:59] Running epoch 86
+[RNN1][2018-01-09 18:41:01] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:02] Predicted:
+    while True:
+        x_serins.axpadx, tf_wxh), tf_h_init ols_in_xes], tf_y_fill_step))
+      x_seq)
+                    out..alt(tf_+=typestmptade, vsize)* =9'{oh.")
+      #tbart ids.randomuty.ax_stape= host_namp[=}".formatse::"'{
+    por i cetflo)
+             
+[RNN1][2018-01-09 18:41:02] Running epoch 87
+[RNN1][2018-01-09 18:41:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:04] Predicted:
+    while True: ":
+        tf_h_ini: tf_y_yur = r input_text
+    ostiace:
+cbresti: 64geastr(dramh(nume(t, yh
++   #rcatpDad_s_setf-n  tf_torch  tf_whh), predt(st_pach iler(drapy(Non(
+          
+    os.path.')
+      x_test:{
+]   
+    tf_loss.2s_in_tis, ring = tf_h_st
+[RNN1][2018-01-09 18:41:04] Running epoch 88
+[RNN1][2018-01-09 18:41:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:06] Predicted:
+    while True:  = tf_x_seq+= ' ' mpapn=[seq_len, vsize],
+        start_text
+    tf_loy(tede(vorami(stapt].conmodule =unput_text
+    tf_init_oprepoin_name='h_in_taxt(ep_:
+f le, "s, rtome=tOptyp,idc(oucq= s tf.ch ilis.01, tf_h_ini:h_start
+    nrme, xfivsizi)(h_str()
+[RNN1][2018-01-09 18:41:06] Running epoch 89
+[RNN1][2018-01-09 18:41:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:08] Predicted:
+    while True: _seq=
+      # boa 
+    predsen(y_seq)
+      drive")
+
+      nrbeas,
+      felos.puth.gloating = {}"",fl+start = sess.sur(xt[=tf_fil_sechinceq_prin, tf_x_init_outputq,
+    loc = Non+
+e_path,
+      tf_h_out = stex_por input_text = inpat(start = tf_h_in
+[RNN1][2018-01-09 18:41:08] Running epoch 90
+[RNN1][2018-01-09 18:41:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:11] Predicted:
+    while True: [tf_x_init_text
+    tfile n: Ih_samplic]))
+  shanl_seq))
+    
+  loat, tf_x_seq: x     nflor in range(s")
+      x_seq += out_less))
+        tf_tr_in_ut_ n te,chd_ser:
+      for start_text
+    tfowxhs es arestin ostput_oash)
+  start_idx+seq_len+1]
+  _
+[RNN1][2018-01-09 18:41:11] Running epoch 91
+[RNN1][2018-01-09 18:41:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:13] Predicted:
+    while True: [tf_fitbles.cani:g_follassenposter)
+    tf_loss, tf_why), tf.ze, shmoss, text_:h_sess nnumpfinblatirnpt(prage(st:.se)
+      x_text.rundute :
+   loggern, dstart
+
+      ifioduss )
+              feun = tf_h_oni
+    log.P("posstopypathog: ridsepue)))
+  
+[RNN1][2018-01-09 18:41:13] Running epoch 92
+[RNN1][2018-01-09 18:41:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:15] Predicted:
+    while True: h
+        os tfi:] id_outbul(start_text).for start_inxtext .Ser), tf_h_itiloL(grap,=")
+                  tf_x_telos() _s.zer(chif.run ind:
+        tf.in_tzerolo_sy), h
+       outp+=tf_train_owhing [teptiddred_in = ope_tils.Poschi te-1:              
+[RNN1][2018-01-09 18:41:15] Running epoch 93
+[RNN1][2018-01-09 18:41:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:18] Predicted:
+    while True: h_seq:
+      chi: ostmalse:
+     nrib] = shar i] [1, loc ={sueqtr i] {:'"1:
+fime, seq))
+    print(start_test))
+    _seq_len = 15))
+    p ise)
+     tf_h_ini: ]
+
+         oster_start_text
+    })
+      if ostpathog ")
+  fumput_ors
+ n ..Cx_size)))
+  for
+[RNN1][2018-01-09 18:41:18] Running epoch 94
+[RNN1][2018-01-09 18:41:19] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:20] Predicted:
+    while True: [tf_x+seq_len]
+  tf_x_seq: 'nn
+  for ids += '{
+      ilert, tf_h = tf.trath = tf.adizeraps()
+      felel_inil_n(text_restartr(doat()
+    log.P("Rules(pringe(t,teftr_inite 'yputiti E[-1)
+    tf_h il roat, flamedddren in n.".ratisserode(n(tpochs):    
+[RNN1][2018-01-09 18:41:20] Running epoch 95
+[RNN1][2018-01-09 18:41:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:23] Predicted:
+    while True:"_filamOptedmathog = 1,
+            
+    
+    tf_why), tf_x_seq 2c
+
+                            tf_x_felos(grop2h(seq_le)
+
+    tf_y_seq))
+      xt = tf_hbias = Decktp.amigg:.pax_sanpos.py.axi(s_pxinput_text_size))
+  ffullestart_text
+    t -]}".format
+[RNN1][2018-01-09 18:41:23] Running epoch 96
+[RNN1][2018-01-09 18:41:24] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:25] Predicted:
+    while True: _seq_ling:        osseq_con, range(s indreLogger= '_ox(seq_linT0)
+               os.path:
+      fome_dir  = f lossarn = fpredt:
+                               for pati h = {}".ffomed(tf.paach[)
+     seq_leGsize],
+        })
+      in =tf_logs, tf_h_i
+[RNN1][2018-01-09 18:41:25] Running epoch 97
+[RNN1][2018-01-09 18:41:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:27] Predicted:
+    while True: conet_start
+- loddramxpat
+    tf_loss = tf.matinsizern
+  sesk
+         opcet test")
+      
+         file = lom())
+    prids)
+    
+           
+    
+
+    printe: xt ape(tr_soputre:strale = tfdule(start_text
+    ififlogits= nad_pnation(tram__nashin inn
+[RNN1][2018-01-09 18:41:27] Running epoch 98
+[RNN1][2018-01-09 18:41:29] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:30] Predicted:
+    while True: [st, tf_wxt -
+     flomdare__dor is tf_h_fill_stirtet:.fpy_hame=')
+
+      x_textiri61:= 1]8
+  
+  tf_init_oponuteopuecor iditex con,
+idpyaringess,
+        lees1,
+           tf_y_put = n  logian(s_crin, t_tblester,path if los((rmating = 1]
+     for se
+[RNN1][2018-01-09 18:41:30] Running epoch 99
+[RNN1][2018-01-09 18:41:31] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:32] Predicted:
+    while True: _saze):
+      or()
+       name()
+  ostprinp[kt, tyuch {
+       for seco_s_surnut_output_te_t, i2c))
+    leb(anduth = tf.Sessifite_size), 6: lscat, hindut_ias,
+    outprepog:log.P("".join(tf_preds
+    tf_y_seq, lee(1,
+               tf_h_in([tq_y_pyu
+[RNN1][2018-01-09 18:41:32] Running epoch 100
+[RNN1][2018-01-09 18:41:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:34] Predicted:
+    while True: [tf_fit leindrinis.01:
+                                                                         n ten'"Ruser_oh(Trues.sop2
+        oste, ch
+                                                                                                  tf_x_seq:
+ 
+[RNN1][2018-01-09 18:41:34] Running epoch 101
+[RNN1][2018-01-09 18:41:36] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:37] Predicted:
+    while True:
+  stefor e to.cen_st(posceq'"_onder!
+  # x_Non = oh
+  hortpat, {}
+
+  start:.tformog(lein.Anamatedstprep=ivt rame(dpath = tf.Variabls {} vh_seq:
+    log.P("Predicth,tf.folocte)
+    #tbran, "Cos 1]
+    tf_t x)
+                                         
+[RNN1][2018-01-09 18:41:37] Running epoch 102
+[RNN1][2018-01-09 18:41:38] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:39] Predicted:
+    while True: [tf_y_seq = nptext[1:] + ch
+      _file, "log_safput
+              }
+                                                                                                                                  
+    
+                                            
+[RNN1][2018-01-09 18:41:39] Running epoch 103
+[RNN1][2018-01-09 18:41:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:41] Predicted:
+    while True: [tf_list = stertingleadld(mad(text
+    for in(howx_seq = np.addlor(pnithole(start_tor,fuepue(trich ilizer()
+d_seq:
+    out = spar(a[:] '_pabis=Non,
+       uss = tf.Loat32)
+  for i imest, tf_logize):
+      x_seq:
+    final_inite:
+    felagias = {}"
+ 
+[RNN1][2018-01-09 18:41:41] Running epoch 104
+[RNN1][2018-01-09 18:41:43] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:44] Predicted:
+    while True:
+  module.Loading host] = {}"",fldrile(np.zeros((1,file_name_n(text = star:
+
+         tf_loss = tf_h_inilsinp"gren(vom.anptiasenp.e, cox_seq_os.puth.grande:
+    tf_y_preds, h_start
+
+       #t(str(tf_h_out = s epos.paide:
+               for path, ypos
+[RNN1][2018-01-09 18:41:44] Running epoch 105
+[RNN1][2018-01-09 18:41:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:46] Predicted:
+    while True: [{}] +5ckron(text):
+      y_seq:
+                   x_seq + }] f
+imporn t_och_ini = tf.Gooctndertist = setf.mradlos.path,file_name))
+              ' .s.rpatindut(dexte:
+        out_los os.path.join("D:/", "Goy(drist(s:chistrat
+ name()
+om(sarid__ioce
+[RNN1][2018-01-09 18:41:46] Running epoch 106
+[RNN1][2018-01-09 18:41:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:48] Predicted:
+    while True: [str_to_inp(trbinp):
+      x_test:
+   for _dath_seq_lest.ran(text
+ondute ))
+                        #tbalidn iat.al_cho)
+ lsear_oad_=dsize):
+        tf_inin_t_xtet = tf_t it.lep in t_tinceq_lob Truepuss rale(np.random.sange(sinpoates])
+             
+[RNN1][2018-01-09 18:41:48] Running epoch 107
+[RNN1][2018-01-09 18:41:50] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:51] Predicted:
+    while True:  tf_wxh)            name='y_'+= i nrami ipateruplianpa9te(tf.toaide:
+      xtute = seq_oh = shrils(np.shopy()
+        tf_ininn(tt_p2zer(start_idx:start_idx+seq_len+1:
+
+     # is.randind= wh_start_text)
+      ch = tf_h_ini = tf.prach], flog (hids na
+
+[RNN1][2018-01-09 18:41:51] Running epoch 108
+[RNN1][2018-01-09 18:41:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:53] Predicted:
+    while True: [  ] lse(path(inimp))
+    pradt).elsaples(con, = tf_h iltr(precten("C:/", ", """.fflung_seq_ox(th_'_pach.{, lee(h_puenule = fouthor        searidit.m =itx_inpoin_taxp)*] V"","",lless.fued_
+              fel_size)
+      h_start
+  logger = module.Loid
+[RNN1][2018-01-09 18:41:53] Running epoch 109
+[RNN1][2018-01-09 18:41:55] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:55] Predicted:
+    while True: [stputilizer(sen("_oyuse fowhule is repog: = tfoglest, tf_h_init_tinceq_in_telos.ze, chir=_seq_xest, tf_h_initest, tf_wxh)
+        chirt
+  x )
+     nft.p,idx:inpath = tf.Sisize)
+  np__hi:ic*0)
+      tf_init_opy ){
+    plin(tf_')
+
+        tf_loss, yf
+[RNN1][2018-01-09 18:41:55] Running epoch 110
+[RNN1][2018-01-09 18:41:57] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:41:58] Predicted:
+    while True: [st = ostput_ood_matmolutiname= con = np_h_findut = tf_trait):
+         # te='))
+       x_seq_oh = s nate, ch_sap]_seq_less)]
+
+    logger = math = tf_drist:=tf_list):
+                                                                                  
+[RNN1][2018-01-09 18:41:58] Running epoch 111
+[RNN1][2018-01-09 18:41:59] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:00] Predicted:
+    while True: ' ' c] reak:
+        start_in_t_xtilo)
+        unrils_math
+
+  for start_idx:
+        tf_y_seq)))
+    log.P("Predictino_s_path = lade[-1]
+  ddre = ifcan =_oh
+         }}.2..patO,tf.glibn).r arin(vsize))
+  for ert.se: us = oh
+  seq_les()
+      final_o
+[RNN1][2018-01-09 18:42:00] Running epoch 112
+[RNN1][2018-01-09 18:42:02] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:02] Predicted:
+    while True: hif __ty_seq, tf_idit(ort
+ mat32)
+c    preds, x_seq:
+                deftedx(drid_()log(hamex')
+      x_, tf_x_seq,x_to_fils_inx_text['h_list):
+                                    tf_h_ini: ostp):
+  "1red_cos
+
+        t _s_preds, h_start
+  setx_dize
+[RNN1][2018-01-09 18:42:02] Running epoch 113
+[RNN1][2018-01-09 18:42:04] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:05] Predicted:
+    while True: _seq_lint::stpofile_name))
+                                                  for prept(dtapseq_oh,
+                        name='h_seq_len]
+    tf_h_seq_lin,ort
+    #tbranceq:
+   tf_y_preds, tf_wxh = {}"
+       x_siqins.ast(start_idx+seq_lencor name
+[RNN1][2018-01-09 18:42:05] Running epoch 114
+[RNN1][2018-01-09 18:42:06] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:07] Predicted:
+    while True:})
+      })
+    pringessifile = lsepren ostmat: = out_teDRuzer= E{ckt datg.tunc.axs[if rep_inrostin inpead_sted_tinger_st(rmpstip=A(filh_shopex)
+        y_seq)
+           logits,tf_y_seq)
+    
+             _file_n(mropueror drin(stap0]
+    fen _dutro
+[RNN1][2018-01-09 18:42:07] Running epoch 115
+[RNN1][2018-01-09 18:42:09] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:09] Predicted:
+    while True: [in__hoin_text = s tfoglest = ctf_irilianp...sory_seq_lo_filist range(0,  e telon, ade))
+      })
+    
+        log.P("Ren idist,=t(",
+codule_name, con = npn:"Cout' = tf.matmulid(text_'hs : "
+  ch_stint((trelse: _dapa=1,1, h:
+         for path in teo
+[RNN1][2018-01-09 18:42:09] Running epoch 116
+[RNN1][2018-01-09 18:42:11] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:12] Predicted:
+    while True: ", ""..felizer_stifivn_in_text
+  inin(ifis_fils):
+     tf_wpyur = n  '    os.path.join(uteos.zenplisi(seq_module()   
+    outglels.pyace={[:
+    log.P("Creadi:      })
+      ch = filss in testprate.:y_size = .t__dride:
+  
+                           
+[RNN1][2018-01-09 18:42:12] Running epoch 117
+[RNN1][2018-01-09 18:42:13] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:14] Predicted:
+    while True:  h = 0
+      nr".firnr(drtat:= st +tc'))
+     fimplat(etfoll_staris_inime_pain*(ddire tf_lolinptioc.ze))
+      y_seq += oh_math[che)
+d to_ctrostin iddurilinge(tomivn(sh.pyarin,{vein or mednum_oh.path(inist)
+
+      ndu_sern = wh = tf.npat(utils Googl
+[RNN1][2018-01-09 18:42:14] Running epoch 118
+[RNN1][2018-01-09 18:42:16] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:16] Predicted:
+    while True: _seq:
+     predsen("Tust =tr_d_init_start_text
+    x_textiriceq_prin, lon = ope))
+  ep = ' ' ''''' ' )
+                                   tf_h_ini: hbatestmogl(mousses:
+    ")
+    for seno::
+       ostpat:.")opletfron,idx_nati)
+
+                    
+[RNN1][2018-01-09 18:42:16] Running epoch 119
+[RNN1][2018-01-09 18:42:18] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:19] Predicted:
+    while True:
+    pninizer()
+
+    file = lse(1,
+      e  e  name='y_seq_x_ser = [*00
+  rani:def __x_pout], files.conodutet:x_dralist = i2te.n.matcuen"))
+        for s npochs):p =]f
+  h t text_rat32, sh__hir  = seq_len, file = {ced.ces ifirnptext[1:] + c] patif na
+[RNN1][2018-01-09 18:42:19] Running epoch 120
+[RNN1][2018-01-09 18:42:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:21] Predicted:
+    while True:._folodstam+=[s elor drin_=tf_logize, hich
+ ostprining.gapa=gless.r(tf_yut tet+=tf_y_file):
+        out_loc = file):
+    log.P("Predictinidt(pan(pramh _lib
+= vr_pbe(sidx(stary_in_text = tf_hriat(ren_[h_felosstets.ze, sinpos.pa=h(.Pog::y_sern, hodulue
+[RNN1][2018-01-09 18:42:21] Running epoch 121
+[RNN1][2018-01-09 18:42:23] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:23] Predicted:
+    while True:f_wh_wit )
+               ut.t_poh ))
+      imprandst(patirn(ttfooutmut(f nd_
+          ostart(te.con.capoutprincen(texe)
+      if range:
+                tf_y_seq)))
+  e p#i)}"
+
+  rate = {}"".for   stirt
+        for p2s(opmeduse:
+  
+    tf_frercet_pe
+[RNN1][2018-01-09 18:42:23] Running epoch 122
+[RNN1][2018-01-09 18:42:25] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:26] Predicted:
+    while True: h  n_seq_lib = SounceFil_ste, )
+    tf_h_ini: tf_drid_se:  input_text[=tf.Variable(np.zeros((1,sser.ch_oute= del_depue)]
+
+dewh(dtax__in_lacto)
+    #ty_seq_xefon Ter d_caq)
+    logger = module = = tf_h_ini: tf_init_opy )if (stype:
+     log.P("Predicn
+[RNN1][2018-01-09 18:42:26] Running epoch 123
+[RNN1][2018-01-09 18:42:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:28] Predicted:
+    while True: _seq_los ))
+     for t = tf_trait_'hs = tf.Variable(np.zeros(id_oraduse:  = _pax_sor ar()
+    tf_x_seq),  fond_seq_lenout_file)
+
+         out_= str_= 'y_felogita[Gounnunpy at sepoldiridt(palinder inpostex_seq = tf_h_inc
+           x_seq += ' ' * _si
+[RNN1][2018-01-09 18:42:28] Running epoch 124
+[RNN1][2018-01-09 18:42:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:30] Predicted:
+    while True:  seLogger:
+ 
+    pec))
+      tf_y_preds, tf_h_initest_ratins.P("Ron.matpued_ren, unroduln(ndur, tfogleet = tf_yrist(rex_hir     for path, h__ten' = e )
+    tf_wxh)     h_seq_len(floldent__con = op = Tim_tedtame, xpy()
+
+     
+               fey_s(ch.
+[RNN1][2018-01-09 18:42:30] Running epoch 125
+[RNN1][2018-01-09 18:42:32] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:33] Predicted:
+    while True:t N]})
+                                          tf_lo, sstatc)
+         tf_h_ini:h: tx_teq
+
+        tf_hrist[st.p+=t')
+  ssapeting = tf_h_init = tf_hriat(tf_logize: h_':
+ bre(sh__,ur = Trum_file  ored_init_oox_seq_lize],fled_in_list, istraisen, "...
+[RNN1][2018-01-09 18:42:33] Running epoch 126
+[RNN1][2018-01-09 18:42:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:35] Predicted:
+    while True:f_nn_tirnut_ohn_start_text = final_output_tared_: iss np
+     
+     
+               })
+      mxise Excerop2_moss: id_sbale(start_ids,raogue= op =tf_xxer_ios = tf.Variable(dx_soq 
+           flob tr_deq_seq_te,ty_seq)
+       for abiacenos = tf.mpaturn
+[RNN1][2018-01-09 18:42:35] Running epoch 127
+[RNN1][2018-01-09 18:42:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:37] Predicted:
+    while True: _seropl_sop= )
+
+    peq)
+      x_ceq_oh,
+      x_seq_oh, hc ah oster,plastr_
+    print(st:pten,tvatp, homdedx_mathomutfitp = a[0]  for start_idx+seq_len, vsize],
+    
+    
+  tf_h ilist: tf_y_full_sopy )]
+      })   chip=inp =tf_loss, h_seq_oh = tf.t
+[RNN1][2018-01-09 18:42:37] Running epoch 128
+[RNN1][2018-01-09 18:42:39] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:40] Predicted:
+    while True:  = tx_on()
+      tf_h_ini:  input_text = intut_tencongramptfompos.path.jos()
+          tf_x_seq, h  
+        name='h_strai:
+             tf_h), tf_x_seq:y_seq:
+                           tf_wxh_wizer=,t__ty_outh_seq_len+1]
+
+      x_ceq = rep ={})
+  
+[RNN1][2018-01-09 18:42:40] Running epoch 129
+[RNN1][2018-01-09 18:42:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:42] Predicted:
+    while True: _ing = tf_h_inite = q_mey():
+                  })
+    
+                          tf_h_ing = tf.Variable = labb)rosstrath goad_moctitidseq_len - leLogger, vs_p ={}(01i
+  n
+  __yurils_fill_sopx_det =et denp_damue(_p2chs = oreduceq_seq_to_oh(inp__xist:
+[RNN1][2018-01-09 18:42:42] Running epoch 130
+[RNN1][2018-01-09 18:42:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:45] Predicted:
+    while True: _saph in teDczer')
+         tf_wxh))
+  
+    tf_h_outet = text
+  h_start_text))
+      tf_train.mopat(pron(mod(labbe= file_name)))
+    prbit =   x_seq_oh = stapt]
+
+def load(rmat(rome(np
+
+
+
+  ule = foury_or(vaczer:
+        output_text = input_text_post
+[RNN1][2018-01-09 18:42:45] Running epoch 131
+[RNN1][2018-01-09 18:42:46] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:47] Predicted:
+    while True:.r+stapak(1,edat_dut,+stq_list,ran(tf_x_inroll_step))
+  start_tex+1:ivn(ress(ep):
+               })
+      iferep_en_te:
+    sep_=te.cani = tf.Sesize))
+  for epoh
+       })     log.P("Predic = f ls_fuon() i  unq_seq_oh = tf.nat({})
+    log.P("Prepah()
+[RNN1][2018-01-09 18:42:47] Running epoch 132
+[RNN1][2018-01-09 18:42:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:49] Predicted:
+    while True:umadnest
+      tf_h_p)
+                                     log.P("Predic = tf_h_ini:g_for i x_seq_lin = op = tf_h_filliss)
+  dtf_or = seq_lin[-1: pyash = spr(dr(durn  of log_h in fuolt(ripe(tf_loss)
+    logias()
+       oss)
+      x_seq:
+     South_s
+[RNN1][2018-01-09 18:42:49] Running epoch 133
+[RNN1][2018-01-09 18:42:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:52] Predicted:
+    while True: _saph=gs pred_cel)
+      ch = tf_h_init.Den(opa 9=1:0
+  ip.s.run(orupve):
+                                                                                 tf_h_ini
+      flab = tf_h_init..Soradg))
+  
+    tf_y_put[te = q'
+
+  
+  vocab = 15: @aut_text 
+[RNN1][2018-01-09 18:42:52] Running epoch 134
+[RNN1][2018-01-09 18:42:53] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:54] Predicted:
+    while True: _sarn  nomdedx_moddrade:
+      y_seq = 6q_size)*0
+
+ geralin.sexpat = tf_h_inputils in tf_leash: file_name)),  f_whowule  op = whame__cowite = {}.mestifing gouss]
+
+  
+    tf_x_seq_lensizer(dichinprisceror(dat_n(indut =        tf_x_seq:x_seq_oh, hs_in
+[RNN1][2018-01-09 18:42:54] Running epoch 135
+[RNN1][2018-01-09 18:42:56] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:56] Predicted:
+    while True: [in _haid__inrois_fils)
+    libnatart:teNop(")
+  winduthome_dimpltypax_sirn  nan:= g        
+    for i ind_preds+= shop(tr_chini] = tf.Variable(np.randomutf.matmor petf.filx_ion = os.path.join(usile:' '  ercess.run("locefor i,  load:undut__ing_saq_o
+[RNN1][2018-01-09 18:42:56] Running epoch 136
+[RNN1][2018-01-09 18:42:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:42:59] Predicted:
+    while True:
+  medule = _path = tf.Variable(1pestr(tomitedeliddris_(npat[{-).".format(f):  input_text[1:{}".join(utios.P("Tre:
+     i tf_h_seropo_sern, ax_sinity_seq':
+
+ wh
+g  rur = in idigist
+   tf_h_out = st.rep2s(pride):         tf_h_ini
+   ifimap_= wpred_mod
+[RNN1][2018-01-09 18:42:59] Running epoch 137
+[RNN1][2018-01-09 18:43:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:01] Predicted:
+    while True: _samh
+      tf_h_inith_is_
+        nrte = tf_x_prei, data):
+        uleo)
+    tf_h_initing gef):
+    inputath_lictize))
+    tf_h_out..pvaize()
+
+  rtameSuestret .P(stinivsize, vsize, hs.ze, idx_pain]
+
+                                                f
+[RNN1][2018-01-09 18:43:01] Running epoch 138
+[RNN1][2018-01-09 18:43:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:03] Predicted:
+    while True:
+  n ")
+      
+    
+    
+           out(te, None
+        ule__xize)), dtf_loss, tf_ybin = np_h_ini:  nrtas_onitfom
+       tf_loss:  file '{
+
+
+                              os.path.join(homd_nam(sure: 2s.path.cen(or(dx_seq)
+    f mad(tedeng.aracero
+  
+[RNN1][2018-01-09 18:43:03] Running epoch 139
+[RNN1][2018-01-09 18:43:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:06] Predicted:
+    while True: [ternplamian("C:/", "Ppating.e: ddtmax___ng = sh
+p_foley(grang (h_ste, )
+    ftf_h is  r_strop in tedmein.steposted_sin(text_xest, tf_whh_i+= if randome_sivs r= Goun = T um_ing [start_text))
+     chreds, h_stpat)
+        tf_h_ing         tf_woh 
+   
+[RNN1][2018-01-09 18:43:06] Running epoch 140
+[RNN1][2018-01-09 18:43:07] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:08] Predicted:
+    while True: _sampling_samp= toddare,t  tf_h_inititf_loss)
+    tf_x_seq)
+      ortpaste
+  fuld Ds")
+      if random_stin_text)
+    tf_h_ini: [tep, seq_list,finn__h_py )] Trut
+                    for p idcrinin_tyulilss(primidn("Cowitf.mati,stext
+
+  f x_seq
+     
+[RNN1][2018-01-09 18:43:08] Running epoch 141
+[RNN1][2018-01-09 18:43:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:10] Predicted:
+    while True: _samplin(text_text t  ope(tf_hriat(tf_loss, tf_y_fullss(frbrart
+     x_seq, ""Djoing = True)
+         tf_x_seq:uh_lus:       i  tf_lo)
+    
+          {}".float_to):4dd(phs i] esseq_oh, hidtest_sistep= tq_seq_len, tx_]]
+
+  redule_namels= i in t_xist 
+[RNN1][2018-01-09 18:43:10] Running epoch 142
+[RNN1][2018-01-09 18:43:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:13] Predicted:
+    while True:  tf_init_oputprepee:
+         osc)
+    indut(datgleDtistapsenp.charinit_tex_):l_seq_seq))
+                           tf_h), ssiac))
+                                                                                                                     
+[RNN1][2018-01-09 18:43:13] Running epoch 143
+[RNN1][2018-01-09 18:43:14] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:15] Predicted:
+    while True:  ifcen = tf_h))
+      for start_idx:start_idx = 0os_Nony = tf.add(tuostat0)
+                                                            x_stq_umit_for in  inputp-= f_ley():
+         ch _towing er vos, hog.P("Predtenst_ouch_ilist(_xib
+
+ inpus), hit5[
+[RNN1][2018-01-09 18:43:15] Running epoch 144
+[RNN1][2018-01-09 18:43:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:17] Predicted:
+    while True:_stwit],
+  dtath idNon(seLoggered_cesh_ingl_size):
+        output_list ==[ch__size()
+    #tbars = tf_h_ini:h_ste, vsize, hidden_start
+   
+           input_tefcon 1.ss
+
+         ostinprada:h_start_text).p.ad_dut = tf_h = tf_init_oputmodutetostiripn("1
+[RNN1][2018-01-09 18:43:17] Running epoch 145
+[RNN1][2018-01-09 18:43:19] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:20] Predicted:
+    while True: _sarn t__cor = 
+    print(start_text).for c nros.paid(tame= x "GoogleDrive"),
+                          
+    os.path.join(etf_inist:= s])
+                     tf_h_ini: h_start
+                 log.P(.P(stining.P("Creating gef_indread)
+    logger 
+ 
+[RNN1][2018-01-09 18:43:20] Running epoch 146
+[RNN1][2018-01-09 18:43:21] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:22] Predicted:
+    while True: _sarn  nom__nise: os.path.ex cnash: tf_x_preis  sten,h_daph=ge:  _pataps=tf.ive[1, "Dey@agt_.can(tf_init_op
+  seq_oeds = tf_h_ini:    ch_out(teDexidstrat, if wh
+   for c in trule  log.P(.vand(text_ran(ho_
+ max())
+      if out_destart_text
+
+         
+[RNN1][2018-01-09 18:43:22] Running epoch 147
+[RNN1][2018-01-09 18:43:24] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:24] Predicted:
+    while True:"(fils Google Drive"),
+       tf_y = tf_h_ini, lin = tf_h))
+    tf_y_preds, tf_h_out].stindetulex_i2ceq d_max(sepulist, load_module(start_ten, vsize))
+    pret losees_preds, tf_hbias = tf.placeh))
+    logiass:9 ch
+  c ahils np_dxide:
+                
+[RNN1][2018-01-09 18:43:24] Running epoch 148
+[RNN1][2018-01-09 18:43:26] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:27] Predicted:
+    while True: _samp= h_strop):]
+  0
+                     for path = tf.= h(ch.meanIonutral_size, h ivtert_tart = ssepos.pand(trad_tut ib_seq = [{}] ffogle nodden = tf_math_inpredsen("~"Tfiab0,  finaute,t = prtmpa:    tf_trait_nusp))
+       tf_h_second
+    
+    tf
+[RNN1][2018-01-09 18:43:27] Running epoch 149
+[RNN1][2018-01-09 18:43:28] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:29] Predicted:
+    while True: _start_text))
+    fill_step = spnropy()
+    tf_x_seq:
+      out(uele
+  for liss))
+  
+    chared(trog(hodelsss)
+      if range(sampling_wize = seq_len]
+      if range(s.s.pyize, sczeroptest renp.s.rang.g.aadd(tamidnracenpsstrits.moscleLosstrop)
+     
+[RNN1][2018-01-09 18:43:29] Running epoch 150
+[RNN1][2018-01-09 18:43:31] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:31] Predicted:
+    while True:  tf_y_full_seq))
+      x_seq_oh = shril_size):
+      x_telsizer
+ ddame_d_sach_in_
+   tf_x_seq:y_seq_oh, ufils Google Drive rang.geascefor path = tf_h_init.")
+ dat_output_texc)*        )
+    
+    tf_h_ini
+    outpue)
+      tf_h_out],
+      chiftrat  
+[RNN1][2018-01-09 18:43:31] Running epoch 151
+[RNN1][2018-01-09 18:43:33] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:34] Predicted:
+    while True: _f_module_nunput)
+                       module = sernderiming = duld(dpamh= t_stwit  flom.samprtatint_sain_orade())
+      input_ty_seq,
+        tf_why_output = tf_h_ini: 1]
+    nr_py_outplen(yramban = tf_xmor(models.str,
+    module = py'), h}_fillo
+[RNN1][2018-01-09 18:43:34] Running epoch 152
+[RNN1][2018-01-09 18:43:35] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:36] Predicted:
+    while True: _saph in texp):
+      yt(xmos:
+        tf_x_seq:x_Noic
+                                                                                 utrolueSimpopteno.globale)
+fitulsize, h_dx_pninh: h_seq_seq))
+    pride].01
+ vs_wxtSor iocenp.s)*idd(rea_deds):  
+[RNN1][2018-01-09 18:43:36] Running epoch 153
+[RNN1][2018-01-09 18:43:38] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:38] Predicted:
+    while True:      input_tin]
+    tf_h_init = npren x_text = s.p.s.zerivinr imcoan_moos )
+             log.P("Pr")
+  
+  fomd_nameloLoadimistart_in
+  loce:{}")
+      iler(lib_name, xf_y_preds = op(tf_init_op = npopy_(tf_xrein
+  if}_matiable = lon(tf_init_opx_det, 
+[RNN1][2018-01-09 18:43:38] Running epoch 154
+[RNN1][2018-01-09 18:43:40] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:41] Predicted:
+    while True:       log.P("Runningleaduee [st = [
+        file '{}'",fsepo-
+       tf_i2c))
+          if rangog.s(Ttux = tfo]
+       tf_tox 
+   {}".format(ule("logger", "C0.s range(_st_pusitb,
+  tetf.float32)
+    
+    
+                           })
+      out(fina
+[RNN1][2018-01-09 18:43:41] Running epoch 155
+[RNN1][2018-01-09 18:43:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:43] Predicted:
+    while True: _sarn = tf_h_out_test)
+      input_text))
+    ", urmut(os.path.join(ut.oxd_oodepus:   p_shs, futh star:ctans.zerncent _size)
+  
+    tf_x_seq_oh,
+        out_les nr
+impog.path.join(homet(tragle = lin(vaive ist(radee = intf.and_tush).
+  step_':
+ ifpra
+[RNN1][2018-01-09 18:43:43] Running epoch 156
+[RNN1][2018-01-09 18:43:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:45] Predicted:
+    while True: _samp):  str_to_oh(idchs(tf_hry = out_turn(tfinp")
+  start_text = ", "50 = sh, idx_init__hoch_init = np = Nonert.basize(seepoh.sut =tf_logize = 64
+  = seq_lin indernatgesse:
+             tf_h_out], fel_seq_len]
+             utrelsenp.tort = rang.mos
+[RNN1][2018-01-09 18:43:45] Running epoch 157
+[RNN1][2018-01-09 18:43:47] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:48] Predicted:
+    while True: xdar:
+  vsize))
+                                                          ferule: h_strais_oouefor cetost = h_dale__hize = _s")
+      
+    
+          {}(vfile_naogee:
+      x_strat_tor, tf_y_preds, tf_x_seq))
+      x_teos.lopoh
+  for i iltefooute = 
+[RNN1][2018-01-09 18:43:48] Running epoch 158
+[RNN1][2018-01-09 18:43:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:50] Predicted:
+    while True:      ilimitg.matcalin(tf_in inge(damiad(tf_y)
+    y_seq))
+      x_test:= h imedile nume, idx_initxin("Google Drive[1, "Des(drite(vomadp):
+              _fill_siax("Cpeatiss))
+       tf_h_ini: h_':
+ mex:
+       ostestreds = os.path.join("C:/", "Googl
+[RNN1][2018-01-09 18:43:50] Running epoch 159
+[RNN1][2018-01-09 18:43:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:52] Predicted:
+    while True:
+        tf_inis_ininge_size, ucize))
+      x_seq_oh,
+        out_text ryakeen
+      f_whh = tf_h_init_ranin_onuselse: "
+
+ les(repumitideliastart_te, file_name, file = logger = tq)
+  module = prtmach_py = 1:
+      log.tasize()
+    #raise = canpop.tfi
+[RNN1][2018-01-09 18:43:52] Running epoch 160
+[RNN1][2018-01-09 18:43:54] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:55] Predicted:
+    while True: h
+    tf_top
+ tf_ho, range(sampleLogger()
+      y_seq += ' '      foutput = {}': eq_sir = toddin(opn_to_:yun = op = tp[:h__tridx:
+    log.P("Preang = fropy(2fory = tf_h_oosteft iac[start_idx:start_inxtr.c ={cet detmathog _paste:
+    h_ster)
+    "
+  
+[RNN1][2018-01-09 18:43:55] Running epoch 161
+[RNN1][2018-01-09 18:43:56] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:57] Predicted:
+    while True: _caq = tf_hrist(ractan:"(
+ vsize, ss:put_turn inif.math_logits(run([tf_y_pue Janger.ch_damOplise()
+
+  
+  log.P("Creating = poch_outpulin(prode():
+    h_start = np_h_init = n__tramesstfils Gooctepos.path.join(utils_path, fina __ib') = tf.vod(init_pre
+[RNN1][2018-01-09 18:43:57] Running epoch 162
+[RNN1][2018-01-09 18:43:59] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:43:59] Predicted:
+    while True: dopte[ck
+ eaut:- f modules[if ren_x_seq))
+      fred_mod(text_inceq)
+        tf_y_full_seq)))
+    tf_y_seq))
+      bra = Sis =_seq_oh
+
+ i   range(0
+
+ dxidetide]
+    logger = Simplas (ptopoh = tf.train.Anod()np.afivs zen(1, rend_oreds,phiss= or(vocat
+[RNN1][2018-01-09 18:43:59] Running epoch 163
+[RNN1][2018-01-09 18:44:01] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:02] Predicted:
+    while True: _sarn t__tort
+                         __tyutils grad_parn(tpochs):  h:
+       }, start_text))
+        tf_x_seq:y_seq_oh,
+        utros es er g inte[t  h_str is un = vola Tumplitins.zeros(tosceforuse:uss:{:"")
+                   
+    }).joinge s, pu
+[RNN1][2018-01-09 18:44:02] Running epoch 164
+[RNN1][2018-01-09 18:44:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:04] Predicted:
+    while True:       start_text
+   x_to_chr)
+    
+    tf_h_ini:h_ste, lsep)= tep==''0)
+d_path = True
+  stq_lib = Soundut_xtind_en_text = losstast ind(tasamptf_s_ex_serorcat(os.path.join("C:/", "GoogleDrive"),
+        if fory_init_nSoun  in __oodit = file_name(), s
+[RNN1][2018-01-09 18:44:04] Running epoch 165
+[RNN1][2018-01-09 18:44:06] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:06] Predicted:
+    while True: _f,vsize):
+      y_text runges_otext = start_texc))
+  
+  h _s_preds.path.join(or(dreroctirids[1, logger
+
+ @aat_'tfinn("Tf_h_prein "".format(start_text
+    f nads, final_output), seq)
+l_start_text
+  h,       for a er in un___orule: +stareplesize_path
+[RNN1][2018-01-09 18:44:06] Running epoch 166
+[RNN1][2018-01-09 18:44:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:09] Predicted:
+    while True: _saph gosglogger = Trule Tr = cand.mathog _dif, atyprosichidtedt = stex_size)), dtypert,
+       ett.apy(moscle umefinminge(se:full_ste, range(samplin(ortmat: ' py_start = np.zerid_on_start = np_h_init = tf_trapho)
+        tt_oxt, lsape=[seq_len)
+   
+[RNN1][2018-01-09 18:44:09] Running epoch 167
+[RNN1][2018-01-09 18:44:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:11] Predicted:
+    while True:  sess.puth = tf.glabta)00
+   utilss.poth_initurnute = _fill_stirtp.ckt
+  rame):x_s(rout_ting = txtt.pa=ho.20)
+     x_fox 
+ op._nitb, tp_stry = ___nn = lenute, vsize]
+0
+
+ datul= 2amefTule ilost_pto,  nat([1})
+  log _sizeq_
+   {}':
+   tf_h_ini
+      o
+[RNN1][2018-01-09 18:44:11] Running epoch 168
+[RNN1][2018-01-09 18:44:13] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:13] Predicted:
+    while True: _sess)
+    
+    os.path.join(tf_y_input = tf_troin_p2widnunpost = un = if ump_t.ch))
+      x_seq += ' ' * (sess.z_oin_ounputi, __atbre = [
+}  "")
+    preds, hidden_size, vsize = tf__nam_x_ion  = seq_oe = start_text), if _seq]
+      y__out_outmule il
+[RNN1][2018-01-09 18:44:13] Running epoch 169
+[RNN1][2018-01-09 18:44:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:16] Predicted:
+    while True:
+       bre = opal_ y_mooundute, ifild_maids
+   
+             outpleLoager.popy (find_samoum_file__ory_seq_te,tx_troitimi)
+f seq_list = tf.cachilessifc:induth = tf.Sessiax(seq_
+      out_text =tf_trout_oh ls (rop= 1 is vo_size))
+  for prin ent"..red_
+[RNN1][2018-01-09 18:44:16] Running epoch 170
+[RNN1][2018-01-09 18:44:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:18] Predicted:
+    while True: xdarh__nn ___xx_
+    out_text[-1]
+    
+    tf_xrist(str(itx(seq_len - len(x_seq)
+          x_text idcet = nad_path,  inputp=t0.c:ndam):
+     importidx_ion(tf_x_fillest, inis_paths=1p = tf_h_out = tq_teati, tf_y_puty s ion(tedx_init__wxble if th_inro
+[RNN1][2018-01-09 18:44:18] Running epoch 171
+[RNN1][2018-01-09 18:44:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:20] Predicted:
+    while True: [in [1t  fpat3bolus(log.P("Predid_pafiv= os ))
+      x_seq_ohn, tf_wxh = tf_loss)
+   rt(tamex__ing = tf.add(tfog _size= os:
+         tf_y_seq, lee: _pat_py: = tf_y_seq = tf.placgesernded_p2s(pred, ttypoutm.t.popy():
+     loads(tf_h_inizer()
+
+  seloa
+[RNN1][2018-01-09 18:44:20] Running epoch 172
+[RNN1][2018-01-09 18:44:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:23] Predicted:
+    while True:"_fils_patul= if xx_seq),  = __abin("C
+  full_ste, 2f.Variables_seq_seq, h_start__h_init = sser_lob tf_h  fllb_seq))
+      ch, tf_y_preds,
+                                       mod(tf."), s nros(")
+  f umath, h_it_name()
+    #tbrenp..andrame)
+    #r
+[RNN1][2018-01-09 18:44:23] Running epoch 173
+[RNN1][2018-01-09 18:44:25] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:25] Predicted:
+    while True:"_fifilsstart indute='RNonumat(start_initp), pexost(putith)logger_lib = tf_h_ini:h_ste, vsize))
+    tf_inputios ge ): "Desser_seq)
+    
+ fita = tf_loss)
+    tf_h_ini
+    seq_len, vsize))
+               os.path.join(utils_path, file))
+    tf_loss:{}':
+[RNN1][2018-01-09 18:44:25] Running epoch 174
+[RNN1][2018-01-09 18:44:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:28] Predicted:
+    while True: __nis.arept(detuleinddatexpan(0:
+                   x_fon if _ser, "Dridbmat(detede:impanpat(tfile '{
+
+
+  start_idx+str_
+    
+    ting = tf.draibinp"".join("C:/", "GoogleDrame)
+    _file] = '4
+    pol, tf_y_full_seq))
+      chs_tout,t Dack)
+  sels.p
+[RNN1][2018-01-09 18:44:28] Running epoch 175
+[RNN1][2018-01-09 18:44:29] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:30] Predicted:
+    while True:= sh_p_stroster_size):
+  """
+  Soustetf_in_t.coh id (nin_oat32)
+    tf_y_full_seq_oh,
+        tf_h_ini: h_ste = tf.ch= seq_peq')
+    tf_h_ini:h_start
+                y__ory_seq_ocalh.(hx':
+   tt__x_ini hosd_nathols_inimatDog.eformat(texf_loat32)
+    
+[RNN1][2018-01-09 18:44:30] Running epoch 176
+[RNN1][2018-01-09 18:44:32] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:32] Predicted:
+    while True: _damulsize):
+    h_start = name='_omo_tedroitidx in format(start_text
+ 
+      x_to_ctrostiniopuen = tf_h_init dinp(shiftr_t(xetule (umrolis(nr
+in hor i in t__dxi))
+     #tbalizer()*-
+g  redut__surn logger = tf_h)-1,  : tf_h_outest: th_init_predute =
+[RNN1][2018-01-09 18:44:32] Running epoch 177
+[RNN1][2018-01-09 18:44:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:35] Predicted:
+    while True: '             orep==[ssepolde(tr_cor if x_tx_sorop= {}"Gostwxt: = tf_pro)
+   fomupn()rile: h_in_ttxe = tf_whizern
+  loss
+  hidd
+         tf_x_seq))
+      x_seq_oh,
+             tf_h_ini: h  tf_iridis=ep_size))
+      y_seq_oh = tf.globit opuepush ifi
+[RNN1][2018-01-09 18:44:35] Running epoch 178
+[RNN1][2018-01-09 18:44:36] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:37] Predicted:
+    while True:= vocat_shop
+    stq_len(prandut_text = pat()
+  efcabdart in f1: = tf_h_initt = lesdeftx_size):
+     por = 0p)]
+
+    x_seq_oh = spr(tf.Varidi))
+  fouth(y chindran___outro)
+      x_seq_oh,
+     fell_start__h_rash):
+      tf_h_ini(h_start = np_h_init =
+[RNN1][2018-01-09 18:44:37] Running epoch 179
+[RNN1][2018-01-09 18:44:39] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:39] Predicted:
+    while True:
+      x_text.rapae)
+    ch_path = tf_init_out_text th_ind
+
+     _log.P("Runningleadume, coq_list = tf_hriat(tf_x_seq:_stwing ss red_seq, finaldmil_stapsaine
+
+     frid_vacab)-
+      fen(tfinpy(vseredn(trutf-8 -*-
+
+               x_text range(_p_fin 
+[RNN1][2018-01-09 18:44:39] Running epoch 180
+[RNN1][2018-01-09 18:44:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:42] Predicted:
+    while True: [tf_wxh)       tf_t ion r:
+ 
+    
+                                             ostet = tf_tratelom(tf_h_out] = pandn(stapt],fif__wxh)    n   tf_h if rut, tf_y_fow lib_lamnrule('logger':':
+ moutpue  unrom _serout = postart:(hossen.".format(start_taxt
+[RNN1][2018-01-09 18:44:42] Running epoch 181
+[RNN1][2018-01-09 18:44:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:44] Predicted:
+    while True: _f ileinIon
+  file_':{ch ostpredt::h_test  idx:      tf_y_fullos.path.join(home_dir, tf_inist(pex(str.chictart_text = 
+        _fol _ute, len("C
+  full_step))
+  start_thols_nath_lostinput_text =tf_loss, h
+  ramu):
+    chist._deq)
+      fred_dir(pron
+[RNN1][2018-01-09 18:44:44] Running epoch 182
+[RNN1][2018-01-09 18:44:46] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:47] Predicted:
+    while True: _f_whowict rt = Ten__init_oropte)
+    "
+    tf_loss, tf_hbias,
+      inputhort in te.exidxtf.train_Aivefin_size))
+                             for a istr.cond_oul_vop,tf_loss, h_seq_ting g.for start_text
+    f le, r_pyr(arerte_sizeq_
+               
+[RNN1][2018-01-09 18:44:47] Running epoch 183
+[RNN1][2018-01-09 18:44:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:49] Predicted:
+    while True: date:
+       tf_x_seq:op2)}_deq_lin(ored_ind
+
+    logger_lib = None
+    for dit = tf_h_ini hostepolib_natest r", "dxptoog ef}r: ch ropte)
+          op.s.run(text_text), if _sare  t _s.zern ing ed
+       tf_init_op = ope:vsize)
+  tf_induli is epor:  
+[RNN1][2018-01-09 18:44:49] Running epoch 184
+[RNN1][2018-01-09 18:44:50] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:51] Predicted:
+    while True: _ses_= zer_lib = SourceFileLoager = Trup_(ting_salaum(x_namalinportmat(opye(Exx_seq))
+      frepuen vsize):
+        unrold_madxmind_path):
+    ch_sess=tf_y_fex_stifc n{}".for(lamaid_ondTrmat()*
+    poc = output += ch
+      fcablast:y_size = seq_len)
+[RNN1][2018-01-09 18:44:51] Running epoch 185
+[RNN1][2018-01-09 18:44:53] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:54] Predicted:
+    while True: _fil_sor in inp_pathilx_str,ist_pat, tf_h_out], fime = ",fand_dush = True)
+                           fel_s.P(.vo), rape_text_filh_iax_seq_x_sor  sessenp.en Sourc Fil_start
+       tf_h = tf.mpatiftung:(senp_s.chidnunq_seq_loafcan)
+   pefoun__seq:
+  
+[RNN1][2018-01-09 18:44:54] Running epoch 186
+[RNN1][2018-01-09 18:44:55] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:56] Predicted:
+    while True: __nis.le")
+    tf_init_op.0 = Simpling:
+           })
+      ch = sh__oholtadeq_seq)
+      y_s= p_sarernder(duthilser(in')
+    
+    tf_x_seq:uxh = tf.npagize)
+      x_seq_oh,
+    tf_h_ini:h_start
+                  tf_x_seq:p_tfill_ste, let(tf_loss, t
+[RNN1][2018-01-09 18:44:56] Running epoch 187
+[RNN1][2018-01-09 18:44:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:44:58] Predicted:
+    while True: [tf_ybias epos.pand.catmag_0osstatceq_c q_moduleDrist(ramiam_s_pooc = tf_h_ini
+   os.path.join(utils grad_pat = 1,
+        log.P("Predicted:\nmodutimp):
+        tf_x_seq_xet = tf.Sors, text_pat(at(rin, tf_wxh = tf.and(text_pat(st), h_dur  ctet,xtf_o
+[RNN1][2018-01-09 18:44:58] Running epoch 188
+[RNN1][2018-01-09 18:45:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:01] Predicted:
+    while True: _f module(module_name), len(vadde___init = np.zern =[tf_yrivs ifilt = fin                                             for amistar:
+                                              damap)= lindur    }name(' for _damp={
+                 x_seq:
+        tf
+[RNN1][2018-01-09 18:45:01] Running epoch 189
+[RNN1][2018-01-09 18:45:02] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:03] Predicted:
+    while True:  nnp_timale(dren .path(text_range = list,packa
+  
+  fouth_seq, leame=dxm__nist = senp.ate(tf_t2c]]
+
+                               for a in traler()
+    tf_h_ini:host_ptin] folled:\n ind_text,pa= = p+='hidd(): .""), dat__xxinportate = """.format(out
+[RNN1][2018-01-09 18:45:03] Running epoch 190
+[RNN1][2018-01-09 18:45:04] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:05] Predicted:
+    while True: iap_ininput(tf_init(op.s.rodgingirn th_str, vatadsin(x_t]
+
+      y_seq_oh,
+       tf_h_seq = tf.candstamo)
+    
+        tf_x_seq))
+     finp = tf.Slsize)* _'"',finpy_len(vsive ounpyia=0)
+  c set_xe)
+    p is = t[[]]
+
+       utils GoogleDrive"),
+    
+[RNN1][2018-01-09 18:45:05] Running epoch 191
+[RNN1][2018-01-09 18:45:07] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:08] Predicted:
+    while True: _fil_saq += seq_lenn(s_f lamifcopy = 020
+  2501, h"":    log.P("PreLogger(lib_name='Rc
+
+                                      os.path.join(utils_path))
+  
+    tf_y_full_size)
+    chintinndamiach_final_seq_le:
+                                        
+[RNN1][2018-01-09 18:45:08] Running epoch 192
+[RNN1][2018-01-09 18:45:09] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:10] Predicted:
+    while True: _sap_start__h_put t
+                                                                        for a indr:imi] __tart = fond_marc))
+         tf_x_seq:y_sepy_sizern, "Google] = 
+cef_imals.for = tf_h_poin_ohowhide, lsbin..pa=tufchs inc[if oste idive ids 
+[RNN1][2018-01-09 18:45:10] Running epoch 193
+[RNN1][2018-01-09 18:45:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:12] Predicted:
+    while True: _fule = len(vsize))
+       logitads, retext".fel_sefon        tf_h_second = tf.mopt drtrop = ch_pable(tf_t i, rand_mils.mpaditidn("Couldn[tercetf, x_'+str()
+      y_test, hsive output text_ress.poch_paeds in tf.Grap#e(tfopless = op.s.py inid_timing 
+[RNN1][2018-01-09 18:45:12] Running epoch 194
+[RNN1][2018-01-09 18:45:14] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:15] Predicted:
+    while True: '   name='01:
+dedulian("C:/", "Googte chintr_t],
+      h _saph_logger_libblaste:
+ceq_seq)
+        utimp):
+    tf_or in  x_sin, tf_x_preds = tf.Soh
+
+      tf_initxos.path.joit(os.path.join(datapn("af use(te_tibmat(xp):
+     frame_x_seq
+
+    for path 
+[RNN1][2018-01-09 18:45:15] Running epoch 195
+[RNN1][2018-01-09 18:45:16] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:17] Predicted:
+    while True: [{}] f ndum___typest,
+    for iach: tf.snge: ch.randut_textorylamean(")
+      if ramidding = tf.Varid_part(t
+  h ds n  tf_h_ini: os.path.joces))
+    final_output_list, ifcat = np.zerti er()
+    #tbar.py_s.cand(tfoh
+  ifcast, idestart_text
+   atarn =
+[RNN1][2018-01-09 18:45:17] Running epoch 196
+[RNN1][2018-01-09 18:45:19] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:19] Predicted:
+    while True: [t _seq))
+      ch = str_to_oh = None
+    tf_y_second
+      output_list = []
+      out
+                     x_seq)
+      x_seq_oh.fals.mpat, tout],
+  def en')_file):
+  medule = ch__size):
+    _saph_leascenostery te_ceq))
+          op__hize],
+       
+[RNN1][2018-01-09 18:45:19] Running epoch 197
+[RNN1][2018-01-09 18:45:21] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:22] Predicted:
+    while True: _f elule [ole()
+    tf_x_seq:x_seq_seq)))
+  outmut(text_fillen(sed_in.s_load_n("{, lan(xptf_h ivs rame(vsize))
+        if randit_initm.topizer()
+
+  + #xt[xt = h_start = np_h_init = s"'= con  usee [start
+                  for path, tf_x_out os preds,
+[RNN1][2018-01-09 18:45:22] Running epoch 198
+[RNN1][2018-01-09 18:45:23] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:24] Predicted:
+    while True:undomat[1]
+      x_seq_oh = str_to_inroll_step))
+       tf_why_s==h__inim_to_s_pniting..patmamv="Rust, logger_list))
+  varint =dspp=t:.pand el rnput
+  se, "Google Drestest:y:
+  h te = {}
+  prch
+    out..stedcte = 0
+  t senr.stfplid(text__ore)
+    log
+[RNN1][2018-01-09 18:45:24] Running epoch 199
+[RNN1][2018-01-09 18:45:26] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:26] Predicted:
+    while True:".Logger(lib_timpybmat: h_sern tfindution(nate=')
+  s Noic h{
+               os.puth.exp
+import text_finn("Couth is nputf-llessifile_'hich],
+      if unm(trat
+     ryca= [inp(t__in]
+    tf_loss = tf.and(text_ran(h_i:h is (redurnpred_text_ret cos:
+   
+[RNN1][2018-01-09 18:45:26] Running epoch 200
+[RNN1][2018-01-09 18:45:28] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:29] Predicted:
+    while True: [{}] fcaturn  [in _saq = outIog  nin__hycond_wizer(leepulist)
+    
+    tf_y_preds = tf.Soh
+     
+    for path in vsize = seq_len - len(y_in_tetf.f oredurnpled(text_insstaad_ing = op
+
+                                       log.P("Prelib
+
+ logger = Si
+[RNN1][2018-01-09 18:45:29] Running epoch 201
+[RNN1][2018-01-09 18:45:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:31] Predicted:
+    while True: [step==''0)
+    logger = Soun}".format(rndirn shop.canutiogle""Loade:
+  rame= _h_pat(strplib=
+       
+    
+          peftept,
+  logger = tqduchir={(vsize, vsize, undute,tf_train_opx_seq_x_seq_oh_list,
+          tf_loss = on: utr_losspaddrame= oste, 
+[RNN1][2018-01-09 18:45:31] Running epoch 202
+[RNN1][2018-01-09 18:45:33] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:33] Predicted:
+    while True: _start_text))
+        tf_loss = axt[.tf.andut = start_idx+seq_len(xes=1::
+ moutefon        chare()
+  extepom.shapt.mat use):, tf.plachinceq_list:= p2c
+
+                           ostare):
+      tf_h = tf.c)}', toxt_mist:{:':
+           tf_h_out
+  la
+[RNN1][2018-01-09 18:45:34] Running epoch 203
+[RNN1][2018-01-09 18:45:35] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:36] Predicted:
+    while True: _fule inp[1:  size = 64
+  epoch))
+           os.path.cand(ttx_
+ moss_natholos.module = leedelictypsing ex chindrto_h_ini: op= h{Te.")
+  con ind_p2s.ropex), tf."), vsize)
+  np_h_ini:hos(tf.ban(x_seq),  fol enurep_ood(timpy(Tes))}   "log h_ivsize)*0.0
+[RNN1][2018-01-09 18:45:36] Running epoch 204
+[RNN1][2018-01-09 18:45:38] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:38] Predicted:
+    while True: _h_whowictirt id_pyout(report text_pestro)
+    pret, fprb_nath.joss)
+      if random_samplins:\npog.s.loat3ul = Tume_ste, con idx drniceq_
+    s ry sttr:ippat:
+    tf_h), seq_lels.put_in.fox )
+       tf_x_seq:y_seq_oh {}".joid()
+    f
+
+     file 'y 
+[RNN1][2018-01-09 18:45:38] Running epoch 205
+[RNN1][2018-01-09 18:45:40] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:41] Predicted:
+    while True: _h_why)) = con]
+    
+    
+  tf_x_seq = loggef
+
+        ure(trivs in ttutx_seq_x_shop(start_text
+
+         out_text range(steptinideris_indre(step,pathall_step)), log = dtypesta:
+                                                                       
+[RNN1][2018-01-09 18:45:41] Running epoch 206
+[RNN1][2018-01-09 18:45:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:43] Predicted:
+    while True: [{}].paad(in_ort flng_h in t.copymaid_ooge(start_indrute = chsoige("."), vsize)*0.0 = tf_wx_seq)
+      input.am_tmpe=tf_yrist(rtiddif_d_fuolimmutg )
+    for s in_seq_list = stept:
+        os.path.join("C:/", tf_lout, load_module(), vsize, h_in_turce
+[RNN1][2018-01-09 18:45:43] Running epoch 207
+[RNN1][2018-01-09 18:45:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:45] Predicted:
+    while True: [{}].patindoggesess.ruli(n{oltestprisizer()
+    out(text_range:
+        ortput.start
+  {}"),  for path = ade:
+     x_tex+t:
+               tf_h_fil     ext = tf_lost, tf_los(ertin_oat32)
+    tf_why), tf.ran(x_text = path,  loads:
+    module.Logger()
+[RNN1][2018-01-09 18:45:45] Running epoch 208
+[RNN1][2018-01-09 18:45:47] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:48] Predicted:
+    while True: _h_pafh(data)
+  epa= h_seq = tf_nrmat(os.path.goat_to_oh.s.py"".join(hodee(0, lend= wh_dur(x_seq)
+               x_te_diz_prin([tf_yac))
+    #tbalidxpax_sirnd_wh_paid=-1:
+deLoamer(vsize, h_star+=geepliifild_past = tf.nn in h___stary = eptop2h.r:
+
+  
+[RNN1][2018-01-09 18:45:48] Running epoch 209
+[RNN1][2018-01-09 18:45:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:50] Predicted:
+    while True:""=pareat:= sel_= h_mey = tf.addut(len(x_seq = name(dictr',idx_initelos.Soundut = tf.train.Anodueq_seq)
+      file '{}'".format(st:=tf.filex_seq_seq)
+     pret deto_firnrive")
+
+     input_text
+
+    tf_init__x_p):
+    h
+dtaxt = file = len(vocet delee:
+[RNN1][2018-01-09 18:45:50] Running epoch 210
+[RNN1][2018-01-09 18:45:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:52] Predicted:
+    while True: [st,rang_euflowitmut(os.path.join(home_dir, "Desktop")
+  {}"loat32, shapet(prining grale, chindrin
+  whade)(x_s_incen(x_seq)
+      if rand(to_chout = tf_h_ini:h_sale = adoutelt"Tr_ty_out = tf_tr, tf_h_ini vocab]0]
+
+        ufile = lendue   tf_inist(
+[RNN1][2018-01-09 18:45:52] Running epoch 211
+[RNN1][2018-01-09 18:45:54] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:55] Predicted:
+    while True: _seq_len..s.redd(mod(lee)
+      tf_h_out_oh.fuliages()
+
+    f
+    frade)
+  f iddinddtuxe)
+      #t.roper(ifima d= seno..aridx(vacann".red_size)
+     for e }pnini:idt(pusizer(load(dnide(tf_h_out_ut
+  start_text)ross(dnaxe()
+
+    rtame='[c]]
+
+    tf_x
+[RNN1][2018-01-09 18:45:55] Running epoch 212
+[RNN1][2018-01-09 18:45:57] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:45:57] Predicted:
+    while True: [{}]]"1, vsize],
+        tf_y_seq:y_seq_oh = shop(strat:-
+    preds in text_ran(toming = tf_loss= fen _partith_logger_size, hc
+
+ "")
+    utrol = tf_h if full_step, idx_inith): """.".format(start_idxestinceFclen...arid())
+      h_start =d_p__nrin = t
+[RNN1][2018-01-09 18:45:57] Running epoch 213
+[RNN1][2018-01-09 18:45:59] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:00] Predicted:
+    while True: _h_liss = ch   preds, h_ste, file__s_prolistept:
+     
+    tf_todilian("Couth g.asder(driate(tram__modut = tf_los_path = tf.tatirt
+          os.path.join(tt_x_syos.module = senp.s.2fodd_pte[1]].ffryp =tf_ybias,
+     fel_seq = tf.add(tf.con text:{:'_
+[RNN1][2018-01-09 18:46:00] Running epoch 214
+[RNN1][2018-01-09 18:46:01] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:02] Predicted:
+    while True: _h_ic=itepvadite=t:.predsaph= ved(text_path in vamadmepn,ty.ant(taxte:
+   tf_y_preds:
+  nama=d_pnr_ptinn(text = set = np_p)- 2f.Variable(np.aoc(tf_y_ful   
+    
+                tf_x_seq = ' ' "
+    onch
+          os.path.join(os.path.join(utilsenp.s
+[RNN1][2018-01-09 18:46:02] Running epoch 215
+[RNN1][2018-01-09 18:46:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:04] Predicted:
+    while True: _start_text)):  *}_sarn)
+    logger_list))
+  for prinimpy')
+    loads(mpax_ster"), lserout_ot.chopy )
+    log.P(.P(.P(")
+      ortpas_={ion(ret[[tf_why), sanpog.efowdamue tropy  if ust, load_module("logger = tf.Gnaxt[-1])
+= range:
+      module.Logge
+[RNN1][2018-01-09 18:46:04] Running epoch 216
+[RNN1][2018-01-09 18:46:06] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:07] Predicted:
+    while True: _fil_mop):
+      xt = tf..py ivnram_d(truep = tf.mpadir(ptext = start_idx,tf.conn.mandnumit = stren
+.mash(relog tf_h
+                                                                      for e        tf_y_full_seq))
+    foll_step_size = 25018 g
+ for
+[RNN1][2018-01-09 18:46:07] Running epoch 217
+[RNN1][2018-01-09 18:46:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:09] Predicted:
+    while True: [{}].pa=dame=kteporange(hogger.
+ ddut = leedumpodt
+   indut_leLogiestrop
+ [npr:
+        out_text = rnade:
+     preds, h_start_texp),
+    feld_inc[n]
+
+    moads)
+      oh mang.mopy_in_
+   tf_y_filx_initprenp..an_tholus(prin*-ddis_):l_step = dxt
+    t
+[RNN1][2018-01-09 18:46:09] Running epoch 218
+[RNN1][2018-01-09 18:46:11] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:11] Predicted:
+    while True: _full_stepto)
+  tf_fle                   x_to_dir(r n,caf_tuolos.path.join(utiut_idx, vsize)*0.01, dtype=tf.float32, "ame, x_text_ran(oute, cax_ser, vsize)), dttropy((forep=={ch: flush iop2P(glog.P("Posstrat = np.zerid([1}).poadd(ramernath.join("C
+ 
+[RNN1][2018-01-09 18:46:11] Running epoch 219
+[RNN1][2018-01-09 18:46:13] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:14] Predicted:
+    while True: [{}] f ndum_outeliging         tf_h_out_utils")
+  wpt:
+    print("Donen(seq)))
+      x_seq'_s.pr= wham_start):
+        tf_x_seq)
+      if random_sampling:
+ mpax_strat = fame):
+      y_seq)
+    tf_inchame = "
+    tf_x_seq:out)         {}': erte, xpat
+[RNN1][2018-01-09 18:46:14] Running epoch 220
+[RNN1][2018-01-09 18:46:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:16] Predicted:
+    while True: _h.rapto.cadcaste:
+ dduce= sh__text = input_text =tf_or, "Google Dsep==1, vsize],
+      os.path.join_text_ranges()
+
+      rtame='_fSoy = 1:""".format(elogees()
+    tf_y__uth_seq_lin]
+
+      tf_loss = op.pat(dxt
+ range(0, lsepurn inistr_to_oh = sflom
+[RNN1][2018-01-09 18:46:16] Running epoch 221
+[RNN1][2018-01-09 18:46:18] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:18] Predicted:
+    while True: [{}] '+ch_py = tf.alicto_cho_s))
+       tf_inist(rt
+
+ list = [n_pyur = ser(data)
+  ssared_ini:h_sess.range(s"Google '{
+                                          feless:
+  libs =painion("amize, h_dx_cennif_xbia = tf.apv(tf_ort = f
+
+       logitf_xmia
+[RNN1][2018-01-09 18:46:18] Running epoch 222
+[RNN1][2018-01-09 18:46:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:21] Predicted:
+    while True: [{}] "1.')
+  vscax = 
+           output_list:{
+]   _pabhDrive(pa=d_fooc epos.path.join(home_dir, "Desktop"), h    poc, tf_ore)
+    h_start = file nome(tf_why), tf.reducess, text):
+         tf_h_y = tf.npy()9  inp.th.atecos ep_s,rata[start_idx+seq_le
+[RNN1][2018-01-09 18:46:21] Running epoch 223
+[RNN1][2018-01-09 18:46:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:23] Predicted:
+    while True: _h_in = a for math = pred_seq,
+                        ne   _mat(undum_tut, llessep__h_ini n  n                                                                
+        
+    
+    
+    
+    }] y     tf_h_ini = tf.Session(graph=[s r{}4g r_fowitf n '   
+[RNN1][2018-01-09 18:46:23] Running epoch 224
+[RNN1][2018-01-09 18:46:25] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:25] Predicted:
+    while True: _dice= 1]
+
+     
+    tf_h_ini hoster:
+      #tbar = tf.chaceq))
+      in utils_path,file_name, file_name, os.path.ex_size)
+  stext
+          orepais=glen("Dog_enil_onist(ndoges+= tqdme, inp_hagh.....py inif_nist(s None:
+    tf_hbias = senp.en=[ser."
+[RNN1][2018-01-09 18:46:25] Running epoch 225
+[RNN1][2018-01-09 18:46:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:28] Predicted:
+    while True: [{}] +scze, celo)
+                                                                                   fewide]
+
+    for i 
+    chbias, len(idxinpaths(tf_hbre                              out_text = rnd_top,
+                                 tf_h_init..
+[RNN1][2018-01-09 18:46:28] Running epoch 226
+[RNN1][2018-01-09 18:46:29] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:30] Predicted:
+    while True: [{}] foumb, x_teoplen - lsizern  [tf_xp):       if random_sampling.madd(tenn.r(porelsistr_size)
+      if rutmor log(01: vsize)*0.tforedump_inpDeninpnn(tax()}', vsize))
+      pret, tf_whh_iase)
+    #tbaas_en_s_initx:
+    tf_hress ningleLogger:
+  dece
+[RNN1][2018-01-09 18:46:30] Running epoch 227
+[RNN1][2018-01-09 18:46:32] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:32] Predicted:
+    while True: _nama=dut), tf_losstatcof
+  log.P("Rundize)
+  for p = tf_h_ini
+  start_idxestin_se:  input_tefcon in tromo_s.zeros((red_in_oh, tf_y_path,  f_wilist: tp.f.repbe(0,trbia = 15
+        tf_lossto_deq', find na h['h_':whoges, reng._hame_):   indog.P("Load
+[RNN1][2018-01-09 18:46:32] Running epoch 228
+[RNN1][2018-01-09 18:46:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:35] Predicted:
+    while True: [{}] "
+flle = lead(en0.prachig [{}] f loss, h_start_text
+    for s in idx_iaxt".
+ draph
+    ")
+    print(':
+        #tbal_size)))
+    pre   tf_inistart_text)
+    
+    
+      log.P("Pr(det(tf.rame_s=in inis_pnide(dxich_py_silizer()
+    tfch_step = if
+[RNN1][2018-01-09 18:46:35] Running epoch 229
+[RNN1][2018-01-09 18:46:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:37] Predicted:
+    while True: _fil_ or a is in start_idxtep==tf.filindepog iaceq_mod in txt')
+    tf_loss = op_paide:
+                             tf_inimaop = *0
+
+     flost, inim_t(xep=={:.2h
+        y_seq_to_oh(idx_initelin(0n0.poad_(hostert
+
+        use):
+      for p idindun
+[RNN1][2018-01-09 18:46:37] Running epoch 230
+[RNN1][2018-01-09 18:46:39] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:40] Predicted:
+    while True:"),
+    logize(vsize)*0.01, dtype=tf.float32)
+    
+    
+                                 tf_h_ini:h_start = sep_=tf.floach:."1, vsize))
+  for epoch ilimen(ve:s_fooutrol ")
+    print(tfox     input_text)
+      fimaoge()
+    tf_indut(leLoggerelige sos(
+[RNN1][2018-01-09 18:46:40] Running epoch 231
+[RNN1][2018-01-09 18:46:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:42] Predicted:
+    while True: _fill= shin.
+  dtfox = tf.globam_nusp))
+    n_d_inaut:,t = nq_s_prolis(stax(),
+          otcoin_oostat0.cat'))
+    tf_wxh = tf.Variable.path(leadLogger(edule Driveinglevs")
+    pred_pat(st
+  star:
+        input_text = file '{ces.path.e: h_ich[in fou
+[RNN1][2018-01-09 18:46:42] Running epoch 232
+[RNN1][2018-01-09 18:46:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:44] Predicted:
+    while True: _sarep_size)
+    log.P("Predicting wit])), logger
+
+
+     x_test.for     n_te, plabias el es ninp.ran(staxt = candigle(00
+    log = seq=_sarh
+        out_turp_s.choathog  nn th_fille(tf.nn inauh__init_ibme, if whimeDreet(ress_filx_dile()
+    
+    out
+[RNN1][2018-01-09 18:46:44] Running epoch 233
+[RNN1][2018-01-09 18:46:46] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:47] Predicted:
+    while True: [{}].pa=tate.con
+ name='hale_name):
+  module = lond_mat = tf.nn.shopt,
+    os.path.join("C:/", "GoogleDt/", ttypax(str_to_finn, un] g  nn _hir   os.path.join(on(math):
+      x_seq:
+                                                   })
+      #tbars =
+[RNN1][2018-01-09 18:46:47] Running epoch 234
+[RNN1][2018-01-09 18:46:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:49] Predicted:
+    while True: dxpaidn(tx_sizer()
+    tf_loss, h_start
+     x_seq = dath.join(home_dir, vsize],
+          logiet mosee ')
+
+ brep_size)
+
+     ch_sess.ruligge(str(tf_or, tf_why), tf.Variable.path,fcanq-llen(toxt_mist = 250
+  sst(",
+  c ififlo_t oi Ionf_wit], lebnaul
+[RNN1][2018-01-09 18:46:49] Running epoch 235
+[RNN1][2018-01-09 18:46:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:52] Predicted:
+    while True: _nath inistep==':
+    tf_liss = tf.prading = tf_hbias en f
+ blas_= range(sapn():
+        tf_wxt te = tf_'romichopy_,ilf_fause, lib
+    log.P("Test: {}".format(eltefcon in toutprt
+  log.P("vos.pali:{}.mopy ):
+      ch_sess=p[chs sh
+ np.e)*_dernmodule
+[RNN1][2018-01-09 18:46:52] Running epoch 236
+[RNN1][2018-01-09 18:46:53] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:54] Predicted:
+    while True: None(toduniAd_ine(tf_hbiach)
+
+     tf_why), tf_y_foun = list = ch
+ctaxp))
+  
+    })
+      if random_sang t
+  
+                     fer_stip=01:{:'h_felss_path
+
+ g  = axe__ny_init_py )}
+    fels_inpr=
+}].p.atiame=')
+
+   
+chr = tf_h_pr(ifile__sit inpr
+[RNN1][2018-01-09 18:46:54] Running epoch 237
+[RNN1][2018-01-09 18:46:56] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:56] Predicted:
+    while True: [{}] fout32, shape=[1]
+
+    felss 1]
+              for a is")
+        utile"""
+  text_range = op.s.format(start_textor(nrte,ty_seq = tf.y_s.ifcy_s= h_seq)
+    tf_loss, "
+
+    po.loat32c = tf_h_ini
+      output_oh in (tf_i2c(for i c in os.path.join(u
+[RNN1][2018-01-09 18:46:56] Running epoch 238
+[RNN1][2018-01-09 18:46:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:46:59] Predicted:
+    while True: _path,file_name, file = tf.nn.softf_hristartptiningeL(")
+      if random.rand(tf_inidnr(drise(vo)
+    
+    optetoxt ry g__ored_to_
+   s ]
+for print(tfxinirnarg.mampdetf.flen(xt = pooutmolder(dtype=tf.float32)
+    tf_why = tf.Sessiaxp")
+      ctars =
+[RNN1][2018-01-09 18:46:59] Running epoch 239
+[RNN1][2018-01-09 18:47:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:47:01] Predicted:
+    while True: _fil_ ored_inp
+      im_oreptipn(taxt))
+    "
+    tx_seq_oh = str_to_oh(x_seq_out, "GoogleDrive"),
+                         feen_dxitf-8:/",os.path.join(utils_path = tf.nn.reny(eos(dride ns.zesteak
+    input_text = sptx_sizer()
+
+  
+    output_list):
+[RNN1][2018-01-09 18:47:01] Running epoch 240
+[RNN1][2018-01-09 18:47:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:47:03] Predicted:
+    while True: _fil_sess = __namurn
+      x_test:='s]
+
+    tf_loss, hoathoif unq_seq_lin]
+    log, tf_ybias = tf.Variable(np.random.canist(ng..."), seq:
+
+      x_teon: hodule Tll_seq))
+    output_list))
+  deturn th_'): libmat(rIoggess,ilex()
+  wh'), randet coifite
+[RNN1][2018-01-09 18:47:03] Running epoch 241
+[RNN1][2018-01-09 18:47:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:47:06] Predicted:
+    while True: _file = 250
+  start_text
+   output_list = []
+      x_seq_oh_liss londimoogle nomeodes(conush = Trut)))
+         tf_x_seq = dq)
+                                                                                                                for start_
+[RNN1][2018-01-09 18:47:06] Running epoch 242
+[RNN1][2018-01-09 18:47:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:47:08] Predicted:
+    while True: [{}]  + 'ypeediles(s phize[*0=01, h
+  h
+         x_seq:
+                          eput = os.path.join(os.los.path.edach = stf_trutelos.con  un  un __nuslis = [[ternde:
+    p_ini(sess, h_start_st(xisenp.s.ry"("Cfilist(ptide, [{}] rach_iop)]
+    cab =
+[RNN1][2018-01-09 18:47:08] Running epoch 243
+[RNN1][2018-01-09 18:47:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:47:11] Predicted:
+    while True: _h_pax_size, vsize))
+     #tbalizer(cod(inp
+Creas)
+      ch, tf_ybias = tf.math_list = [nd idn("Cres_initx[
+     log.P("Predicte[1] = 2'0* d"[:loads)
+   n_mey))
+    tf_inctext)
+     preds in [hir        logits=mong_e in range(sexp
+ draph)
+      tf_x
+[RNN1][2018-01-09 18:47:11] Running epoch 244
+[RNN1][2018-01-09 18:47:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 18:47:13] Predicted:
+    while True: [{}] "
+c
+   module = tf.Variable(np.ran(tf_init_ryp_start_idx, start
+       text_pathr, if}):  daid_oute=t:Nopest,
+
+           os.path.join(home_dir, "Desktor"log = Sey_seq')
+    tf_init_oput = s.st__inpuren
+ edx__fiflos.loads)
+    out_turp_sampling
+[RNN1][2018-01-09 18:47:13] Running epoch 245
+[RNN1][2018-01-09 18:47:15] Predicting with start: '    while True:'

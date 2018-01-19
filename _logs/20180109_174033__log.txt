@@ -1,0 +1,644 @@
+[RNN1][2018-01-09 17:40:33] Library [RNN1 ] initialized on machine [LAPTOP-R3N5TFDE]
+[RNN1][2018-01-09 17:40:33] Logger ver: 3.9.2_tf14-html
+[RNN1][2018-01-09 17:40:33] Found TF 1.4.0 running on GPU
+[RNN1][2018-01-09 17:40:33] Found TF.Keras 2.0.8-tf
+[RNN1][2018-01-09 17:40:33] Found Keras 2.0.9
+[RNN1][2018-01-09 17:40:33] Loading data file 'D:/Dropbox/03_CLOUDIFIER_WORK/01_tests/03_damian/06_simple_char_gen_rnn/rnn_test.py'
+[RNN1][2018-01-09 17:40:33] Creating graph...
+[RNN1][2018-01-09 17:40:34] Running epoch 0
+[RNN1][2018-01-09 17:40:36] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:37] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:40:37] Running epoch 1
+[RNN1][2018-01-09 17:40:39] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:39] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:40:39] Running epoch 2
+[RNN1][2018-01-09 17:40:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:42] Predicted:
+    while True:t                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:40:42] Running epoch 3
+[RNN1][2018-01-09 17:40:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:44] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:40:44] Running epoch 4
+[RNN1][2018-01-09 17:40:46] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:47] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:40:47] Running epoch 5
+[RNN1][2018-01-09 17:40:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:49] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:40:49] Running epoch 6
+[RNN1][2018-01-09 17:40:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:52] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:40:52] Running epoch 7
+[RNN1][2018-01-09 17:40:53] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:54] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:40:54] Running epoch 8
+[RNN1][2018-01-09 17:40:56] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:57] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:40:57] Running epoch 9
+[RNN1][2018-01-09 17:40:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:40:59] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:40:59] Running epoch 10
+[RNN1][2018-01-09 17:41:01] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:01] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:41:01] Running epoch 11
+[RNN1][2018-01-09 17:41:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:04] Predicted:
+    while True: = tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(
+[RNN1][2018-01-09 17:41:04] Running epoch 12
+[RNN1][2018-01-09 17:41:06] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:06] Predicted:
+    while True: = tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(tf_h_seq_len(
+[RNN1][2018-01-09 17:41:06] Running epoch 13
+[RNN1][2018-01-09 17:41:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:09] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:41:09] Running epoch 14
+[RNN1][2018-01-09 17:41:11] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:11] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:41:11] Running epoch 15
+[RNN1][2018-01-09 17:41:13] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:14] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:41:14] Running epoch 16
+[RNN1][2018-01-09 17:41:16] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:16] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:41:16] Running epoch 17
+[RNN1][2018-01-09 17:41:18] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:19] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:41:19] Running epoch 18
+[RNN1][2018-01-09 17:41:21] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:21] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:41:21] Running epoch 19
+[RNN1][2018-01-09 17:41:23] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:24] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:41:24] Running epoch 20
+[RNN1][2018-01-09 17:41:26] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:26] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:41:26] Running epoch 21
+[RNN1][2018-01-09 17:41:28] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:29] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:41:29] Running epoch 22
+[RNN1][2018-01-09 17:41:31] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:31] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:41:31] Running epoch 23
+[RNN1][2018-01-09 17:41:33] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:34] Predicted:
+    while True:
+                                                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:41:34] Running epoch 24
+[RNN1][2018-01-09 17:41:36] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:36] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:41:36] Running epoch 25
+[RNN1][2018-01-09 17:41:38] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:39] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:41:39] Running epoch 26
+[RNN1][2018-01-09 17:41:41] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:41] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:41:41] Running epoch 27
+[RNN1][2018-01-09 17:41:43] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:44] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:41:44] Running epoch 28
+[RNN1][2018-01-09 17:41:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:46] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:41:46] Running epoch 29
+[RNN1][2018-01-09 17:41:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:49] Predicted:
+    while True:[1:                                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:41:49] Running epoch 30
+[RNN1][2018-01-09 17:41:51] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:51] Predicted:
+    while True:[1:                                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:41:51] Running epoch 31
+[RNN1][2018-01-09 17:41:53] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:54] Predicted:
+    while True:[1:                                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:41:54] Running epoch 32
+[RNN1][2018-01-09 17:41:55] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:56] Predicted:
+    while True:[1:                                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:41:56] Running epoch 33
+[RNN1][2018-01-09 17:41:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:41:59] Predicted:
+    while True:[1:                                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:41:59] Running epoch 34
+[RNN1][2018-01-09 17:42:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:01] Predicted:
+    while True:[1:                                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:42:01] Running epoch 35
+[RNN1][2018-01-09 17:42:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:04] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:42:04] Running epoch 36
+[RNN1][2018-01-09 17:42:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:06] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:42:06] Running epoch 37
+[RNN1][2018-01-09 17:42:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:09] Predicted:
+    while True:[1:                                                                                                                                                                                                                                                       
+[RNN1][2018-01-09 17:42:09] Running epoch 38
+[RNN1][2018-01-09 17:42:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:11] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:42:11] Running epoch 39
+[RNN1][2018-01-09 17:42:13] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:13] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:42:13] Running epoch 40
+[RNN1][2018-01-09 17:42:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:16] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:42:16] Running epoch 41
+[RNN1][2018-01-09 17:42:18] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:18] Predicted:
+    while True:
+  tf_h_ini: tf_h_init_to_t_xt_text = _pachsizer()
+    start_text = str_to_oh())
+                                                                                                                                                                         
+[RNN1][2018-01-09 17:42:18] Running epoch 42
+[RNN1][2018-01-09 17:42:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:21] Predicted:
+    while True:[[tf_h_ini: tf_y_seq:
+                                                                                                                                                                                                                                    
+[RNN1][2018-01-09 17:42:21] Running epoch 43
+[RNN1][2018-01-09 17:42:23] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:23] Predicted:
+    while True:[1:
+                                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:42:23] Running epoch 44
+[RNN1][2018-01-09 17:42:25] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:26] Predicted:
+    while True:[ tf_h_ini: tf_h_out],
+                                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:42:26] Running epoch 45
+[RNN1][2018-01-09 17:42:28] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:28] Predicted:
+    while True:
+  tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_
+[RNN1][2018-01-09 17:42:28] Running epoch 46
+[RNN1][2018-01-09 17:42:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:31] Predicted:
+    while True: = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_ini: tf_h_init = tf_h_
+[RNN1][2018-01-09 17:42:31] Running epoch 47
+[RNN1][2018-01-09 17:42:33] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:33] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:42:33] Running epoch 48
+[RNN1][2018-01-09 17:42:35] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:36] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:42:36] Running epoch 49
+[RNN1][2018-01-09 17:42:38] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:38] Predicted:
+    while True:[ f_luse, "log_math_stq_lost,finn = output_list(opstor(size))
+      ostq_to_shr(estart_iaxts.path.for = in                                                                                                                                                
+[RNN1][2018-01-09 17:42:38] Running epoch 50
+[RNN1][2018-01-09 17:42:40] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:41] Predicted:
+    while True: = tf.ranit(os.path.join(home_dirt = froast("p 'h
+                                                                                                                                                                                                        
+[RNN1][2018-01-09 17:42:41] Running epoch 51
+[RNN1][2018-01-09 17:42:43] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:43] Predicted:
+    while True: = tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_in
+[RNN1][2018-01-09 17:42:43] Running epoch 52
+[RNN1][2018-01-09 17:42:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:46] Predicted:
+    while True: = tf.grain(tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini
+[RNN1][2018-01-09 17:42:46] Running epoch 53
+[RNN1][2018-01-09 17:42:48] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:48] Predicted:
+    while True: = tf.rande(ostare)
+                                                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:42:48] Running epoch 54
+[RNN1][2018-01-09 17:42:50] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:51] Predicted:
+    while True:   _seq_len+1, hoddmes({r.ze(_pyeh("Dridser: text_file_name))
+                                                                                                                                                                                            
+[RNN1][2018-01-09 17:42:51] Running epoch 55
+[RNN1][2018-01-09 17:42:53] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:53] Predicted:
+    while True: = tf.Variable(np.zeros((1, nddmos(), less = tf.Sessif fin                                                                                                                                                                                                
+[RNN1][2018-01-09 17:42:53] Running epoch 56
+[RNN1][2018-01-09 17:42:55] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:56] Predicted:
+    while True: = tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_ini: tf_h_in
+[RNN1][2018-01-09 17:42:56] Running epoch 57
+[RNN1][2018-01-09 17:42:58] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:42:58] Predicted:
+    while True: = text[1:
+                                                                                                                                                                                                                                               
+[RNN1][2018-01-09 17:42:58] Running epoch 58
+[RNN1][2018-01-09 17:43:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:01] Predicted:
+    while True: = text[input_text[1:] + tf_h_ini: for start_text = path = tf_h_ini: finput_text[1:] + tf_h_ini: for start_text = path = tf_h_ini: finput_text[1:] + tf_h_ini: for start_text = path = tf_h_ini: finput_text[1:] + tf_h_ini: for start_text = path = tf_h_
+[RNN1][2018-01-09 17:43:01] Running epoch 59
+[RNN1][2018-01-09 17:43:03] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:03] Predicted:
+    while True: = tf_h_ini: tf_h_ini: tf_h_out],
+                                                                                                                                                                                                                        
+[RNN1][2018-01-09 17:43:03] Running epoch 60
+[RNN1][2018-01-09 17:43:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:06] Predicted:
+    while True: = text_fine_size = seq_len = se f_lustart_text = tf_h_ini: tf_h_out],
+                                                                                                                                                                                   
+[RNN1][2018-01-09 17:43:06] Running epoch 61
+[RNN1][2018-01-09 17:43:08] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:08] Predicted:
+    while True: = tf.Variable(np.zeros((tf_x_seq: x_test = st.pus)
+    tf_y_seq, hinge Datiabus = tf.Variable(np.zeros((tf_x_seq: x_test = st.pus)
+    tf_y_seq, hinge Datiabus = tf.Variable(np.zeros((tf_x_seq: x_test = st.pus)
+    tf_y_seq, hinge Datiabus = tf.Vari
+[RNN1][2018-01-09 17:43:08] Running epoch 62
+[RNN1][2018-01-09 17:43:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:11] Predicted:
+    while True: = text[stfredingess.pex_seq
+ = tf_h_out],
+                                                                                                                                                                                                               
+[RNN1][2018-01-09 17:43:11] Running epoch 63
+[RNN1][2018-01-09 17:43:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:13] Predicted:
+    while True: = tf.Variable(npoh_start_text = tf_h_ini: tf_h_out],
+                                                                                                                                                                                                    
+[RNN1][2018-01-09 17:43:13] Running epoch 64
+[RNN1][2018-01-09 17:43:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:16] Predicted:
+    while True: = tf_h_ini: full_size):
+  
+                                                                                                                                                                                                                              
+[RNN1][2018-01-09 17:43:16] Running epoch 65
+[RNN1][2018-01-09 17:43:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:18] Predicted:
+    while True: = tf_h_ini: None
+    pring(ger()
+                                                                                                                                                                                                                        
+[RNN1][2018-01-09 17:43:18] Running epoch 66
+[RNN1][2018-01-09 17:43:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:21] Predicted:
+    while True: = tf.rande(ostare):
+  tf_y_seq,
+                                                                                                                                                                                                                         
+[RNN1][2018-01-09 17:43:21] Running epoch 67
+[RNN1][2018-01-09 17:43:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:23] Predicted:
+    while True: = tf_h_ini:                                                                                                                                                                                                                                              
+[RNN1][2018-01-09 17:43:23] Running epoch 68
+[RNN1][2018-01-09 17:43:25] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:26] Predicted:
+    while True: = tf_h_ini: full_size)
+  start_text
+                                                                                                                                                                                                                     
+[RNN1][2018-01-09 17:43:26] Running epoch 69
+[RNN1][2018-01-09 17:43:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:28] Predicted:
+    while True: = text_file))
+  start_text
+                                                                                                                                                                                                                              
+[RNN1][2018-01-09 17:43:28] Running epoch 70
+[RNN1][2018-01-09 17:43:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:31] Predicted:
+    while True: = tf.unisctf_x_seq: x_test,
+                                                                                                                                                                                                                             
+[RNN1][2018-01-09 17:43:31] Running epoch 71
+[RNN1][2018-01-09 17:43:32] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:33] Predicted:
+    while True: = tf_h_ini:                                                                                                                                                                                                                                              
+[RNN1][2018-01-09 17:43:33] Running epoch 72
+[RNN1][2018-01-09 17:43:35] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:35] Predicted:
+    while True: = text_file_size = seq_len = stf_troat(text_file))
+                                                                                                                                                                                                      
+[RNN1][2018-01-09 17:43:35] Running epoch 73
+[RNN1][2018-01-09 17:43:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:38] Predicted:
+    while True: = text_file = tf_h_stin("C:/", xx_text = se = s tf_h_init_damloge()
+      x_seq_oh = str_to_oh(x_seq)
+      x_seq = tf_h_ini: h_idx_seq_list = se:s.fullenarepati importati,tf_mpaus, os.zerost()
+                                                       
+[RNN1][2018-01-09 17:43:38] Running epoch 74
+[RNN1][2018-01-09 17:43:40] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:40] Predicted:
+    while True: = tf_h_ini: tf_hbias, tf_h_init.path.join(ostarenin(madbe).".flogloat32)
+                                                                                                                                                                                
+[RNN1][2018-01-09 17:43:40] Running epoch 75
+[RNN1][2018-01-09 17:43:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:43] Predicted:
+    while True: = text_file = den(en(text_range:
+                                                                                                                                                                                                                        
+[RNN1][2018-01-09 17:43:43] Running epoch 76
+[RNN1][2018-01-09 17:43:45] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:45] Predicted:
+    while True: = text_file = det(_ot = tf.mpoutputh_in(text_text[1:] +                                                                                                                                                                                                  
+[RNN1][2018-01-09 17:43:45] Running epoch 77
+[RNN1][2018-01-09 17:43:47] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:48] Predicted:
+    while True: = tf_h_out], less)
+    tf_ybias, "h, len_lestart = tf_hbias = tf_h_out], less)
+    tf_ybias, "h, len_lestart = tf_hbias = tf_h_out], less)
+    tf_ybias, "h, len_lestart = tf_hbias = tf_h_out], less)
+    tf_ybias, "h, len_lestart = tf_hbias = tf_h_ou
+[RNN1][2018-01-09 17:43:48] Running epoch 78
+[RNN1][2018-01-09 17:43:50] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:50] Predicted:
+    while True: graph(midx_p in tf_h_ses,
+ful_seq: tf.ranit(os.path.join(utils_path,file_name))
+                                                                                                                                                                         
+[RNN1][2018-01-09 17:43:50] Running epoch 79
+[RNN1][2018-01-09 17:43:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:53] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:43:53] Running epoch 80
+[RNN1][2018-01-09 17:43:55] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:55] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:43:55] Running epoch 81
+[RNN1][2018-01-09 17:43:57] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:43:58] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:43:58] Running epoch 82
+[RNN1][2018-01-09 17:44:00] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:00] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:00] Running epoch 83
+[RNN1][2018-01-09 17:44:02] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:03] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:03] Running epoch 84
+[RNN1][2018-01-09 17:44:05] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:05] Predicted:
+    while True: = tf_h_ini: for e is coss ratfig_start_text = tf_h_ini: fur = taxt_rangh = tf_h_seq,
+                                                                                                                                                                    
+[RNN1][2018-01-09 17:44:05] Running epoch 85
+[RNN1][2018-01-09 17:44:07] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:08] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:08] Running epoch 86
+[RNN1][2018-01-09 17:44:10] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:10] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:10] Running epoch 87
+[RNN1][2018-01-09 17:44:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:13] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:13] Running epoch 88
+[RNN1][2018-01-09 17:44:15] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:15] Predicted:
+    while True: = tf_h_init.pe=tf_x_ses.Logger(lib_namangog_dath_seq_oh, liss Sptrist(npon(tepb_sestart_text = tf.Sess= startstareputing = text_rapt_text = tf_h_ini: tf_y_full_seq = tf_h_ini: tf_y_full_seq = tf_h_ini: tf_y_full_seq = tf_h_ini: tf_y_full_seq = tf_h_
+[RNN1][2018-01-09 17:44:15] Running epoch 89
+[RNN1][2018-01-09 17:44:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:18] Predicted:
+    while True:            tf_y_full_seq = tf_h_ini:h_start
+                                                                                                                                                                                                             
+[RNN1][2018-01-09 17:44:18] Running epoch 90
+[RNN1][2018-01-09 17:44:20] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:20] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:20] Running epoch 91
+[RNN1][2018-01-09 17:44:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:23] Predicted:
+    while True:            tf_y_seq:y_seq_list = []
+    log.P("Codarat(ar_d in fin  _str_to_oh(x_seq)
+      _tate_s=Sos.Logger()
+    # -,                                                                                                                                
+[RNN1][2018-01-09 17:44:23] Running epoch 92
+[RNN1][2018-01-09 17:44:25] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:25] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:25] Running epoch 93
+[RNN1][2018-01-09 17:44:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:28] Predicted:
+    while True: = tf_h_init = tf.trainit__time))
+                                                                                                                                                                                                                        
+[RNN1][2018-01-09 17:44:28] Running epoch 94
+[RNN1][2018-01-09 17:44:30] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:30] Predicted:
+    while True:[[cep_tart_t())
+                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:30] Running epoch 95
+[RNN1][2018-01-09 17:44:32] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:33] Predicted:
+    while True:[[
+        tf_h_ini:h_size)
+
+                                                                                                                                                                                                                             
+[RNN1][2018-01-09 17:44:33] Running epoch 96
+[RNN1][2018-01-09 17:44:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:35] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:35] Running epoch 97
+[RNN1][2018-01-09 17:44:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:38] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:38] Running epoch 98
+[RNN1][2018-01-09 17:44:39] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:40] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:40] Running epoch 99
+[RNN1][2018-01-09 17:44:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:43] Predicted:
+    while True:[[cenp.chiptenin(os.poshax = os.path.join(host_file)))
+                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:44:43] Running epoch 100
+[RNN1][2018-01-09 17:44:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:45] Predicted:
+    while True:                                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:44:45] Running epoch 101
+[RNN1][2018-01-09 17:44:47] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:48] Predicted:
+    while True: 0*
+      tf_wxh) + tf_mod())
+  utr(npon(tat())
+    loads}): dext_namian(vaipe))
+                                                                                                                                                                         
+[RNN1][2018-01-09 17:44:48] Running epoch 102
+[RNN1][2018-01-09 17:44:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:50] Predicted:
+    while True: 0* size = den(.stq_lostadt(les), hidden_size)), dplat = tq_h = tf_h_ini: fusles, tf_h_ini: h_start..ex=ching_seq, h_idx+1:                                                                                                                               
+[RNN1][2018-01-09 17:44:50] Running epoch 103
+[RNN1][2018-01-09 17:44:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:53] Predicted:
+    while True: = _path = optate = sharessar_stapt_text = start_text
+                                                                                                                                                                                                    
+[RNN1][2018-01-09 17:44:53] Running epoch 104
+[RNN1][2018-01-09 17:44:54] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:55] Predicted:
+    while True: = tf_h_init_ostqding gpath = pat:  "{}".foreat(text_fine: [{}".".flome_oidx,                                                                                                                                                                             
+[RNN1][2018-01-09 17:44:55] Running epoch 105
+[RNN1][2018-01-09 17:44:57] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:44:58] Predicted:
+    while True: = 25000.for epon(ligger.py")
+                                                                                                                                                                                                                            
+[RNN1][2018-01-09 17:44:58] Running epoch 106
+[RNN1][2018-01-09 17:44:59] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:00] Predicted:
+    while True: ep_chime_n_mate_t(xth):      x_seq_oh = input_text = start_text
+                                                                                                                                                                                         
+[RNN1][2018-01-09 17:45:00] Running epoch 107
+[RNN1][2018-01-09 17:45:02] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:02] Predicted:
+    while True: epach daldend = tf_loss, tf_h_out], fell_step = tf_h_out], less ratf_start = sepatse:startist = start_idx+seq_len+1]
+                                                                                                                                    
+[RNN1][2018-01-09 17:45:03] Running epoch 108
+[RNN1][2018-01-09 17:45:04] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:05] Predicted:
+    while True: 0*0.01, fimplist(petfoun_mizeranimiogle Drive"),
+                                                                                                                                                                                                        
+[RNN1][2018-01-09 17:45:05] Running epoch 109
+[RNN1][2018-01-09 17:45:07] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:07] Predicted:
+    while True: = 25:  fidden_size))
+                                                                                                                                                                                                                                    
+[RNN1][2018-01-09 17:45:07] Running epoch 110
+[RNN1][2018-01-09 17:45:09] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:10] Predicted:
+    while True: epachepe.),  whtepost(text[='_dertat():  size = 250
+                                                                                                                                                                                                     
+[RNN1][2018-01-09 17:45:10] Running epoch 111
+[RNN1][2018-01-09 17:45:12] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:12] Predicted:
+    while True: ep_chime)
+                                                                                                                                                                                                                                               
+[RNN1][2018-01-09 17:45:12] Running epoch 112
+[RNN1][2018-01-09 17:45:14] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:15] Predicted:
+    while True: ep_chime_n_mate(tfuen(midx(tful__'topy_siq_last = so:s ralin(name='h_'+str_teidx:s tf.cos(tf_x_seq, strut=ip = longleDrive"),
+                                                                                                                           
+[RNN1][2018-01-09 17:45:15] Running epoch 113
+[RNN1][2018-01-09 17:45:17] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:17] Predicted:
+    while True: = op.chidx(setf.gen(tf_loss)
+      x_seq = data[start_idx:str_to_oh(input_text[-1]
+      ist = start_idx, himt__utr.putroat(text_file))
+                                                                                                                 
+[RNN1][2018-01-09 17:45:17] Running epoch 114
+[RNN1][2018-01-09 17:45:19] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:20] Predicted:
+    while True: epachin(tr(text_list = []
+    libplost(seanan(tedt_file))
+      x_seq_oh,
+                                                                                                                                                                               
+[RNN1][2018-01-09 17:45:20] Running epoch 115
+[RNN1][2018-01-09 17:45:22] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:22] Predicted:
+    while True:  arive whtinimput_text = pr Lorut = tf.traut(input_tuty_seq = tf_h_ini:ils, pr_d_ty_seq')
+    tf_y_seq:
+                                                                                                                                                 
+[RNN1][2018-01-09 17:45:22] Running epoch 116
+[RNN1][2018-01-09 17:45:24] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:25] Predicted:
+    while True: 0*0
+  log.P("P(erif e_file))
+  start_text
+                                                                                                                                                                                                               
+[RNN1][2018-01-09 17:45:25] Running epoch 117
+[RNN1][2018-01-09 17:45:27] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:27] Predicted:
+    while True: ep_chin os.ge tf_sel):                                                                                                                                                                                                                                   
+[RNN1][2018-01-09 17:45:27] Running epoch 118
+[RNN1][2018-01-09 17:45:29] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:30] Predicted:
+    while True: 0, lib_namangoge, tf_h_out],
+                                                                                                                                                                                                                            
+[RNN1][2018-01-09 17:45:30] Running epoch 119
+[RNN1][2018-01-09 17:45:32] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:32] Predicted:
+    while True:[ef_lden(impert.mondmamit(os.Pos"Prypab): dt_denamimporiliss = tf.rande(ssizeross(1rtfingleat_ohilin_lize)
+                                                                                                                                               
+[RNN1][2018-01-09 17:45:32] Running epoch 120
+[RNN1][2018-01-09 17:45:34] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:35] Predicted:
+    while True:  arive whtine:
+                                                                                                                                                                                                                                          
+[RNN1][2018-01-09 17:45:35] Running epoch 121
+[RNN1][2018-01-09 17:45:37] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:37] Predicted:
+    while True:  arive whis =print(sstr(shapt_text = start_text
+    iftf_tep: tf_x_input_text = pr Lorilach = con +=tf_x_seq: x_test, h_idx+1: start_idx, at:d_seq')
+    tf_h_ini: tf_h_ini: [
+    x_seq = nptame:dredt_den(heidit(path istart = sosstr_to_oh(x_seq)
+    
+[RNN1][2018-01-09 17:45:37] Running epoch 122
+[RNN1][2018-01-09 17:45:39] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:40] Predicted:
+    while True:  ariverath(seq_oh()
+    tf_h_init.ause)
+                                                                                                                                                                                                                 
+[RNN1][2018-01-09 17:45:40] Running epoch 123
+[RNN1][2018-01-09 17:45:42] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:42] Predicted:
+    while True:  arive w = tf.r.road_dint _seq - = sstr_s=tf_x_seq: tx
+ start_idx+seq_len+1]
+                                                                                                                                                                            
+[RNN1][2018-01-09 17:45:42] Running epoch 124
+[RNN1][2018-01-09 17:45:44] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:45] Predicted:
+    while True: 0, lable(Drive"), lse:  ".f
+ime_ndrtadin(os.path.join(hrils==tf_x_seq: tx_s=0
+  log.P("Rus = tf.Sess=='t(dxt_start_text)= nprelss.rut],flush)
+      x_seq_oh,
+                                                                                           
+[RNN1][2018-01-09 17:45:45] Running epoch 125
+[RNN1][2018-01-09 17:45:47] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:47] Predicted:
+    while True:  ariverats(estart_text))
+    tf_ybias = shared n
+     xtinput_text = start_text
+    iftfrt))
+      xts = tf.s_liad(drul__inpre:stfut(text[1:
+      x_seq = dat_file],
+                                                                                   
+[RNN1][2018-01-09 17:45:47] Running epoch 126
+[RNN1][2018-01-09 17:45:49] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:50] Predicted:
+    while True:  atbare = den(seq_len - len(seq_len if full_start).f.repload_midimputo_inx = 0, "Google Drive"),
+                                                                                                                                                        
+[RNN1][2018-01-09 17:45:50] Running epoch 127
+[RNN1][2018-01-09 17:45:52] Predicting with start: '    while True:'
+[RNN1][2018-01-09 17:45:52] Predicted:
+    while True:  ariverath(start_idx+1]
+      x_seq = dat_file)),  in valin(os.path.join(home_dir, "Deseq_len = 15
+                                                                                                                                                      
+[RNN1][2018-01-09 17:45:52] Running epoch 128
+[RNN1][2018-01-09 17:45:54] Predicting with start: '    while True:'
